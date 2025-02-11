@@ -11,6 +11,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      
+      - name: Pull the latest changes
+        run: |
+          git pull origin main --rebase
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,7 +32,6 @@ jobs:
           TIMESTAMP=$(date +'%Y-%m-%d_%H-%M-%S')  # Add a timestamp to make the message unique
           git config --global user.name "gacetta"
           git config --global user.email "michael.gacetta@gmail.com"
-          git pull origin main --rebase
           git add word_of_the_day.md
           git commit -m "Update word of the day for ${TIMESTAMP}" || echo "No changes to commit"
           git push
