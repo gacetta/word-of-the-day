@@ -8,7 +8,7 @@ response = requests.get(word_of_the_day_url)
 if response:
     print("Success!")
 else:
-    print("Failyed to retrieve the page")
+    print("Failed to retrieve the page")
     exit()
 html_content = response.content
 
