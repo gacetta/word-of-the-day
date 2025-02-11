@@ -4,6 +4,7 @@ on:
   schedule:
   - cron: "0 20 * * *" # Runs daily at minute: 0, hour: 20 UTC.  Every day, every month, every day of the week
   workflow_dispatch: # Allows manual triggering
+  
 jobs:
   scrape: #job name
     runs-on: ubuntu-latest #run the job on an ubuntu VM with latest OS
