@@ -29,9 +29,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          TIMESTAMP=$(date +'%Y-%m-%d_%H-%M-%S')  # Add a timestamp to make the message unique
+          DATE=$(date +'%Y-%m-%d') # Capture the current date
           git config --global user.name "gacetta"
           git config --global user.email "michael.gacetta@gmail.com"
           git add word_of_the_day.md
-          git commit -m "Update word of the day for ${TIMESTAMP}" || echo "No changes to commit"
+          git commit -m "Update word of the day for ${DATE}" || echo "No changes to commit"
           git push
