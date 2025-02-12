@@ -1,4 +1,5 @@
 # Word of the Day Scraper with GitHub Actions Automation
+![Merriam-Webster](Merriam-Webster_logo.svg)
 
 This project is a practice tool designed to scrape the [Merriam-Webster Word of the Day](https://www.merriam-webster.com/word-of-the-day/) website daily, format the data into Markdown, and append it to an existing file in the repository. The updated file is then committed and pushed back to the repository automatically using GitHub Actions.
 
