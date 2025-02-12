@@ -16,14 +16,19 @@ html_content = response.content
 soup = BeautifulSoup(html_content, "html.parser")
 word = soup.find('div', class_='word-and-pronunciation').find('h2', class_='word-header-txt').text
 definition = soup.select_one('div.wod-definition-container > p').text
+part_of_speech = soup.find("span", class_="main-attr").text.strip()
+syllables = soup.find("span", class_="word-syllables").text.strip()
+
+# "construct" additional content for md file
 link = "https://www.merriam-webster.com/dictionary/" + word
 today_date = date.today().strftime("%b %d, %Y")
 
 # Format the data for markdown
-markdown = f"""
-###### *{today_date}*
+markdown = f"""###### *{today_date}*
 ### [{word}]({link})
-{definition}\n
+<small>*{part_of_speech}*</small> | <small>{syllables}</small>
+
+{definition}
 
 ---
 """
