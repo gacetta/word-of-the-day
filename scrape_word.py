@@ -21,9 +21,11 @@ today_date = date.today().strftime("%b %d, %Y")
 
 # Format the data for markdown
 markdown = f"""
-## [{word}]({link})
+###### *{today_date}*
+### [{word}]({link})
 {definition}\n
-*{today_date}*
+
+---
 """
 
 # Write to the existing file.

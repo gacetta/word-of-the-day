@@ -2,7 +2,7 @@ name : Scrape Word of the Day
 
 on:
   schedule:
-    - cron: "30 22 * * *" # Runs daily at minute: 30, hour: 22 UTC.  Every day, every month, every day of the week
+    - cron: "00 14 * * *" # Runs daily at 14:00 UTC (6:00 PST).  Every day, every month, every day of the week
   workflow_dispatch: # Allows manual triggering
   
 jobs:
