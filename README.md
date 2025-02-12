@@ -73,3 +73,15 @@ To ruminate is to think carefully and deeply about something.
 
 ----
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to [Merriam-Webster](https://www.merriam-webster.com/) for providing an excellent resource for language enthusiasts.
+- Inspired by projects exploring web scraping with BeautifulSoup and automation with GitHub Actions.
+
+---
+
+Feel free to reach out if you have questions or suggestions!
