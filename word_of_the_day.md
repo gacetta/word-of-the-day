@@ -14,3 +14,10 @@ To ruminate is to think carefully and deeply about something.
 Hagiography is biography that idealizes or idolizes a person and their life.
 
 ---
+###### *Feb 13, 2025*
+### [gallant](https://www.merriam-webster.com/dictionary/gallant)
+<small>*adjective*</small> | <small>GAL-unt</small>
+
+Someone or something described as gallant is very courageous and brave. Gallant is also sometimes used to mean “large and impressive” (as in “a gallant ship”), or to describe someone who has or shows politeness and respect for women. 
+
+---
