@@ -30,8 +30,19 @@ jobs:
       - name: Commit and push changes
         run: |
           DATE=$(date +'%Y-%m-%d') # Capture the current date
-          git config --global user.name "gacetta"
-          git config --global user.email "michael.gacetta@gmail.com"
+
+          # Get the day of the week (1=Monday, 7=Sunday)
+          DAY_OF_WEEK=$(date +%u)
+
+          # Conditionally set Git user name and email based on the day of the week
+          if [[ "$DAY_OF_WEEK" -le 5 ]]; then
+            git config --global user.name "gacetta"
+            git config --global user.email "michael.gacetta@gmail.com"
+          else
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions@github.com"
+          fi
+          
           git add word_of_the_day.md
           git commit -m "Update word of the day for ${DATE}" || echo "No changes to commit"
           git push
