@@ -28,3 +28,10 @@ Someone or something described as gallant is very courageous and brave. Gallant 
 A billet-doux is a love letter. The word's plural is billets-doux.
 
 ---
+###### *Feb 15, 2025*
+### [livid](https://www.merriam-webster.com/dictionary/livid)
+<small>*adjective*</small> | <small>LIV-id</small>
+
+Livid means "very angry, enraged, or furious." It may also describe things having a dark purplish or reddish color.
+
+---
