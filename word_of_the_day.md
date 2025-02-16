@@ -35,3 +35,10 @@ A billet-doux is a love letter. The word's plural is billets-doux.
 Livid means "very angry, enraged, or furious." It may also describe things having a dark purplish or reddish color.
 
 ---
+###### *Feb 16, 2025*
+### [non sequitur](https://www.merriam-webster.com/dictionary/non sequitur)
+<small>*noun*</small> | <small>NAHN-SEK-wuh-ter</small>
+
+A non sequitur is a statement that either does not logically follow from, or is not clearly related to, what was previously said.
+
+---
