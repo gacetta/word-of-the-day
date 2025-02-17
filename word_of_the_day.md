@@ -42,3 +42,10 @@ Livid means "very angry, enraged, or furious." It may also describe things havin
 A non sequitur is a statement that either does not logically follow from, or is not clearly related to, what was previously said.
 
 ---
+###### *Feb 17, 2025*
+### [pertain](https://www.merriam-webster.com/dictionary/pertain)
+<small>*verb*</small> | <small>per-TAYN</small>
+
+To pertain to someone or something is to relate, refer, or have a connection to that person or thing. 
+
+---
