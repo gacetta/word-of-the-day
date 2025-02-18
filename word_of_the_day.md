@@ -49,3 +49,10 @@ A non sequitur is a statement that either does not logically follow from, or is 
 To pertain to someone or something is to relate, refer, or have a connection to that person or thing. 
 
 ---
+###### *Feb 18, 2025*
+### [chutzpah](https://www.merriam-webster.com/dictionary/chutzpah)
+<small>*noun*</small> | <small>KHOOTS-puh</small>
+
+Chutzpah is shameless or disrespectful boldness often paired with reckless self-confidence. Someone with chutzpah dares to do or say things that seem shocking to others. 
+
+---
