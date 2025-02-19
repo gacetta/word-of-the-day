@@ -56,3 +56,10 @@ To pertain to someone or something is to relate, refer, or have a connection to 
 Chutzpah is shameless or disrespectful boldness often paired with reckless self-confidence. Someone with chutzpah dares to do or say things that seem shocking to others. 
 
 ---
+###### *Feb 19, 2025*
+### [obtuse](https://www.merriam-webster.com/dictionary/obtuse)
+<small>*adjective*</small> | <small>ahb-TOOSS</small>
+
+Obtuse is a formal word that describes someone who is not able to think clearly or to understand what is obvious or simple. It can also suggest a refusal to see something apparent to others, or a willful ignorance of or insensitivity to the real facts of a situation. Obtuse can also describe something that is difficult to understand because it is unclear or imprecise.
+
+---
