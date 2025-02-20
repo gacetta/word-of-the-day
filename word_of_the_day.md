@@ -63,3 +63,10 @@ Chutzpah is shameless or disrespectful boldness often paired with reckless self-
 Obtuse is a formal word that describes someone who is not able to think clearly or to understand what is obvious or simple. It can also suggest a refusal to see something apparent to others, or a willful ignorance of or insensitivity to the real facts of a situation. Obtuse can also describe something that is difficult to understand because it is unclear or imprecise.
 
 ---
+###### *Feb 20, 2025*
+### [flounder](https://www.merriam-webster.com/dictionary/flounder)
+<small>*verb*</small> | <small>FLOUN-der</small>
+
+To flounder is to struggle, whether that struggle is about moving or obtaining footing (as in “horses floundering through deep snow”) or about knowing what to do or say.
+
+---
