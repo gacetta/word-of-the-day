@@ -70,3 +70,10 @@ Obtuse is a formal word that describes someone who is not able to think clearly 
 To flounder is to struggle, whether that struggle is about moving or obtaining footing (as in “horses floundering through deep snow”) or about knowing what to do or say.
 
 ---
+###### *Feb 21, 2025*
+### [jabberwocky](https://www.merriam-webster.com/dictionary/jabberwocky)
+<small>*noun*</small> | <small>JAB-er-wah-kee</small>
+
+Jabberwocky refers to meaningless speech or writing.
+
+---
