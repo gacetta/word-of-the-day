@@ -77,3 +77,10 @@ To flounder is to struggle, whether that struggle is about moving or obtaining f
 Jabberwocky refers to meaningless speech or writing.
 
 ---
+###### *Feb 22, 2025*
+### [astute](https://www.merriam-webster.com/dictionary/astute)
+<small>*adjective*</small> | <small>uh-STOOT</small>
+
+Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. Astute can also describe someone who is crafty or wily.
+
+---
