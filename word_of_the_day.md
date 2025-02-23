@@ -84,3 +84,10 @@ Jabberwocky refers to meaningless speech or writing.
 Someone or something described as astute has or shows an ability to notice and understand things clearly. In other words, they are mentally sharp or clever. Astute can also describe someone who is crafty or wily.
 
 ---
+###### *Feb 23, 2025*
+### [tousle](https://www.merriam-webster.com/dictionary/tousle)
+<small>*verb*</small> | <small>TOW-zul</small>
+
+To tousle something is to dishevel it—that is, to make it untidy or unkempt. Tousle is usually, though not always, used specifically when a person’s hair is being so treated. 
+
+---
