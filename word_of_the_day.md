@@ -91,3 +91,10 @@ Someone or something described as astute has or shows an ability to notice and u
 To tousle something is to dishevel it—that is, to make it untidy or unkempt. Tousle is usually, though not always, used specifically when a person’s hair is being so treated. 
 
 ---
+###### *Feb 24, 2025*
+### [quip](https://www.merriam-webster.com/dictionary/quip)
+<small>*noun*</small> | <small>KWIP</small>
+
+Quip can refer to a clever, usually taunting remark, or to a witty or funny observation or response usually made on the spur of the moment.
+
+---
