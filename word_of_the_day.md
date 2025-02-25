@@ -98,3 +98,10 @@ To tousle something is to dishevel it—that is, to make it untidy or unkempt. T
 Quip can refer to a clever, usually taunting remark, or to a witty or funny observation or response usually made on the spur of the moment.
 
 ---
+###### *Feb 25, 2025*
+### [superfluous](https://www.merriam-webster.com/dictionary/superfluous)
+<small>*adjective*</small> | <small>soo-PER-floo-us</small>
+
+Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. 
+
+---
