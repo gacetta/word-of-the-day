@@ -105,3 +105,10 @@ Quip can refer to a clever, usually taunting remark, or to a witty or funny obse
 Superfluous is a formal word used to describe things that exceed what is necessary or sufficient, or that are simply not needed. 
 
 ---
+###### *Feb 26, 2025*
+### [ignoramus](https://www.merriam-webster.com/dictionary/ignoramus)
+<small>*noun*</small> | <small>ig-nuh-RAY-mus</small>
+
+An ignoramus is an utterly ignorant or stupid person.
+
+---
