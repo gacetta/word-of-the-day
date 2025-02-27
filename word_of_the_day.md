@@ -112,3 +112,10 @@ Superfluous is a formal word used to describe things that exceed what is necessa
 An ignoramus is an utterly ignorant or stupid person.
 
 ---
+###### *Feb 27, 2025*
+### [doff](https://www.merriam-webster.com/dictionary/doff)
+<small>*verb*</small> | <small>DAHF</small>
+
+To doff a hat or other piece of clothing is to take it off.
+
+---
