@@ -119,3 +119,10 @@ An ignoramus is an utterly ignorant or stupid person.
 To doff a hat or other piece of clothing is to take it off.
 
 ---
+###### *Feb 28, 2025*
+### [cryptic](https://www.merriam-webster.com/dictionary/cryptic)
+<small>*adjective*</small> | <small>KRIP-tik</small>
+
+Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.
+
+---
