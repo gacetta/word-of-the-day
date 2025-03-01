@@ -126,3 +126,10 @@ To doff a hat or other piece of clothing is to take it off.
 Something described as cryptic has or seems to have a hidden meaning, or is difficult to understand.
 
 ---
+###### *Mar 01, 2025*
+### [factoid](https://www.merriam-webster.com/dictionary/factoid)
+<small>*noun*</small> | <small>FAK-toyd</small>
+
+A factoid is a brief and usually unimportant or trivial fact. Factoid may also refer to an invented fact believed to be true because it appears in print.
+
+---
