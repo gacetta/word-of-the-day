@@ -133,3 +133,10 @@ Something described as cryptic has or seems to have a hidden meaning, or is diff
 A factoid is a brief and usually unimportant or trivial fact. Factoid may also refer to an invented fact believed to be true because it appears in print.
 
 ---
+###### *Mar 02, 2025*
+### [transpire](https://www.merriam-webster.com/dictionary/transpire)
+<small>*verb*</small> | <small>tran-SPYRE</small>
+
+Transpire is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves. 
+
+---
