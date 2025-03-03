@@ -140,3 +140,10 @@ A factoid is a brief and usually unimportant or trivial fact. Factoid may also r
 Transpire is a formal verb that means “to happen,” or in other words “to take place or occur.” It can also mean “to come to light” or “to become known,” as in “It transpired that they had met previously.” In botany, to transpire is to give off or exude watery vapor especially from the surfaces of leaves. 
 
 ---
+###### *Mar 03, 2025*
+### [draconian](https://www.merriam-webster.com/dictionary/draconian)
+<small>*adjective*</small> | <small>dray-KOH-nee-un</small>
+
+Draconian describes something (often a law, policy, restriction, etc.) that is very severe or cruel.
+
+---
