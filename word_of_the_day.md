@@ -36,7 +36,7 @@ Livid means "very angry, enraged, or furious." It may also describe things havin
 
 ---
 ###### *Feb 16, 2025*
-### [non sequitur](https://www.merriam-webster.com/dictionary/non sequitur)
+### [non sequitur](https://www.merriam-webster.com/dictionary/non%20sequitur)
 <small>*noun*</small> | <small>NAHN-SEK-wuh-ter</small>
 
 A non sequitur is a statement that either does not logically follow from, or is not clearly related to, what was previously said.
