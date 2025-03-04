@@ -147,3 +147,10 @@ Transpire is a formal verb that means “to happen,” or in other words “to t
 Draconian describes something (often a law, policy, restriction, etc.) that is very severe or cruel.
 
 ---
+###### *Mar 04, 2025*
+### [schadenfreude](https://www.merriam-webster.com/dictionary/schadenfreude)
+<small>*noun*</small> | <small>SHAH-dun-froy-duh</small>
+
+Schadenfreude refers to a feeling of enjoyment that comes from seeing or hearing about the troubles of other people.
+
+---
