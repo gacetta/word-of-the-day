@@ -154,3 +154,10 @@ Draconian describes something (often a law, policy, restriction, etc.) that is v
 Schadenfreude refers to a feeling of enjoyment that comes from seeing or hearing about the troubles of other people.
 
 ---
+###### *Mar 05, 2025*
+### [askew](https://www.merriam-webster.com/dictionary/askew)
+<small>*adjective*</small> | <small>uh-SKYOO</small>
+
+Askew means “not straight” or “at an angle,” and can be used as both an adjective and an adverb.
+
+---
