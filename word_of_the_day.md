@@ -161,3 +161,10 @@ Schadenfreude refers to a feeling of enjoyment that comes from seeing or hearing
 Askew means “not straight” or “at an angle,” and can be used as both an adjective and an adverb.
 
 ---
+###### *Mar 06, 2025*
+### [career](https://www.merriam-webster.com/dictionary/career)
+<small>*verb*</small> | <small>kuh-REER</small>
+
+To career is to go at top speed especially in a headlong manner.
+
+---
