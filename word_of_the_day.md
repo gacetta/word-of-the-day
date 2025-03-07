@@ -168,3 +168,10 @@ Askew means “not straight” or “at an angle,” and can be used as both an 
 To career is to go at top speed especially in a headlong manner.
 
 ---
+###### *Mar 07, 2025*
+### [emollient](https://www.merriam-webster.com/dictionary/emollient)
+<small>*noun*</small> | <small>ih-MAHL-yunt</small>
+
+An emollient is something, such as a lotion, that softens or soothes.
+
+---
