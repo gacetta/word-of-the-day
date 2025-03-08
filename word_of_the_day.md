@@ -175,3 +175,10 @@ To career is to go at top speed especially in a headlong manner.
 An emollient is something, such as a lotion, that softens or soothes.
 
 ---
+###### *Mar 08, 2025*
+### [gregarious](https://www.merriam-webster.com/dictionary/gregarious)
+<small>*adjective*</small> | <small>grih-GAIR-ee-us</small>
+
+Gregarious is used to describe someone who enjoys the company of other people. 
+
+---
