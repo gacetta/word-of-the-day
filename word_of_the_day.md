@@ -182,3 +182,10 @@ An emollient is something, such as a lotion, that softens or soothes.
 Gregarious is used to describe someone who enjoys the company of other people. 
 
 ---
+###### *Mar 09, 2025*
+### [wend](https://www.merriam-webster.com/dictionary/wend)
+<small>*verb*</small> | <small>WEND</small>
+
+Wend is a literary word that means “to move slowly from one place to another usually by a winding or indirect course”; wending is traveling or proceeding on one’s way in such a manner. 
+
+---
