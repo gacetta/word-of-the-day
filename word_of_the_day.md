@@ -189,3 +189,10 @@ Gregarious is used to describe someone who enjoys the company of other people.
 Wend is a literary word that means “to move slowly from one place to another usually by a winding or indirect course”; wending is traveling or proceeding on one’s way in such a manner. 
 
 ---
+###### *Mar 10, 2025*
+### [imperturbable](https://www.merriam-webster.com/dictionary/imperturbable)
+<small>*adjective*</small> | <small>im-per-TER-buh-bul</small>
+
+Imperturbable describes someone or something marked by extreme calm; such a person or thing is very hard to disturb or upset.
+
+---
