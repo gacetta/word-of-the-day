@@ -196,3 +196,10 @@ Wend is a literary word that means “to move slowly from one place to another u
 Imperturbable describes someone or something marked by extreme calm; such a person or thing is very hard to disturb or upset.
 
 ---
+###### *Mar 11, 2025*
+### [quark](https://www.merriam-webster.com/dictionary/quark)
+<small>*noun*</small> | <small>KWORK</small>
+
+Quark is a word used in physics to refer to any one of several types of very small particles that make up matter. 
+
+---
