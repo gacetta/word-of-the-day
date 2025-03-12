@@ -203,3 +203,10 @@ Imperturbable describes someone or something marked by extreme calm; such a pers
 Quark is a word used in physics to refer to any one of several types of very small particles that make up matter. 
 
 ---
+###### *Mar 12, 2025*
+### [multifarious](https://www.merriam-webster.com/dictionary/multifarious)
+<small>*adjective*</small> | <small>mul-tuh-FAIR-ee-us</small>
+
+Something described as multifarious has great diversity or variety, or is made up of many and various kinds of things. Multifarious is a formal word and a synonym of diverse.
+
+---
