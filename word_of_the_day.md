@@ -210,3 +210,10 @@ Quark is a word used in physics to refer to any one of several types of very sma
 Something described as multifarious has great diversity or variety, or is made up of many and various kinds of things. Multifarious is a formal word and a synonym of diverse.
 
 ---
+###### *Mar 13, 2025*
+### [curfew](https://www.merriam-webster.com/dictionary/curfew)
+<small>*noun*</small> | <small>KER-fyoo</small>
+
+Curfew refers to a law or order that requires people to be indoors after a certain time at night, as well as to the period of time when such an order or law is in effect. Chiefly in the United States, curfew is also used to refer to the time set by a parent or caregiver at which a child has to be back home after going out.
+
+---
