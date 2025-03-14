@@ -217,3 +217,10 @@ Something described as multifarious has great diversity or variety, or is made u
 Curfew refers to a law or order that requires people to be indoors after a certain time at night, as well as to the period of time when such an order or law is in effect. Chiefly in the United States, curfew is also used to refer to the time set by a parent or caregiver at which a child has to be back home after going out.
 
 ---
+###### *Mar 14, 2025*
+### [bamboozle](https://www.merriam-webster.com/dictionary/bamboozle)
+<small>*verb*</small> | <small>bam-BOO-zul</small>
+
+To bamboozle someone is to deceive, trick, or confuse them.
+
+---
