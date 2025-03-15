@@ -224,3 +224,10 @@ Curfew refers to a law or order that requires people to be indoors after a certa
 To bamboozle someone is to deceive, trick, or confuse them.
 
 ---
+###### *Mar 15, 2025*
+### [stratagem](https://www.merriam-webster.com/dictionary/stratagem)
+<small>*noun*</small> | <small>STRAT-uh-jum</small>
+
+A stratagem is a trick or plan for deceiving an enemy or for achieving a goal.
+
+---
