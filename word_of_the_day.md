@@ -231,3 +231,10 @@ To bamboozle someone is to deceive, trick, or confuse them.
 A stratagem is a trick or plan for deceiving an enemy or for achieving a goal.
 
 ---
+###### *Mar 16, 2025*
+### [rife](https://www.merriam-webster.com/dictionary/rife)
+<small>*adjective*</small> | <small>RYFE</small>
+
+Rife usually describes things that are very common and often—though not always—bad or unpleasant. Rife is also commonly used in the phrase “rife with” to mean “copiously supplied” or “having a large amount of; full of.” Unlike most adjectives, rife is not used before a noun.
+
+---
