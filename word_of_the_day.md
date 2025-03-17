@@ -238,3 +238,10 @@ A stratagem is a trick or plan for deceiving an enemy or for achieving a goal.
 Rife usually describes things that are very common and often—though not always—bad or unpleasant. Rife is also commonly used in the phrase “rife with” to mean “copiously supplied” or “having a large amount of; full of.” Unlike most adjectives, rife is not used before a noun.
 
 ---
+###### *Mar 17, 2025*
+### [limerick](https://www.merriam-webster.com/dictionary/limerick)
+<small>*noun*</small> | <small>LIM-uh-rik</small>
+
+A limerick is a humorous rhyming poem of five lines. 
+
+---
