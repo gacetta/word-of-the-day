@@ -245,3 +245,10 @@ Rife usually describes things that are very common and often—though not always
 A limerick is a humorous rhyming poem of five lines. 
 
 ---
+###### *Mar 18, 2025*
+### [admonish](https://www.merriam-webster.com/dictionary/admonish)
+<small>*verb*</small> | <small>ad-MAH-nish</small>
+
+To admonish someone is to express warning or disapproval towards them, or to urge them to do something.
+
+---
