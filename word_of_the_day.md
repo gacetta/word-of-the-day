@@ -252,3 +252,10 @@ A limerick is a humorous rhyming poem of five lines.
 To admonish someone is to express warning or disapproval towards them, or to urge them to do something.
 
 ---
+###### *Mar 19, 2025*
+### [juggernaut](https://www.merriam-webster.com/dictionary/juggernaut)
+<small>*noun*</small> | <small>JUG-er-nawt</small>
+
+A juggernaut is something (such as a force, campaign, or movement) that is extremely large and powerful and cannot be stopped.
+
+---
