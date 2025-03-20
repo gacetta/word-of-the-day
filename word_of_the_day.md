@@ -259,3 +259,10 @@ To admonish someone is to express warning or disapproval towards them, or to urg
 A juggernaut is something (such as a force, campaign, or movement) that is extremely large and powerful and cannot be stopped.
 
 ---
+###### *Mar 20, 2025*
+### [vernal](https://www.merriam-webster.com/dictionary/vernal)
+<small>*adjective*</small> | <small>VER-nul</small>
+
+Vernal is a formal adjective that describes something that relates to or occurs in the spring.
+
+---
