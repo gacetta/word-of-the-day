@@ -266,3 +266,10 @@ A juggernaut is something (such as a force, campaign, or movement) that is extre
 Vernal is a formal adjective that describes something that relates to or occurs in the spring.
 
 ---
+###### *Mar 21, 2025*
+### [permeate](https://www.merriam-webster.com/dictionary/permeate)
+<small>*verb*</small> | <small>PER-mee-ayt</small>
+
+To permeate is to pass or spread through something. 
+
+---
