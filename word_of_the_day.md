@@ -273,3 +273,10 @@ Vernal is a formal adjective that describes something that relates to or occurs 
 To permeate is to pass or spread through something. 
 
 ---
+###### *Mar 22, 2025*
+### [neologism](https://www.merriam-webster.com/dictionary/neologism)
+<small>*noun*</small> | <small>nee-AH-luh-jiz-um</small>
+
+Neologism can refer either to a new word or expression or to a new meaning of an existing word.
+
+---
