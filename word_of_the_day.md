@@ -280,3 +280,10 @@ To permeate is to pass or spread through something.
 Neologism can refer either to a new word or expression or to a new meaning of an existing word.
 
 ---
+###### *Mar 23, 2025*
+### [de rigueur](https://www.merriam-webster.com/dictionary/de rigueur)
+<small>*adjective*</small> | <small>duh-ree-GUR</small>
+
+De rigueur is a formal adjective that describes things that are necessary if you want to be fashionable, popular, socially acceptable, etc.—in other words, things required by fashion, etiquette, or custom.
+
+---
