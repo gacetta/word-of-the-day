@@ -287,3 +287,10 @@ Neologism can refer either to a new word or expression or to a new meaning of an
 De rigueur is a formal adjective that describes things that are necessary if you want to be fashionable, popular, socially acceptable, etc.—in other words, things required by fashion, etiquette, or custom.
 
 ---
+###### *Mar 24, 2025*
+### [garble](https://www.merriam-webster.com/dictionary/garble)
+<small>*verb*</small> | <small>GAR-bul</small>
+
+To garble something, such as a word, name, message, etc., is to cause it to be unclear or distorted. This type of garbling can be the result of an accident, ignorance, or a transmission error. Garble can also mean "to so alter or distort as to create a wrong impression or change the meaning." 
+
+---
