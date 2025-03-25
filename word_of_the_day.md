@@ -294,3 +294,10 @@ De rigueur is a formal adjective that describes things that are necessary if you
 To garble something, such as a word, name, message, etc., is to cause it to be unclear or distorted. This type of garbling can be the result of an accident, ignorance, or a transmission error. Garble can also mean "to so alter or distort as to create a wrong impression or change the meaning." 
 
 ---
+###### *Mar 25, 2025*
+### [hobbit](https://www.merriam-webster.com/dictionary/hobbit)
+<small>*noun*</small> | <small>HAH-bit</small>
+
+A hobbit is a member of a fictitious peaceful and friendly race of small humanlike creatures that dwell underground.
+
+---
