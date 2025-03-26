@@ -301,3 +301,10 @@ To garble something, such as a word, name, message, etc., is to cause it to be u
 A hobbit is a member of a fictitious peaceful and friendly race of small humanlike creatures that dwell underground.
 
 ---
+###### *Mar 26, 2025*
+### [flippant](https://www.merriam-webster.com/dictionary/flippant)
+<small>*adjective*</small> | <small>FLIP-unt</small>
+
+Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness.
+
+---
