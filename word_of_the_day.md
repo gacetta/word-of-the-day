@@ -308,3 +308,10 @@ A hobbit is a member of a fictitious peaceful and friendly race of small humanli
 Something described as flippant, such as behavior or a comment, is lacking in proper respect or seriousness.
 
 ---
+###### *Mar 27, 2025*
+### [archetype](https://www.merriam-webster.com/dictionary/archetype)
+<small>*noun*</small> | <small>AHR-kih-type</small>
+
+Archetype refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.
+
+---
