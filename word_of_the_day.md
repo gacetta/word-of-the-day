@@ -315,3 +315,10 @@ Something described as flippant, such as behavior or a comment, is lacking in pr
 Archetype refers to someone or something that is seen to be a perfect example. It is also a word for the original pattern or model of which all things of the same type are representations or copies.
 
 ---
+###### *Mar 28, 2025*
+### [derelict](https://www.merriam-webster.com/dictionary/derelict)
+<small>*adjective*</small> | <small>DAIR-uh-likt</small>
+
+Derelict is a formal word that describes something that is no longer cared for or used by anyone. It can also describe someone who is negligent or who fails to do what needs to be done.
+
+---
