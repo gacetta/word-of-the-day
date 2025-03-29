@@ -322,3 +322,10 @@ Archetype refers to someone or something that is seen to be a perfect example. I
 Derelict is a formal word that describes something that is no longer cared for or used by anyone. It can also describe someone who is negligent or who fails to do what needs to be done.
 
 ---
+###### *Mar 29, 2025*
+### [elucidate](https://www.merriam-webster.com/dictionary/elucidate)
+<small>*verb*</small> | <small>ih-LOO-suh-dayt</small>
+
+To elucidate something is to make it clear or easy to understand.
+
+---
