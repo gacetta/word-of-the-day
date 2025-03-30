@@ -329,3 +329,10 @@ Derelict is a formal word that describes something that is no longer cared for o
 To elucidate something is to make it clear or easy to understand.
 
 ---
+###### *Mar 30, 2025*
+### [untoward](https://www.merriam-webster.com/dictionary/untoward)
+<small>*adjective*</small> | <small>un-TOH-erd</small>
+
+Untoward is a formal word that describes something that is improper or inappropriate, or that is adverse or unfavorable.
+
+---
