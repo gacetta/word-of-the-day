@@ -336,3 +336,10 @@ To elucidate something is to make it clear or easy to understand.
 Untoward is a formal word that describes something that is improper or inappropriate, or that is adverse or unfavorable.
 
 ---
+###### *Mar 31, 2025*
+### [penchant](https://www.merriam-webster.com/dictionary/penchant)
+<small>*noun*</small> | <small>PEN-chunt</small>
+
+Penchant refers to a strong liking for something, or a strong tendency to behave in a certain way. It is usually used with for. 
+
+---
