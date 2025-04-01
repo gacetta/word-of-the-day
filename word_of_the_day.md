@@ -343,3 +343,10 @@ Untoward is a formal word that describes something that is improper or inappropr
 Penchant refers to a strong liking for something, or a strong tendency to behave in a certain way. It is usually used with for. 
 
 ---
+###### *Apr 01, 2025*
+### [cynosure](https://www.merriam-webster.com/dictionary/cynosure)
+<small>*noun*</small> | <small>SYE-nuh-shur</small>
+
+A cynosure is a person or thing that attracts a lot of attention or interest. As a proper noun, Cynosure may refer to the North Star or its constellation Ursa Minor.
+
+---
