@@ -350,3 +350,10 @@ Penchant refers to a strong liking for something, or a strong tendency to behave
 A cynosure is a person or thing that attracts a lot of attention or interest. As a proper noun, Cynosure may refer to the North Star or its constellation Ursa Minor.
 
 ---
+###### *Apr 02, 2025*
+### [effusive](https://www.merriam-webster.com/dictionary/effusive)
+<small>*adjective*</small> | <small>ih-FYOO-siv</small>
+
+Someone or something described as effusive is expressing or showing a lot of emotion or enthusiasm. 
+
+---
