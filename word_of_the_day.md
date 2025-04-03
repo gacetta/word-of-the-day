@@ -357,3 +357,10 @@ A cynosure is a person or thing that attracts a lot of attention or interest. As
 Someone or something described as effusive is expressing or showing a lot of emotion or enthusiasm. 
 
 ---
+###### *Apr 03, 2025*
+### [snark](https://www.merriam-webster.com/dictionary/snark)
+<small>*noun*</small> | <small>SNAHRK</small>
+
+Snark is an informal word that refers to an attitude or expression of mocking irreverence and sarcasm.
+
+---
