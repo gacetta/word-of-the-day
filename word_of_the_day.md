@@ -364,3 +364,10 @@ Someone or something described as effusive is expressing or showing a lot of emo
 Snark is an informal word that refers to an attitude or expression of mocking irreverence and sarcasm.
 
 ---
+###### *Apr 04, 2025*
+### [hew](https://www.merriam-webster.com/dictionary/hew)
+<small>*verb*</small> | <small>HYOO</small>
+
+Hew is commonly used with to to mean "to conform to or adhere to (something)." Hew on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax. Both hewed and hewn are past participles of hew.
+
+---
