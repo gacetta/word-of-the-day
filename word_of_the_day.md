@@ -371,3 +371,10 @@ Snark is an informal word that refers to an attitude or expression of mocking ir
 Hew is commonly used with to to mean "to conform to or adhere to (something)." Hew on its own has several meanings having to do with cutting or shaping with a sharp tool, such as an ax. Both hewed and hewn are past participles of hew.
 
 ---
+###### *Apr 05, 2025*
+### [benign](https://www.merriam-webster.com/dictionary/benign)
+<small>*adjective*</small> | <small>bih-NYNE</small>
+
+Benign describes something that does not cause harm or damage. In medical contexts it is used to describe something that does not threaten life or health (as in "a benign tumor"). Additional meanings include "mild and pleasant" (as in "benign weather conditions") and "showing kindness and gentleness" (as in "a benign outlook"). 
+
+---
