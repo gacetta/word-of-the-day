@@ -378,3 +378,10 @@ Hew is commonly used with to to mean "to conform to or adhere to (something)." H
 Benign describes something that does not cause harm or damage. In medical contexts it is used to describe something that does not threaten life or health (as in "a benign tumor"). Additional meanings include "mild and pleasant" (as in "benign weather conditions") and "showing kindness and gentleness" (as in "a benign outlook"). 
 
 ---
+###### *Apr 06, 2025*
+### [impresario](https://www.merriam-webster.com/dictionary/impresario)
+<small>*noun*</small> | <small>im-pruh-SAHR-ee-oh</small>
+
+An impresario is a person who manages, puts on, or sponsors a performance or other entertainment, such as a concert, play, or sporting event.
+
+---
