@@ -385,3 +385,10 @@ Benign describes something that does not cause harm or damage. In medical contex
 An impresario is a person who manages, puts on, or sponsors a performance or other entertainment, such as a concert, play, or sporting event.
 
 ---
+###### *Apr 07, 2025*
+### [malleable](https://www.merriam-webster.com/dictionary/malleable)
+<small>*adjective*</small> | <small>MAL-ee-uh-bul</small>
+
+Something described as malleable is capable of being stretched or bent into different shapes, or capable of being easily changed or influenced.
+
+---
