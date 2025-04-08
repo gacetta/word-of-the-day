@@ -392,3 +392,10 @@ An impresario is a person who manages, puts on, or sponsors a performance or oth
 Something described as malleable is capable of being stretched or bent into different shapes, or capable of being easily changed or influenced.
 
 ---
+###### *Apr 08, 2025*
+### [apparatchik](https://www.merriam-webster.com/dictionary/apparatchik)
+<small>*noun*</small> | <small>ah-puh-RAH-chik</small>
+
+Apparatchik is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.
+
+---
