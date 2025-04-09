@@ -399,3 +399,10 @@ Something described as malleable is capable of being stretched or bent into diff
 Apparatchik is used disapprovingly to refer to a blindly devoted official, follower, or member of an organization, such as a corporation or political party.
 
 ---
+###### *Apr 09, 2025*
+### [vouchsafe](https://www.merriam-webster.com/dictionary/vouchsafe)
+<small>*verb*</small> | <small>vowch-SAYF</small>
+
+Vouchsafe is a formal and old-fashioned word meaning "to give (something) to someone as a promise or a privilege."
+
+---
