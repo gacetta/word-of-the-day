@@ -406,3 +406,10 @@ Apparatchik is used disapprovingly to refer to a blindly devoted official, follo
 Vouchsafe is a formal and old-fashioned word meaning "to give (something) to someone as a promise or a privilege."
 
 ---
+###### *Apr 10, 2025*
+### [chary](https://www.merriam-webster.com/dictionary/chary)
+<small>*adjective*</small> | <small>CHAIR-ee</small>
+
+Chary is usually used with about or of to describe someone who is cautious about doing something.
+
+---
