@@ -413,3 +413,10 @@ Vouchsafe is a formal and old-fashioned word meaning "to give (something) to som
 Chary is usually used with about or of to describe someone who is cautious about doing something.
 
 ---
+###### *Apr 11, 2025*
+### [kitsch](https://www.merriam-webster.com/dictionary/kitsch)
+<small>*noun*</small> | <small>KITCH</small>
+
+Kitsch refers to something that appeals to popular or lowbrow taste and is often cheap or tacky. Kitsch also refers to a tacky or lowbrow quality or condition.
+
+---
