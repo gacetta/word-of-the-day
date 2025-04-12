@@ -420,3 +420,10 @@ Chary is usually used with about or of to describe someone who is cautious about
 Kitsch refers to something that appeals to popular or lowbrow taste and is often cheap or tacky. Kitsch also refers to a tacky or lowbrow quality or condition.
 
 ---
+###### *Apr 12, 2025*
+### [gustatory](https://www.merriam-webster.com/dictionary/gustatory)
+<small>*adjective*</small> | <small>GUSS-tuh-tor-ee</small>
+
+Gustatory describes things that are related to or associated with eating or the sense of taste.
+
+---
