@@ -427,3 +427,10 @@ Kitsch refers to something that appeals to popular or lowbrow taste and is often
 Gustatory describes things that are related to or associated with eating or the sense of taste.
 
 ---
+###### *Apr 13, 2025*
+### [reminisce](https://www.merriam-webster.com/dictionary/reminisce)
+<small>*verb*</small> | <small>rem-uh-NISS</small>
+
+To reminisce is to talk, think, or write about things that happened in the past.
+
+---
