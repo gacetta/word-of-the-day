@@ -434,3 +434,10 @@ Gustatory describes things that are related to or associated with eating or the 
 To reminisce is to talk, think, or write about things that happened in the past.
 
 ---
+###### *Apr 14, 2025*
+### [druthers](https://www.merriam-webster.com/dictionary/druthers)
+<small>*noun plural*</small> | <small>DRUH-therz</small>
+
+Druthers is an informal word that refers to the power or opportunity to choose—in other words, free choice. It is used especially in the phrase if one had one's druthers.
+
+---
