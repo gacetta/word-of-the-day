@@ -441,3 +441,10 @@ To reminisce is to talk, think, or write about things that happened in the past.
 Druthers is an informal word that refers to the power or opportunity to choose—in other words, free choice. It is used especially in the phrase if one had one's druthers.
 
 ---
+###### *Apr 16, 2025*
+### [adversity](https://www.merriam-webster.com/dictionary/adversity)
+<small>*noun*</small> | <small>ad-VER-suh-tee</small>
+
+Adversity refers to a difficult situation or condition, or to a state of serious or continued difficulty or misfortune.
+
+---
