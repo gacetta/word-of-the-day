@@ -448,3 +448,10 @@ Druthers is an informal word that refers to the power or opportunity to chooseâ€
 Adversity refers to a difficult situation or condition, or to a state of serious or continued difficulty or misfortune.
 
 ---
+###### *Apr 17, 2025*
+### [uncouth](https://www.merriam-webster.com/dictionary/uncouth)
+<small>*adjective*</small> | <small>un-KOOTH</small>
+
+Uncouth describes things, such as language or behavior, that are impolite or socially unacceptable. A person may also be described as uncouth if they are behaving in a rude way.
+
+---
