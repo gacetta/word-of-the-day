@@ -455,3 +455,10 @@ Adversity refers to a difficult situation or condition, or to a state of serious
 Uncouth describes things, such as language or behavior, that are impolite or socially unacceptable. A person may also be described as uncouth if they are behaving in a rude way.
 
 ---
+###### *Apr 18, 2025*
+### [collaborate](https://www.merriam-webster.com/dictionary/collaborate)
+<small>*verb*</small> | <small>kuh-LAB-uh-rayt</small>
+
+To collaborate is to work with another person or group in order to do or achieve something. Collaborate can also be used disapprovingly to mean "to cooperate with or willingly assist an enemy of one's country and especially an enemy who occupies it during a war."
+
+---
