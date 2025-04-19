@@ -462,3 +462,10 @@ Uncouth describes things, such as language or behavior, that are impolite or soc
 To collaborate is to work with another person or group in order to do or achieve something. Collaborate can also be used disapprovingly to mean "to cooperate with or willingly assist an enemy of one's country and especially an enemy who occupies it during a war."
 
 ---
+###### *Apr 19, 2025*
+### [fastidious](https://www.merriam-webster.com/dictionary/fastidious)
+<small>*adjective*</small> | <small>fass-TID-ee-us</small>
+
+Someone described as fastidious is extremely or overly careful about how they do something. Fastidious may also describe someone who is difficult to please, or someone who always wants to be clean, neat, etc. 
+
+---
