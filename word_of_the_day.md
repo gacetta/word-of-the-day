@@ -469,3 +469,10 @@ To collaborate is to work with another person or group in order to do or achieve
 Someone described as fastidious is extremely or overly careful about how they do something. Fastidious may also describe someone who is difficult to please, or someone who always wants to be clean, neat, etc. 
 
 ---
+###### *Apr 20, 2025*
+### [resurrection](https://www.merriam-webster.com/dictionary/resurrection)
+<small>*noun*</small> | <small>rez-uh-REK-shun</small>
+
+In Christian theology, Resurrection (typically capitalized in this use) refers to the event in which Jesus Christ returned to life after his death. In general contexts, resurrection refers to the act of causing something that had ended or been forgotten or lost to exist again, to be used again, etc.
+
+---
