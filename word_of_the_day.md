@@ -476,3 +476,10 @@ Someone described as fastidious is extremely or overly careful about how they do
 In Christian theology, Resurrection (typically capitalized in this use) refers to the event in which Jesus Christ returned to life after his death. In general contexts, resurrection refers to the act of causing something that had ended or been forgotten or lost to exist again, to be used again, etc.
 
 ---
+###### *Apr 21, 2025*
+### [bodacious](https://www.merriam-webster.com/dictionary/bodacious)
+<small>*adjective*</small> | <small>boh-DAY-shuss</small>
+
+Bodacious is used as an informal synonym of remarkable and noteworthy, as well as sexy and voluptuous. In some dialects of the Southern and Midland US, bodacious is used by its oldest meaning: "outright, unmistakable."
+
+---
