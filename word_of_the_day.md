@@ -483,3 +483,10 @@ In Christian theology, Resurrection (typically capitalized in this use) refers t
 Bodacious is used as an informal synonym of remarkable and noteworthy, as well as sexy and voluptuous. In some dialects of the Southern and Midland US, bodacious is used by its oldest meaning: "outright, unmistakable."
 
 ---
+###### *Apr 22, 2025*
+### [liaison](https://www.merriam-webster.com/dictionary/liaison)
+<small>*noun*</small> | <small>lee-AY-zahn</small>
+
+Liaison refers to a person who helps organizations or groups work together and provide information to each other, or to a relationship that allows such interactions. Liaison can also refer to an illicit sexual relationship.
+
+---
