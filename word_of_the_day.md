@@ -490,3 +490,10 @@ Bodacious is used as an informal synonym of remarkable and noteworthy, as well a
 Liaison refers to a person who helps organizations or groups work together and provide information to each other, or to a relationship that allows such interactions. Liaison can also refer to an illicit sexual relationship.
 
 ---
+###### *Apr 23, 2025*
+### [slough](https://www.merriam-webster.com/dictionary/slough)
+<small>*verb*</small> | <small>SLUFF</small>
+
+Slough is a formal verb used for the action of getting rid of something unwanted. It is usually used with off. Slough can also mean "to lose a dead layer of (skin)" or "to become shed or cast off."
+
+---
