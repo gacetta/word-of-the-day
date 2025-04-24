@@ -497,3 +497,10 @@ Liaison refers to a person who helps organizations or groups work together and p
 Slough is a formal verb used for the action of getting rid of something unwanted. It is usually used with off. Slough can also mean "to lose a dead layer of (skin)" or "to become shed or cast off."
 
 ---
+###### *Apr 24, 2025*
+### [ostensible](https://www.merriam-webster.com/dictionary/ostensible)
+<small>*adjective*</small> | <small>ah-STEN-suh-bul</small>
+
+Ostensible is used to describe something that seems or is said to be true or real, but is possibly not true or real. In other words, it is plausible rather than demonstrably true or real. 
+
+---
