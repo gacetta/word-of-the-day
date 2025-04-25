@@ -504,3 +504,10 @@ Slough is a formal verb used for the action of getting rid of something unwanted
 Ostensible is used to describe something that seems or is said to be true or real, but is possibly not true or real. In other words, it is plausible rather than demonstrably true or real. 
 
 ---
+###### *Apr 25, 2025*
+### [travail](https://www.merriam-webster.com/dictionary/travail)
+<small>*noun*</small> | <small>truh-VAIL</small>
+
+Travail is a formal word, usually used in plural, that refers to a difficult experience or situation.
+
+---
