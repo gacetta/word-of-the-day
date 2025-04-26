@@ -511,3 +511,10 @@ Ostensible is used to describe something that seems or is said to be true or rea
 Travail is a formal word, usually used in plural, that refers to a difficult experience or situation.
 
 ---
+###### *Apr 26, 2025*
+### [nonchalant](https://www.merriam-webster.com/dictionary/nonchalant)
+<small>*adjective*</small> | <small>nahn-shuh-LAHNT</small>
+
+Someone described as nonchalant is relaxed and calm, either because they do not care about something or because they are not worried about something. Nonchalant can also be used to describe something, such as demeanor or behavior, that expresses such relaxed, calm unconcern.
+
+---
