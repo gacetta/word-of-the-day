@@ -518,3 +518,10 @@ Travail is a formal word, usually used in plural, that refers to a difficult exp
 Someone described as nonchalant is relaxed and calm, either because they do not care about something or because they are not worried about something. Nonchalant can also be used to describe something, such as demeanor or behavior, that expresses such relaxed, calm unconcern.
 
 ---
+###### *Apr 27, 2025*
+### [decimate](https://www.merriam-webster.com/dictionary/decimate)
+<small>*verb*</small> | <small>DESS-uh-mayt</small>
+
+Decimate can mean both “to destroy a large number of (plants, animals, people, etc.)” or “to severely damage or destroy a large part of (something).”
+
+---
