@@ -525,3 +525,10 @@ Someone described as nonchalant is relaxed and calm, either because they do not 
 Decimate can mean both “to destroy a large number of (plants, animals, people, etc.)” or “to severely damage or destroy a large part of (something).”
 
 ---
+###### *Apr 28, 2025*
+### [alacrity](https://www.merriam-webster.com/dictionary/alacrity)
+<small>*noun*</small> | <small>uh-LAK-ruh-tee</small>
+
+Alacrity refers to a quick and cheerful readiness to do something. 
+
+---
