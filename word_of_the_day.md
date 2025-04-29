@@ -532,3 +532,10 @@ Decimate can mean both “to destroy a large number of (plants, animals, people,
 Alacrity refers to a quick and cheerful readiness to do something. 
 
 ---
+###### *Apr 29, 2025*
+### [furtive](https://www.merriam-webster.com/dictionary/furtive)
+<small>*adjective*</small> | <small>FER-tiv</small>
+
+Furtive describes something that is done in a quiet and secret way to avoid being noticed. It can also mean "expressive of stealth" or "sly" (as in "a furtive look"), or "obtained underhandedly" (as in "furtive gains").
+
+---
