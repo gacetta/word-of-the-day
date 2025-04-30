@@ -539,3 +539,10 @@ Alacrity refers to a quick and cheerful readiness to do something.
 Furtive describes something that is done in a quiet and secret way to avoid being noticed. It can also mean "expressive of stealth" or "sly" (as in "a furtive look"), or "obtained underhandedly" (as in "furtive gains").
 
 ---
+###### *Apr 30, 2025*
+### [insouciance](https://www.merriam-webster.com/dictionary/insouciance)
+<small>*noun*</small> | <small>in-SOO-see-unss</small>
+
+Insouciance is a formal word that refers to a feeling of carefree unconcern. It can also be understood as a word for the relaxed and calm state of a person who is not worried about anything. 
+
+---
