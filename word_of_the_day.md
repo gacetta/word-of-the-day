@@ -546,3 +546,10 @@ Furtive describes something that is done in a quiet and secret way to avoid bein
 Insouciance is a formal word that refers to a feeling of carefree unconcern. It can also be understood as a word for the relaxed and calm state of a person who is not worried about anything. 
 
 ---
+###### *May 01, 2025*
+### [convoluted](https://www.merriam-webster.com/dictionary/convoluted)
+<small>*adjective*</small> | <small>KAHN-vuh-loo-tud</small>
+
+Something described as convoluted is very complicated and difficult to understand, or has many curves and turns.
+
+---
