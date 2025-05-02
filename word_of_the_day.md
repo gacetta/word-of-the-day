@@ -553,3 +553,10 @@ Insouciance is a formal word that refers to a feeling of carefree unconcern. It 
 Something described as convoluted is very complicated and difficult to understand, or has many curves and turns.
 
 ---
+###### *May 02, 2025*
+### [ziggurat](https://www.merriam-webster.com/dictionary/ziggurat)
+<small>*noun*</small> | <small>ZIG-uh-rat</small>
+
+A ziggurat is an ancient Mesopotamian temple consisting of a pyramidal structure built in successive stages with outside staircases and a shrine at the top. The word ziggurat is also sometimes used for a similarly shaped structure.
+
+---
