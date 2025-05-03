@@ -560,3 +560,10 @@ Something described as convoluted is very complicated and difficult to understan
 A ziggurat is an ancient Mesopotamian temple consisting of a pyramidal structure built in successive stages with outside staircases and a shrine at the top. The word ziggurat is also sometimes used for a similarly shaped structure.
 
 ---
+###### *May 03, 2025*
+### [sleuth](https://www.merriam-webster.com/dictionary/sleuth)
+<small>*verb*</small> | <small>SLOOTH</small>
+
+To sleuth is to carefully or methodically search for information, or to act as a detective.
+
+---
