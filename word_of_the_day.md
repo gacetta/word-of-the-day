@@ -567,3 +567,10 @@ A ziggurat is an ancient Mesopotamian temple consisting of a pyramidal structure
 To sleuth is to carefully or methodically search for information, or to act as a detective.
 
 ---
+###### *May 04, 2025*
+### [risible](https://www.merriam-webster.com/dictionary/risible)
+<small>*adjective*</small> | <small>RIZZ-uh-bul</small>
+
+Risible is a formal word used disapprovingly to describe things that deserve to be mocked or laughed at because they are absurd or unreasonable.
+
+---
