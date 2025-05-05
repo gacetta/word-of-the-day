@@ -574,3 +574,10 @@ To sleuth is to carefully or methodically search for information, or to act as a
 Risible is a formal word used disapprovingly to describe things that deserve to be mocked or laughed at because they are absurd or unreasonable.
 
 ---
+###### *May 05, 2025*
+### [plethora](https://www.merriam-webster.com/dictionary/plethora)
+<small>*noun*</small> | <small>PLETH-uh-ruh</small>
+
+Plethora refers to a very large amount or number of something. Plethora is most often used in the phrase "a plethora of."
+
+---
