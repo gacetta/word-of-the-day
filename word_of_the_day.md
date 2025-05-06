@@ -581,3 +581,10 @@ Risible is a formal word used disapprovingly to describe things that deserve to 
 Plethora refers to a very large amount or number of something. Plethora is most often used in the phrase "a plethora of."
 
 ---
+###### *May 06, 2025*
+### [exculpate](https://www.merriam-webster.com/dictionary/exculpate)
+<small>*verb*</small> | <small>EK-skull-payt</small>
+
+To exculpate someone is to prove that they are not guilty of doing something wrong.  
+
+---
