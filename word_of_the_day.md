@@ -588,3 +588,10 @@ Plethora refers to a very large amount or number of something. Plethora is most 
 To exculpate someone is to prove that they are not guilty of doing something wrong.  
 
 ---
+###### *May 07, 2025*
+### [bumptious](https://www.merriam-webster.com/dictionary/bumptious)
+<small>*adjective*</small> | <small>BUMP-shus</small>
+
+Bumptious describes people who are rudely and often noisily confident or over-assertive. It can also be applied to actions or behaviors that show this same attitude.
+
+---
