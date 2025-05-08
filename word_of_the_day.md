@@ -595,3 +595,10 @@ To exculpate someone is to prove that they are not guilty of doing something wro
 Bumptious describes people who are rudely and often noisily confident or over-assertive. It can also be applied to actions or behaviors that show this same attitude.
 
 ---
+###### *May 08, 2025*
+### [modicum](https://www.merriam-webster.com/dictionary/modicum)
+<small>*noun*</small> | <small>MAH-dih-kum</small>
+
+Modicum is a formal word that means “a small amount.” It is almost always used with of.
+
+---
