@@ -602,3 +602,10 @@ Bumptious describes people who are rudely and often noisily confident or over-as
 Modicum is a formal word that means “a small amount.” It is almost always used with of.
 
 ---
+###### *May 09, 2025*
+### [gloss](https://www.merriam-webster.com/dictionary/gloss)
+<small>*verb*</small> | <small>GLAHSS</small>
+
+To gloss a word or phrase is to provide its meaning, or in other words, to explain or define it.
+
+---
