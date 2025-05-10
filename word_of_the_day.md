@@ -609,3 +609,10 @@ Modicum is a formal word that means “a small amount.” It is almost always us
 To gloss a word or phrase is to provide its meaning, or in other words, to explain or define it.
 
 ---
+###### *May 10, 2025*
+### [uncanny](https://www.merriam-webster.com/dictionary/uncanny)
+<small>*adjective*</small> | <small>un-KAN-ee</small>
+
+Uncanny is typically used to describe something that is strange or unusual in a way that is surprising or difficult to understand. It can also describe something that seems to have a supernatural character or origin.
+
+---
