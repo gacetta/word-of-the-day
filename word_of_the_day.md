@@ -616,3 +616,10 @@ To gloss a word or phrase is to provide its meaning, or in other words, to expla
 Uncanny is typically used to describe something that is strange or unusual in a way that is surprising or difficult to understand. It can also describe something that seems to have a supernatural character or origin.
 
 ---
+###### *May 11, 2025*
+### [darling](https://www.merriam-webster.com/dictionary/darling)
+<small>*noun*</small> | <small>DAHR-ling</small>
+
+Darling can refer to a dearly loved person or to someone who is liked very much by a person or group. It can also mean “a kind and helpful person” as in, “Be a darling and carry this inside for me, would you?”
+
+---
