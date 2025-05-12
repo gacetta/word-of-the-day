@@ -623,3 +623,10 @@ Uncanny is typically used to describe something that is strange or unusual in a 
 Darling can refer to a dearly loved person or to someone who is liked very much by a person or group. It can also mean “a kind and helpful person” as in, “Be a darling and carry this inside for me, would you?”
 
 ---
+###### *May 12, 2025*
+### [fester](https://www.merriam-webster.com/dictionary/fester)
+<small>*verb*</small> | <small>FESS-ter</small>
+
+Something that festers becomes worse as time passes. Fester can also mean, in the context of wounds, sores, etc., “to become painful and infected.”
+
+---
