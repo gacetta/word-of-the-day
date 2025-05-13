@@ -630,3 +630,10 @@ Darling can refer to a dearly loved person or to someone who is liked very much 
 Something that festers becomes worse as time passes. Fester can also mean, in the context of wounds, sores, etc., “to become painful and infected.”
 
 ---
+###### *May 13, 2025*
+### [apotropaic](https://www.merriam-webster.com/dictionary/apotropaic)
+<small>*adjective*</small> | <small>ap-uh-troh-PAY-ik</small>
+
+Something described as apotropaic is designed or intended to avert evil. 
+
+---
