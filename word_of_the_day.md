@@ -637,3 +637,10 @@ Something that festers becomes worse as time passes. Fester can also mean, in th
 Something described as apotropaic is designed or intended to avert evil. 
 
 ---
+###### *May 14, 2025*
+### [scuttlebutt](https://www.merriam-webster.com/dictionary/scuttlebutt)
+<small>*noun*</small> | <small>SKUTT-ul-butt</small>
+
+Scuttlebutt refers to rumor or gossip—in other words, talk or stories about someone or something that may not be true.
+
+---
