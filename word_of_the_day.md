@@ -644,3 +644,10 @@ Something described as apotropaic is designed or intended to avert evil.
 Scuttlebutt refers to rumor or gossip—in other words, talk or stories about someone or something that may not be true.
 
 ---
+###### *May 15, 2025*
+### [impervious](https://www.merriam-webster.com/dictionary/impervious)
+<small>*adjective*</small> | <small>im-PER-vee-us</small>
+
+Impervious describes that which does not allow something (such as water or light) to enter or pass through. It is also used formally to mean “not bothered or affected by something.” Both senses of impervious are usually used with to.
+
+---
