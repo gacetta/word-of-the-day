@@ -651,3 +651,10 @@ Scuttlebutt refers to rumor or gossip—in other words, talk or stories about so
 Impervious describes that which does not allow something (such as water or light) to enter or pass through. It is also used formally to mean “not bothered or affected by something.” Both senses of impervious are usually used with to.
 
 ---
+###### *May 16, 2025*
+### [junket](https://www.merriam-webster.com/dictionary/junket)
+<small>*noun*</small> | <small>JUNK-ut</small>
+
+Junket refers to a trip that is paid for by someone else, such as a promotional trip made at another's expense, or an official's trip made at public expense.
+
+---
