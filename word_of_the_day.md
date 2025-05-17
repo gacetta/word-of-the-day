@@ -658,3 +658,10 @@ Impervious describes that which does not allow something (such as water or light
 Junket refers to a trip that is paid for by someone else, such as a promotional trip made at another's expense, or an official's trip made at public expense.
 
 ---
+###### *May 17, 2025*
+### [mercurial](https://www.merriam-webster.com/dictionary/mercurial)
+<small>*adjective*</small> | <small>mer-KYUR-ee-ul</small>
+
+Mercurial is usually used to describe someone whose mood changes quickly and unpredictably. It can also describe something that changes frequently, such as weather, or something that is lively and quick, such as someone’s wit.
+
+---
