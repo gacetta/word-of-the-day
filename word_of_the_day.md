@@ -665,3 +665,10 @@ Junket refers to a trip that is paid for by someone else, such as a promotional 
 Mercurial is usually used to describe someone whose mood changes quickly and unpredictably. It can also describe something that changes frequently, such as weather, or something that is lively and quick, such as someone’s wit.
 
 ---
+###### *May 18, 2025*
+### [talisman](https://www.merriam-webster.com/dictionary/talisman)
+<small>*noun*</small> | <small>TAL-iss-mun</small>
+
+A talisman is an object (such as a ring or stone) that is believed to have magic powers and to cause good things to happen to the person who has it.
+
+---
