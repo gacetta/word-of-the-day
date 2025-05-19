@@ -672,3 +672,10 @@ Mercurial is usually used to describe someone whose mood changes quickly and unp
 A talisman is an object (such as a ring or stone) that is believed to have magic powers and to cause good things to happen to the person who has it.
 
 ---
+###### *May 19, 2025*
+### [antithetical](https://www.merriam-webster.com/dictionary/antithetical)
+<small>*adjective*</small> | <small>an-tuh-THET-ih-kul</small>
+
+Antithetical typically describes something that is in direct and unambiguous opposition to another thing. It is often used with to.
+
+---
