@@ -679,3 +679,10 @@ A talisman is an object (such as a ring or stone) that is believed to have magic
 Antithetical typically describes something that is in direct and unambiguous opposition to another thing. It is often used with to.
 
 ---
+###### *May 20, 2025*
+### [chagrin](https://www.merriam-webster.com/dictionary/chagrin)
+<small>*noun*</small> | <small>shuh-GRIN</small>
+
+Chagrin refers to a feeling of frustration or annoyance caused by failure or disappointment.
+
+---
