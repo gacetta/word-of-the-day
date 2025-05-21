@@ -686,3 +686,10 @@ Antithetical typically describes something that is in direct and unambiguous opp
 Chagrin refers to a feeling of frustration or annoyance caused by failure or disappointment.
 
 ---
+###### *May 21, 2025*
+### [hapless](https://www.merriam-webster.com/dictionary/hapless)
+<small>*adjective*</small> | <small>HAP-lus</small>
+
+Hapless means "having no luck." It's a synonym of unfortunate.
+
+---
