@@ -693,3 +693,10 @@ Chagrin refers to a feeling of frustration or annoyance caused by failure or dis
 Hapless means "having no luck." It's a synonym of unfortunate.
 
 ---
+###### *May 22, 2025*
+### [voluble](https://www.merriam-webster.com/dictionary/voluble)
+<small>*adjective*</small> | <small>VAHL-yuh-bul</small>
+
+Someone may be described as voluble if they are talking a lot in a rapid, energetic way.
+
+---
