@@ -700,3 +700,10 @@ Hapless means "having no luck." It's a synonym of unfortunate.
 Someone may be described as voluble if they are talking a lot in a rapid, energetic way.
 
 ---
+###### *May 23, 2025*
+### [bastion](https://www.merriam-webster.com/dictionary/bastion)
+<small>*noun*</small> | <small>BAS-chun</small>
+
+A bastion is a place or system in which something (such as an idea) is protected and continues to survive.
+
+---
