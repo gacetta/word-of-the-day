@@ -707,3 +707,10 @@ Someone may be described as voluble if they are talking a lot in a rapid, energe
 A bastion is a place or system in which something (such as an idea) is protected and continues to survive.
 
 ---
+###### *May 24, 2025*
+### [limn](https://www.merriam-webster.com/dictionary/limn)
+<small>*verb*</small> | <small>LIM</small>
+
+Limn is a formal verb most often used especially in literary contexts to mean "to describe or portray," as in "a novel that limns the life of 1930s coastal Louisiana." It can also mean "to outline in clear sharp detail," as in "a tree limned by moonlight," and "to draw or paint on a surface," as in "limning a portrait."
+
+---
