@@ -714,3 +714,10 @@ A bastion is a place or system in which something (such as an idea) is protected
 Limn is a formal verb most often used especially in literary contexts to mean "to describe or portray," as in "a novel that limns the life of 1930s coastal Louisiana." It can also mean "to outline in clear sharp detail," as in "a tree limned by moonlight," and "to draw or paint on a surface," as in "limning a portrait."
 
 ---
+###### *May 25, 2025*
+### [dyspeptic](https://www.merriam-webster.com/dictionary/dyspeptic)
+<small>*adjective*</small> | <small>diss-PEP-tik</small>
+
+Dyspeptic is a formal and old-fashioned word used to describe someone who is bad-tempered (in other words, easily annoyed or angered), or something that shows or is characteristic of a bad temper. The noun form of dyspeptic is dyspepsia. 
+
+---
