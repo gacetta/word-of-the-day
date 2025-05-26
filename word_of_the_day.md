@@ -721,3 +721,10 @@ Limn is a formal verb most often used especially in literary contexts to mean "t
 Dyspeptic is a formal and old-fashioned word used to describe someone who is bad-tempered (in other words, easily annoyed or angered), or something that shows or is characteristic of a bad temper. The noun form of dyspeptic is dyspepsia. 
 
 ---
+###### *May 26, 2025*
+### [commemorate](https://www.merriam-webster.com/dictionary/commemorate)
+<small>*verb*</small> | <small>kuh-MEM-uh-rayt</small>
+
+Something, such as a plaque, statue, or parade, is said to commemorate an event, person, etc. when it serves as a memorial; it exists or is done in order to recall the event or person. A person or group commemorates an event, person, etc. by doing something special in order to remember and honor that event or person.
+
+---
