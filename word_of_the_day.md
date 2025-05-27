@@ -728,3 +728,10 @@ Dyspeptic is a formal and old-fashioned word used to describe someone who is bad
 Something, such as a plaque, statue, or parade, is said to commemorate an event, person, etc. when it serves as a memorial; it exists or is done in order to recall the event or person. A person or group commemorates an event, person, etc. by doing something special in order to remember and honor that event or person.
 
 ---
+###### *May 27, 2025*
+### [interminable](https://www.merriam-webster.com/dictionary/interminable)
+<small>*adjective*</small> | <small>in-TER-muh-nuh-bul</small>
+
+Interminable describes things that have or seem to have no end, especially because they continue for a very long time.
+
+---
