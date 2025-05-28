@@ -735,3 +735,10 @@ Something, such as a plaque, statue, or parade, is said to commemorate an event,
 Interminable describes things that have or seem to have no end, especially because they continue for a very long time.
 
 ---
+###### *May 28, 2025*
+### [fiasco](https://www.merriam-webster.com/dictionary/fiasco)
+<small>*noun*</small> | <small>fee-ASK-oh</small>
+
+A fiasco is a complete failure or disaster.
+
+---
