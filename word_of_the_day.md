@@ -742,3 +742,10 @@ Interminable describes things that have or seem to have no end, especially becau
 A fiasco is a complete failure or disaster.
 
 ---
+###### *May 29, 2025*
+### [nascent](https://www.merriam-webster.com/dictionary/nascent)
+<small>*adjective*</small> | <small>NASS-unt</small>
+
+Nascent is a formal word used to describe something that is just beginning to exist, or in other words, is recently formed or developed.
+
+---
