@@ -749,3 +749,10 @@ A fiasco is a complete failure or disaster.
 Nascent is a formal word used to describe something that is just beginning to exist, or in other words, is recently formed or developed.
 
 ---
+###### *May 30, 2025*
+### [gust](https://www.merriam-webster.com/dictionary/gust)
+<small>*noun*</small> | <small>GUST</small>
+
+Gust refers to a sudden strong wind. It is also used figuratively for a sudden outburst of something, such as a feeling. 
+
+---
