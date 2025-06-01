@@ -763,3 +763,10 @@ Gust refers to a sudden strong wind. It is also used figuratively for a sudden o
 Opportune describes something that is suitable or convenient for a particular situation, or that is done or happening at an appropriate time.
 
 ---
+###### *Jun 01, 2025*
+### [proscribe](https://www.merriam-webster.com/dictionary/proscribe)
+<small>*verb*</small> | <small>proh-SCRYBE</small>
+
+Proscribe is a formal word meaning “to condemn or forbid something as harmful or unlawful.” More broadly, it can mean simply “to not allow something.”
+
+---
