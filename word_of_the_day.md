@@ -770,3 +770,10 @@ Opportune describes something that is suitable or convenient for a particular si
 Proscribe is a formal word meaning “to condemn or forbid something as harmful or unlawful.” More broadly, it can mean simply “to not allow something.”
 
 ---
+###### *Jun 02, 2025*
+### [Herculean](https://www.merriam-webster.com/dictionary/Herculean)
+<small>*adjective*</small> | <small>her-kyuh-LEE-un</small>
+
+Something described as Herculean (often uncapitalized as herculean) is characterized by extraordinary power, extent, intensity, or difficulty. 
+
+---
