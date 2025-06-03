@@ -777,3 +777,10 @@ Proscribe is a formal word meaning “to condemn or forbid something as harmful 
 Something described as Herculean (often uncapitalized as herculean) is characterized by extraordinary power, extent, intensity, or difficulty. 
 
 ---
+###### *Jun 03, 2025*
+### [tutelage](https://www.merriam-webster.com/dictionary/tutelage)
+<small>*noun*</small> | <small>TOO-tuh-lij</small>
+
+Tutelage is a formal word that refers to the instruction or guidance especially of an individual student by a teacher. Tutelage may also refer to an act or process of serving as guardian or protector.
+
+---
