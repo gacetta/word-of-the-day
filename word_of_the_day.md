@@ -784,3 +784,10 @@ Something described as Herculean (often uncapitalized as herculean) is character
 Tutelage is a formal word that refers to the instruction or guidance especially of an individual student by a teacher. Tutelage may also refer to an act or process of serving as guardian or protector.
 
 ---
+###### *Jun 04, 2025*
+### [bogus](https://www.merriam-webster.com/dictionary/bogus)
+<small>*adjective*</small> | <small>BOH-gus</small>
+
+Bogus is an informal word used to describe something that is not real or genuine, making it a synonym of such words as fake, false, and counterfeit. 
+
+---
