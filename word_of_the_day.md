@@ -791,3 +791,10 @@ Tutelage is a formal word that refers to the instruction or guidance especially 
 Bogus is an informal word used to describe something that is not real or genuine, making it a synonym of such words as fake, false, and counterfeit. 
 
 ---
+###### *Jun 05, 2025*
+### [sea change](https://www.merriam-webster.com/dictionary/sea change)
+<small>*noun*</small> | <small>SEE-CHAYNJ</small>
+
+Sea change refers to a big and sudden change or transformation.
+
+---
