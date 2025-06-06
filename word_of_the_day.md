@@ -798,3 +798,10 @@ Bogus is an informal word used to describe something that is not real or genuine
 Sea change refers to a big and sudden change or transformation.
 
 ---
+###### *Jun 06, 2025*
+### [festoon](https://www.merriam-webster.com/dictionary/festoon)
+<small>*verb*</small> | <small>fess-TOON</small>
+
+Festoon usually means "to cover or decorate (something) with many small objects, pieces of paper, etc.," or "to appear here and there on the surface of." It can also mean "to hang decorative chains or strips on." 
+
+---
