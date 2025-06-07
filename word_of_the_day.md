@@ -805,3 +805,10 @@ Sea change refers to a big and sudden change or transformation.
 Festoon usually means "to cover or decorate (something) with many small objects, pieces of paper, etc.," or "to appear here and there on the surface of." It can also mean "to hang decorative chains or strips on." 
 
 ---
+###### *Jun 07, 2025*
+### [abstruse](https://www.merriam-webster.com/dictionary/abstruse)
+<small>*adjective*</small> | <small>ub-STROOSS</small>
+
+Abstruse is a formal word used to describe something that is hard to understand.
+
+---
