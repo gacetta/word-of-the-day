@@ -812,3 +812,10 @@ Festoon usually means "to cover or decorate (something) with many small objects,
 Abstruse is a formal word used to describe something that is hard to understand.
 
 ---
+###### *Jun 08, 2025*
+### [cataract](https://www.merriam-webster.com/dictionary/cataract)
+<small>*noun*</small> | <small>KAT-uh-rakt</small>
+
+Cataract refers to a clouding of the lens of the eye, or of its surrounding transparent membrane, that obstructs the passage of light. Cataract is also used, often in literature, to refer to a waterfall, steep rapids in a river, or to a downpour or flood.
+
+---
