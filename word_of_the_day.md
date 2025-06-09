@@ -819,3 +819,10 @@ Abstruse is a formal word used to describe something that is hard to understand.
 Cataract refers to a clouding of the lens of the eye, or of its surrounding transparent membrane, that obstructs the passage of light. Cataract is also used, often in literature, to refer to a waterfall, steep rapids in a river, or to a downpour or flood.
 
 ---
+###### *Jun 09, 2025*
+### [eloquent](https://www.merriam-webster.com/dictionary/eloquent)
+<small>*adjective*</small> | <small>EL-uh-kwunt</small>
+
+An eloquent speaker or writer expresses ideas forcefully and fluently; an eloquent speech or piece of writing likewise expresses ideas in such a way. Eloquent can also describe something that is vividly or movingly expressive.
+
+---
