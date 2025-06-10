@@ -826,3 +826,10 @@ Cataract refers to a clouding of the lens of the eye, or of its surrounding tran
 An eloquent speaker or writer expresses ideas forcefully and fluently; an eloquent speech or piece of writing likewise expresses ideas in such a way. Eloquent can also describe something that is vividly or movingly expressive.
 
 ---
+###### *Jun 10, 2025*
+### [minutia](https://www.merriam-webster.com/dictionary/minutia)
+<small>*noun*</small> | <small>muh-NOO-shee-uh</small>
+
+Minutia refers to a small or minor detail. It is usually used in its plural form minutiae. 
+
+---
