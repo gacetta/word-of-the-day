@@ -833,3 +833,10 @@ An eloquent speaker or writer expresses ideas forcefully and fluently; an eloque
 Minutia refers to a small or minor detail. It is usually used in its plural form minutiae. 
 
 ---
+###### *Jun 11, 2025*
+### [debilitating](https://www.merriam-webster.com/dictionary/debilitating)
+<small>*adjective*</small> | <small>dih-BILL-uh-tay-ting</small>
+
+Debilitating is a formal word used to describe things that seriously impair strength or the ability to function.
+
+---
