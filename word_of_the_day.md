@@ -840,3 +840,10 @@ Minutia refers to a small or minor detail. It is usually used in its plural form
 Debilitating is a formal word used to describe things that seriously impair strength or the ability to function.
 
 ---
+###### *Jun 12, 2025*
+### [impute](https://www.merriam-webster.com/dictionary/impute)
+<small>*verb*</small> | <small>im-PYOOT</small>
+
+To impute something, such as a motive, act, or emotion, to a person or thing is to assert that the person or thing is guilty of that motive, act, emotion, etc.
+
+---
