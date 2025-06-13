@@ -847,3 +847,10 @@ Debilitating is a formal word used to describe things that seriously impair stre
 To impute something, such as a motive, act, or emotion, to a person or thing is to assert that the person or thing is guilty of that motive, act, emotion, etc.
 
 ---
+###### *Jun 13, 2025*
+### [rambunctious](https://www.merriam-webster.com/dictionary/rambunctious)
+<small>*adjective*</small> | <small>ram-BUNK-shuss</small>
+
+Rambunctious describes someone or something showing uncontrolled exuberance. 
+
+---
