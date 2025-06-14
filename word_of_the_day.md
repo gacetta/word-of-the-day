@@ -854,3 +854,10 @@ To impute something, such as a motive, act, or emotion, to a person or thing is 
 Rambunctious describes someone or something showing uncontrolled exuberance. 
 
 ---
+###### *Jun 14, 2025*
+### [vexillology](https://www.merriam-webster.com/dictionary/vexillology)
+<small>*noun*</small> | <small>vek-suh-LAH-luh-jee</small>
+
+Vexillology is the study of flags.
+
+---
