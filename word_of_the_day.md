@@ -861,3 +861,10 @@ Rambunctious describes someone or something showing uncontrolled exuberance.
 Vexillology is the study of flags.
 
 ---
+###### *Jun 15, 2025*
+### [progeny](https://www.merriam-webster.com/dictionary/progeny)
+<small>*noun*</small> | <small>PRAH-juh-nee</small>
+
+Progeny refers to the child or descendant of a particular parent or family. Progeny can also refer to the offspring of an animal or plant, or broadly to something that is the product of something else. The plural of progeny is progeny.
+
+---
