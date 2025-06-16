@@ -868,3 +868,10 @@ Vexillology is the study of flags.
 Progeny refers to the child or descendant of a particular parent or family. Progeny can also refer to the offspring of an animal or plant, or broadly to something that is the product of something else. The plural of progeny is progeny.
 
 ---
+###### *Jun 16, 2025*
+### [garrulous](https://www.merriam-webster.com/dictionary/garrulous)
+<small>*adjective*</small> | <small>GAIR-uh-lus</small>
+
+Someone described as garrulous is very talkative. When garrulous is used to describe a piece of language (such as a speech), it means “containing many and often too many words; wordy.” 
+
+---
