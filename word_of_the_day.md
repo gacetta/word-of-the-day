@@ -875,3 +875,10 @@ Progeny refers to the child or descendant of a particular parent or family. Prog
 Someone described as garrulous is very talkative. When garrulous is used to describe a piece of language (such as a speech), it means “containing many and often too many words; wordy.” 
 
 ---
+###### *Jun 17, 2025*
+### [apologia](https://www.merriam-webster.com/dictionary/apologia)
+<small>*noun*</small> | <small>ap-uh-LOH-jee-uh</small>
+
+An apologia is a defense especially of one's opinions, position, or actions.
+
+---
