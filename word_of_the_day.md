@@ -882,3 +882,10 @@ Someone described as garrulous is very talkative. When garrulous is used to desc
 An apologia is a defense especially of one's opinions, position, or actions.
 
 ---
+###### *Jun 18, 2025*
+### [jeopardize](https://www.merriam-webster.com/dictionary/jeopardize)
+<small>*verb*</small> | <small>JEP-er-dyze</small>
+
+To jeopardize something or someone is to put them at risk or in danger.
+
+---
