@@ -889,3 +889,10 @@ An apologia is a defense especially of one's opinions, position, or actions.
 To jeopardize something or someone is to put them at risk or in danger.
 
 ---
+###### *Jun 19, 2025*
+### [emancipation](https://www.merriam-webster.com/dictionary/emancipation)
+<small>*noun*</small> | <small>ih-man-suh-PAY-shun</small>
+
+Emancipation refers to the act of freeing someone from the restraint, control, or power of another. It is used especially for the act of freeing someone from slavery.
+
+---
