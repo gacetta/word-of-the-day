@@ -896,3 +896,10 @@ To jeopardize something or someone is to put them at risk or in danger.
 Emancipation refers to the act of freeing someone from the restraint, control, or power of another. It is used especially for the act of freeing someone from slavery.
 
 ---
+###### *Jun 20, 2025*
+### [convivial](https://www.merriam-webster.com/dictionary/convivial)
+<small>*adjective*</small> | <small>kun-VIV-ee-ul</small>
+
+Convivial means "relating to, occupied with, or fond of feasting, drinking, and good company."
+
+---
