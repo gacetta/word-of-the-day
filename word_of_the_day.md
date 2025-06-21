@@ -903,3 +903,10 @@ Emancipation refers to the act of freeing someone from the restraint, control, o
 Convivial means "relating to, occupied with, or fond of feasting, drinking, and good company."
 
 ---
+###### *Jun 21, 2025*
+### [litmus test](https://www.merriam-webster.com/dictionary/litmus test)
+<small>*noun*</small> | <small>LIT-mus-TEST</small>
+
+A litmus test is something (such as an opinion about a political or moral issue) that is used to make a judgment about whether someone or something is acceptable.
+
+---
