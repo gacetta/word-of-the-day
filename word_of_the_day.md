@@ -910,3 +910,10 @@ Convivial means "relating to, occupied with, or fond of feasting, drinking, and 
 A litmus test is something (such as an opinion about a political or moral issue) that is used to make a judgment about whether someone or something is acceptable.
 
 ---
+###### *Jun 22, 2025*
+### [bemuse](https://www.merriam-webster.com/dictionary/bemuse)
+<small>*verb*</small> | <small>bih-MYOOZ</small>
+
+If you are bemused by something, you are confused or bewildered by it, and often also somewhat amused.
+
+---
