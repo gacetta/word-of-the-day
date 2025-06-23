@@ -917,3 +917,10 @@ A litmus test is something (such as an opinion about a political or moral issue)
 If you are bemused by something, you are confused or bewildered by it, and often also somewhat amused.
 
 ---
+###### *Jun 23, 2025*
+### [wherewithal](https://www.merriam-webster.com/dictionary/wherewithal)
+<small>*noun*</small> | <small>WAIR-wih-thawl</small>
+
+Wherewithal refers to the means, skills, resources, or money that is needed to get or do something.
+
+---
