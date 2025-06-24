@@ -924,3 +924,10 @@ If you are bemused by something, you are confused or bewildered by it, and often
 Wherewithal refers to the means, skills, resources, or money that is needed to get or do something.
 
 ---
+###### *Jun 24, 2025*
+### [noisome](https://www.merriam-webster.com/dictionary/noisome)
+<small>*adjective*</small> | <small>NOY-sum</small>
+
+Noisome is a formal and literary word used to describe things that are very unpleasant or disgusting; it is used especially to describe offensive smells. Noisome can also mean “highly obnoxious or objectionable” as in “we were put off by their noisome habits.”
+
+---
