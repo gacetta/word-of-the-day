@@ -931,3 +931,10 @@ Wherewithal refers to the means, skills, resources, or money that is needed to g
 Noisome is a formal and literary word used to describe things that are very unpleasant or disgusting; it is used especially to describe offensive smells. Noisome can also mean “highly obnoxious or objectionable” as in “we were put off by their noisome habits.”
 
 ---
+###### *Jun 25, 2025*
+### [flotsam](https://www.merriam-webster.com/dictionary/flotsam)
+<small>*noun*</small> | <small>FLAHT-sum</small>
+
+Flotsam refers to the floating pieces that remain after a shipwreck, or more broadly to any floating debris or wreckage. It is also used figuratively to refer to miscellaneous or unimportant material, often in the phrase "flotsam and jetsam." 
+
+---
