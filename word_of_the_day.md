@@ -938,3 +938,10 @@ Noisome is a formal and literary word used to describe things that are very unpl
 Flotsam refers to the floating pieces that remain after a shipwreck, or more broadly to any floating debris or wreckage. It is also used figuratively to refer to miscellaneous or unimportant material, often in the phrase "flotsam and jetsam." 
 
 ---
+###### *Jun 26, 2025*
+### [sumptuous](https://www.merriam-webster.com/dictionary/sumptuous)
+<small>*adjective*</small> | <small>SUMP-shuh-wus</small>
+
+Sumptuous is used to describe things that are very expensive, rich, luxurious, or magnificent.
+
+---
