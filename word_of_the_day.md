@@ -945,3 +945,10 @@ Flotsam refers to the floating pieces that remain after a shipwreck, or more bro
 Sumptuous is used to describe things that are very expensive, rich, luxurious, or magnificent.
 
 ---
+###### *Jun 27, 2025*
+### [oblige](https://www.merriam-webster.com/dictionary/oblige)
+<small>*verb*</small> | <small>uh-BLYJE</small>
+
+To oblige a person or entity to do something is to require or force them to do it, either because of a law or rule, or because it is necessary. To simply oblige someone is to do them a favor.  
+
+---
