@@ -952,3 +952,10 @@ Sumptuous is used to describe things that are very expensive, rich, luxurious, o
 To oblige a person or entity to do something is to require or force them to do it, either because of a law or rule, or because it is necessary. To simply oblige someone is to do them a favor.  
 
 ---
+###### *Jun 28, 2025*
+### [restive](https://www.merriam-webster.com/dictionary/restive)
+<small>*adjective*</small> | <small>RES-tiv</small>
+
+Restive can describe a person or group feeling impatience or uneasiness, or it can describe someone who is stubbornly resistant to control.
+
+---
