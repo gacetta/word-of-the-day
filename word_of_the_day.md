@@ -959,3 +959,10 @@ To oblige a person or entity to do something is to require or force them to do i
 Restive can describe a person or group feeling impatience or uneasiness, or it can describe someone who is stubbornly resistant to control.
 
 ---
+###### *Jun 29, 2025*
+### [impetus](https://www.merriam-webster.com/dictionary/impetus)
+<small>*noun*</small> | <small>IM-puh-tus</small>
+
+Impetus refers to a force or impulse that causes something (such as a process or activity) to be done or to become more active. It is often used with for and sometimes with to.
+
+---
