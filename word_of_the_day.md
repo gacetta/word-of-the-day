@@ -966,3 +966,10 @@ Restive can describe a person or group feeling impatience or uneasiness, or it c
 Impetus refers to a force or impulse that causes something (such as a process or activity) to be done or to become more active. It is often used with for and sometimes with to.
 
 ---
+###### *Jun 30, 2025*
+### [expunge](https://www.merriam-webster.com/dictionary/expunge)
+<small>*verb*</small> | <small>ik-SPUNJ</small>
+
+To expunge something is to remove it completely, whether by obliterating it, striking it out, or marking it for deletion. Expunge is most commonly applied in cases in which documentation of something is removed from an official record.
+
+---
