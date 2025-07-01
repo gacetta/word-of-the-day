@@ -973,3 +973,10 @@ Impetus refers to a force or impulse that causes something (such as a process or
 To expunge something is to remove it completely, whether by obliterating it, striking it out, or marking it for deletion. Expunge is most commonly applied in cases in which documentation of something is removed from an official record.
 
 ---
+###### *Jul 01, 2025*
+### [verbose](https://www.merriam-webster.com/dictionary/verbose)
+<small>*adjective*</small> | <small>ver-BOHSS</small>
+
+Someone described as verbose tends to use many words to convey their point. Verbose can also describe something, such as a speech, that contains more words than necessary.
+
+---
