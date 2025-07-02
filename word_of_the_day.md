@@ -980,3 +980,10 @@ To expunge something is to remove it completely, whether by obliterating it, str
 Someone described as verbose tends to use many words to convey their point. Verbose can also describe something, such as a speech, that contains more words than necessary.
 
 ---
+###### *Jul 02, 2025*
+### [galumph](https://www.merriam-webster.com/dictionary/galumph)
+<small>*verb*</small> | <small>guh-LUMF</small>
+
+To galumph is to move in a loud and clumsy way.
+
+---
