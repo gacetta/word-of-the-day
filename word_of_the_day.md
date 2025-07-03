@@ -987,3 +987,10 @@ Someone described as verbose tends to use many words to convey their point. Verb
 To galumph is to move in a loud and clumsy way.
 
 ---
+###### *Jul 03, 2025*
+### [desultory](https://www.merriam-webster.com/dictionary/desultory)
+<small>*adjective*</small> | <small>DEH-sul-tor-ee</small>
+
+Desultory is a formal word used to describe something that lacks a plan or purpose, or that occurs without regularity. It can also describe something unconnected to a main subject, or something that is disappointing in progress, performance, or quality.
+
+---
