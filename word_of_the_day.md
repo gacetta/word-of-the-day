@@ -1001,3 +1001,10 @@ Desultory is a formal word used to describe something that lacks a plan or purpo
 Yankee can refer broadly to anyone born or living in the U.S., more narrowly to only those in the northern U.S., or even more narrowly to only those in the states of New England. The broadest use is especially common outside the U.S.
 
 ---
+###### *Jul 05, 2025*
+### [cantankerous](https://www.merriam-webster.com/dictionary/cantankerous)
+<small>*adjective*</small> | <small>kan-TANK-uh-rus</small>
+
+A cantankerous person is often angry and annoyed, and a cantankerous animal or thing is difficult or irritating to deal with.
+
+---
