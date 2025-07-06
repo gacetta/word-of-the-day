@@ -1008,3 +1008,10 @@ Yankee can refer broadly to anyone born or living in the U.S., more narrowly to 
 A cantankerous person is often angry and annoyed, and a cantankerous animal or thing is difficult or irritating to deal with.
 
 ---
+###### *Jul 06, 2025*
+### [antic](https://www.merriam-webster.com/dictionary/antic)
+<small>*noun*</small> | <small>AN-tik</small>
+
+Antic refers to an attention-drawing, often wildly playful or funny act or action. It is usually used in its plural form, and is often used disapprovingly. 
+
+---
