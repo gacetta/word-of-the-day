@@ -1015,3 +1015,10 @@ A cantankerous person is often angry and annoyed, and a cantankerous animal or t
 Antic refers to an attention-drawing, often wildly playful or funny act or action. It is usually used in its plural form, and is often used disapprovingly. 
 
 ---
+###### *Jul 07, 2025*
+### [procrastinate](https://www.merriam-webster.com/dictionary/procrastinate)
+<small>*verb*</small> | <small>pruh-KRASS-tuh-nayt</small>
+
+To procrastinate is to be slow or late about doing something that should be done, or about doing or attending to things in general.
+
+---
