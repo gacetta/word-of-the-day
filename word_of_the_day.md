@@ -1022,3 +1022,10 @@ Antic refers to an attention-drawing, often wildly playful or funny act or actio
 To procrastinate is to be slow or late about doing something that should be done, or about doing or attending to things in general.
 
 ---
+###### *Jul 08, 2025*
+### [exemplary](https://www.merriam-webster.com/dictionary/exemplary)
+<small>*adjective*</small> | <small>ig-ZEM-pluh-ree</small>
+
+Something described as exemplary is extremely good and deserves to be admired and copied. 
+
+---
