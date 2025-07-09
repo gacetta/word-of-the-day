@@ -1029,3 +1029,10 @@ To procrastinate is to be slow or late about doing something that should be done
 Something described as exemplary is extremely good and deserves to be admired and copied. 
 
 ---
+###### *Jul 09, 2025*
+### [simulacrum](https://www.merriam-webster.com/dictionary/simulacrum)
+<small>*noun*</small> | <small>sim-yuh-LAK-rum</small>
+
+A simulacrum is a superficial likeness of something, usually as an imitation, copy, or representation. The plural of simulacrum is either simulacrums or simulacra.
+
+---
