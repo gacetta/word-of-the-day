@@ -1036,3 +1036,10 @@ Something described as exemplary is extremely good and deserves to be admired an
 A simulacrum is a superficial likeness of something, usually as an imitation, copy, or representation. The plural of simulacrum is either simulacrums or simulacra.
 
 ---
+###### *Jul 10, 2025*
+### [boffo](https://www.merriam-webster.com/dictionary/boffo)
+<small>*adjective*</small> | <small>BAH-foh</small>
+
+Boffo is an informal word that describes things that are extremely good or successful.
+
+---
