@@ -1043,3 +1043,10 @@ A simulacrum is a superficial likeness of something, usually as an imitation, co
 Boffo is an informal word that describes things that are extremely good or successful.
 
 ---
+###### *Jul 11, 2025*
+### [rescind](https://www.merriam-webster.com/dictionary/rescind)
+<small>*verb*</small> | <small>rih-SIND</small>
+
+To rescind something, such as a law, contract, agreement, etc., is to end it officially. Rescind can also mean “to take back; to cancel.”
+
+---
