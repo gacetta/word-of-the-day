@@ -1050,3 +1050,10 @@ Boffo is an informal word that describes things that are extremely good or succe
 To rescind something, such as a law, contract, agreement, etc., is to end it officially. Rescind can also mean “to take back; to cancel.”
 
 ---
+###### *Jul 12, 2025*
+### [impunity](https://www.merriam-webster.com/dictionary/impunity)
+<small>*noun*</small> | <small>im-PYOO-nuh-tee</small>
+
+Impunity, usually used in the phrase "with impunity," refers to exemption or freedom from punishment, harm, or loss.
+
+---
