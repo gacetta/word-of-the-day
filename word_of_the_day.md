@@ -1057,3 +1057,10 @@ To rescind something, such as a law, contract, agreement, etc., is to end it off
 Impunity, usually used in the phrase "with impunity," refers to exemption or freedom from punishment, harm, or loss.
 
 ---
+###### *Jul 13, 2025*
+### [contrite](https://www.merriam-webster.com/dictionary/contrite)
+<small>*adjective*</small> | <small>kun-TRYTE</small>
+
+Contrite is a formal adjective used to describe someone who feels regret for their bad behavior, or something, such as an apology, that shows such regret.
+
+---
