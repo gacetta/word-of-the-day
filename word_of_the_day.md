@@ -1064,3 +1064,10 @@ Impunity, usually used in the phrase "with impunity," refers to exemption or fre
 Contrite is a formal adjective used to describe someone who feels regret for their bad behavior, or something, such as an apology, that shows such regret.
 
 ---
+###### *Jul 14, 2025*
+### [nuance](https://www.merriam-webster.com/dictionary/nuance)
+<small>*noun*</small> | <small>NOO-ahnss</small>
+
+A nuance is a very small difference in something, such as color, tone, meaning, etc.
+
+---
