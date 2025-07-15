@@ -1071,3 +1071,10 @@ Contrite is a formal adjective used to describe someone who feels regret for the
 A nuance is a very small difference in something, such as color, tone, meaning, etc.
 
 ---
+###### *Jul 15, 2025*
+### [tantalize](https://www.merriam-webster.com/dictionary/tantalize)
+<small>*verb*</small> | <small>TAN-tuh-lyze</small>
+
+To tantalize someone is to cause them to feel interest or excitement about something that is very attractive, appealing, etc.
+
+---
