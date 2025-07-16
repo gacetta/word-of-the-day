@@ -1078,3 +1078,10 @@ A nuance is a very small difference in something, such as color, tone, meaning, 
 To tantalize someone is to cause them to feel interest or excitement about something that is very attractive, appealing, etc.
 
 ---
+###### *Jul 16, 2025*
+### [abject](https://www.merriam-webster.com/dictionary/abject)
+<small>*adjective*</small> | <small>AB-jekt</small>
+
+Abject usually describes things that are extremely bad or severe. It can also describe something that feels or shows shame, or someone lacking courage or strength.
+
+---
