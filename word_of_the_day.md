@@ -1085,3 +1085,10 @@ To tantalize someone is to cause them to feel interest or excitement about somet
 Abject usually describes things that are extremely bad or severe. It can also describe something that feels or shows shame, or someone lacking courage or strength.
 
 ---
+###### *Jul 17, 2025*
+### [fugitive](https://www.merriam-webster.com/dictionary/fugitive)
+<small>*noun*</small> | <small>FYOO-juh-tiv</small>
+
+Fugitive refers to a person who runs away to avoid being captured or arrested. 
+
+---
