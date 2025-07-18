@@ -1092,3 +1092,10 @@ Abject usually describes things that are extremely bad or severe. It can also de
 Fugitive refers to a person who runs away to avoid being captured or arrested. 
 
 ---
+###### *Jul 18, 2025*
+### [meritorious](https://www.merriam-webster.com/dictionary/meritorious)
+<small>*adjective*</small> | <small>mair-uh-TOR-ee-us</small>
+
+Meritorious is a formal adjective used to describe something that is deserving of honor, praise, or esteem.
+
+---
