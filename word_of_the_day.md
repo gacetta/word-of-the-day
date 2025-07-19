@@ -1099,3 +1099,10 @@ Fugitive refers to a person who runs away to avoid being captured or arrested.
 Meritorious is a formal adjective used to describe something that is deserving of honor, praise, or esteem.
 
 ---
+###### *Jul 19, 2025*
+### [devise](https://www.merriam-webster.com/dictionary/devise)
+<small>*verb*</small> | <small>dih-VYZE</small>
+
+To devise is to invent or plan something that is difficult or complicated in some way. 
+
+---
