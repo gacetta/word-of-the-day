@@ -1106,3 +1106,10 @@ Meritorious is a formal adjective used to describe something that is deserving o
 To devise is to invent or plan something that is difficult or complicated in some way. 
 
 ---
+###### *Jul 20, 2025*
+### [utmost](https://www.merriam-webster.com/dictionary/utmost)
+<small>*adjective*</small> | <small>UT-mohst</small>
+
+Utmost describes something that is the greatest or highest in degree, number, or amount. 
+
+---
