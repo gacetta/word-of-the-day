@@ -1113,3 +1113,10 @@ To devise is to invent or plan something that is difficult or complicated in som
 Utmost describes something that is the greatest or highest in degree, number, or amount. 
 
 ---
+###### *Jul 21, 2025*
+### [hubris](https://www.merriam-webster.com/dictionary/hubris)
+<small>*noun*</small> | <small>HYOO-bris</small>
+
+Hubris is a formal and literary word that refers to a great or foolish amount of pride or confidence.
+
+---
