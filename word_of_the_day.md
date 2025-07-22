@@ -1120,3 +1120,10 @@ Utmost describes something that is the greatest or highest in degree, number, or
 Hubris is a formal and literary word that refers to a great or foolish amount of pride or confidence.
 
 ---
+###### *Jul 22, 2025*
+### [jettison](https://www.merriam-webster.com/dictionary/jettison)
+<small>*verb*</small> | <small>JET-uh-sun</small>
+
+When you jettison something, you get rid of it either because it is not needed or because it is impeding your progress or otherwise weighing you down. 
+
+---
