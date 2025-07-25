@@ -1141,3 +1141,10 @@ Like sluggish and groggy, logy describes a person who is not able to think or mo
 A panacea is something that is regarded as a cure-all—that is, something that will make everything about a situation better.
 
 ---
+###### *Jul 25, 2025*
+### [sui generis](https://www.merriam-webster.com/dictionary/sui generis)
+<small>*adjective*</small> | <small>soo-eye-JEN-uh-ris</small>
+
+Sui generis is a formal adjective used to describe someone or something in a class or group of its own, or in other words, unlike anyone or anything else.
+
+---
