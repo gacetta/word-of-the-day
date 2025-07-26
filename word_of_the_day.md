@@ -1148,3 +1148,10 @@ A panacea is something that is regarded as a cure-all—that is, something that 
 Sui generis is a formal adjective used to describe someone or something in a class or group of its own, or in other words, unlike anyone or anything else.
 
 ---
+###### *Jul 26, 2025*
+### [embellish](https://www.merriam-webster.com/dictionary/embellish)
+<small>*verb*</small> | <small>im-BELL-ish</small>
+
+To embellish something is to make it more appealing or attractive with fanciful or decorative details.
+
+---
