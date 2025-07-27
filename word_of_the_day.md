@@ -1155,3 +1155,10 @@ Sui generis is a formal adjective used to describe someone or something in a cla
 To embellish something is to make it more appealing or attractive with fanciful or decorative details.
 
 ---
+###### *Jul 27, 2025*
+### [brouhaha](https://www.merriam-webster.com/dictionary/brouhaha)
+<small>*noun*</small> | <small>BROO-hah-hah</small>
+
+Brouhaha is a synonym of both uproar and hubbub that refers to great excitement or concern about something. 
+
+---
