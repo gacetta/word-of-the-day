@@ -1162,3 +1162,10 @@ To embellish something is to make it more appealing or attractive with fanciful 
 Brouhaha is a synonym of both uproar and hubbub that refers to great excitement or concern about something. 
 
 ---
+###### *Jul 28, 2025*
+### [facile](https://www.merriam-webster.com/dictionary/facile)
+<small>*adjective*</small> | <small>FASS-ul</small>
+
+Facile is a formal adjective that is used disapprovingly to describe something that is too simple, or that doesn’t show enough thought or effort. Facile can also be used for something done or achieved in a way that is considered too easy or that is easily accomplished or attained. It is sometimes used approvingly, however, for someone or something that works, moves, or performs well and very easily.
+
+---
