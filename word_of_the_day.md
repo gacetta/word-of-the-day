@@ -1169,3 +1169,10 @@ Brouhaha is a synonym of both uproar and hubbub that refers to great excitement 
 Facile is a formal adjective that is used disapprovingly to describe something that is too simple, or that doesn’t show enough thought or effort. Facile can also be used for something done or achieved in a way that is considered too easy or that is easily accomplished or attained. It is sometimes used approvingly, however, for someone or something that works, moves, or performs well and very easily.
 
 ---
+###### *Jul 29, 2025*
+### [quibble](https://www.merriam-webster.com/dictionary/quibble)
+<small>*verb*</small> | <small>KWIB-ul</small>
+
+To quibble is to argue or complain about small, unimportant things. Quibble can also mean "to evade the point of an argument by making trivial or frivolous objections."
+
+---
