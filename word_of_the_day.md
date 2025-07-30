@@ -1176,3 +1176,10 @@ Facile is a formal adjective that is used disapprovingly to describe something t
 To quibble is to argue or complain about small, unimportant things. Quibble can also mean "to evade the point of an argument by making trivial or frivolous objections."
 
 ---
+###### *Jul 30, 2025*
+### [doppelgänger](https://www.merriam-webster.com/dictionary/doppelgänger)
+<small>*noun*</small> | <small>DAH-pul-gang-er</small>
+
+A doppelgänger is someone who looks very much like another person. In literary use, doppelgänger refers to a ghost that closely resembles a living person.
+
+---
