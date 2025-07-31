@@ -1183,3 +1183,10 @@ To quibble is to argue or complain about small, unimportant things. Quibble can 
 A doppelgänger is someone who looks very much like another person. In literary use, doppelgänger refers to a ghost that closely resembles a living person.
 
 ---
+###### *Jul 31, 2025*
+### [petulant](https://www.merriam-webster.com/dictionary/petulant)
+<small>*adjective*</small> | <small>PET-chuh-lunt</small>
+
+Petulant describes a person who is angry and annoyed, or an attitude or behavior showing the emotions of such a person.
+
+---
