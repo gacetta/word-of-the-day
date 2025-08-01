@@ -1190,3 +1190,10 @@ A doppelgänger is someone who looks very much like another person. In literary 
 Petulant describes a person who is angry and annoyed, or an attitude or behavior showing the emotions of such a person.
 
 ---
+###### *Aug 01, 2025*
+### [dissociate](https://www.merriam-webster.com/dictionary/dissociate)
+<small>*verb*</small> | <small>dih-SOH-shee-ayt</small>
+
+To dissociate is to separate oneself from association or union with someone or something; in contexts relating to psychology, it has to do specifically with mentally detaching from one's physical or emotional experiences. In chemistry, dissociate means "to separate a chemical compound into its constituent parts especially through the application of heat or a solvent." 
+
+---
