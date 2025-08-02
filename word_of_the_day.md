@@ -1197,3 +1197,10 @@ Petulant describes a person who is angry and annoyed, or an attitude or behavior
 To dissociate is to separate oneself from association or union with someone or something; in contexts relating to psychology, it has to do specifically with mentally detaching from one's physical or emotional experiences. In chemistry, dissociate means "to separate a chemical compound into its constituent parts especially through the application of heat or a solvent." 
 
 ---
+###### *Aug 02, 2025*
+### [palimpsest](https://www.merriam-webster.com/dictionary/palimpsest)
+<small>*noun*</small> | <small>PAL-imp-sest</small>
+
+Palimpsest in its original use refers to writing material (such as a parchment manuscript) used one or more times after earlier writing has been erased; the underlying text is said to be “in palimpsest.” Palimpsest in extended use refers to something that has usually diverse layers or aspects apparent beneath the surface.
+
+---
