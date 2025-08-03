@@ -1204,3 +1204,10 @@ To dissociate is to separate oneself from association or union with someone or s
 Palimpsest in its original use refers to writing material (such as a parchment manuscript) used one or more times after earlier writing has been erased; the underlying text is said to be “in palimpsest.” Palimpsest in extended use refers to something that has usually diverse layers or aspects apparent beneath the surface.
 
 ---
+###### *Aug 03, 2025*
+### [egregious](https://www.merriam-webster.com/dictionary/egregious)
+<small>*adjective*</small> | <small>ih-GREE-juss</small>
+
+Egregious is a formal word used to describe things that are conspicuously bad. 
+
+---
