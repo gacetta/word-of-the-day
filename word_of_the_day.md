@@ -1211,3 +1211,10 @@ Palimpsest in its original use refers to writing material (such as a parchment m
 Egregious is a formal word used to describe things that are conspicuously bad. 
 
 ---
+###### *Aug 04, 2025*
+### [tapestry](https://www.merriam-webster.com/dictionary/tapestry)
+<small>*noun*</small> | <small>TAP-uh-stree</small>
+
+A tapestry is a heavy textile characterized by complicated pictorial designs and used for hangings, curtains, and upholstery. In figurative use, tapestry may refer to anything made up of different things, people, colors, etc.
+
+---
