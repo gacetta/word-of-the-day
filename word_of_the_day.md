@@ -1218,3 +1218,10 @@ Egregious is a formal word used to describe things that are conspicuously bad.
 A tapestry is a heavy textile characterized by complicated pictorial designs and used for hangings, curtains, and upholstery. In figurative use, tapestry may refer to anything made up of different things, people, colors, etc.
 
 ---
+###### *Aug 05, 2025*
+### [contentious](https://www.merriam-webster.com/dictionary/contentious)
+<small>*adjective*</small> | <small>kun-TEN-shuss</small>
+
+Contentious describes something that is likely to cause people to argue or disagree or that involves a lot of arguing. When used of a person, contentious describes someone likely or willing to argue.
+
+---
