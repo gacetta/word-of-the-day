@@ -1225,3 +1225,10 @@ A tapestry is a heavy textile characterized by complicated pictorial designs and
 Contentious describes something that is likely to cause people to argue or disagree or that involves a lot of arguing. When used of a person, contentious describes someone likely or willing to argue.
 
 ---
+###### *Aug 06, 2025*
+### [largesse](https://www.merriam-webster.com/dictionary/largesse)
+<small>*noun*</small> | <small>lahr-ZHESS</small>
+
+Largesse is a somewhat formal word that refers to the act of giving away money or the generosity of a person who gives away money. It can also refer to the money that is given away.
+
+---
