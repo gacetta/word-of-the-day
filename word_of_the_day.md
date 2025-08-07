@@ -1232,3 +1232,10 @@ Contentious describes something that is likely to cause people to argue or disag
 Largesse is a somewhat formal word that refers to the act of giving away money or the generosity of a person who gives away money. It can also refer to the money that is given away.
 
 ---
+###### *Aug 07, 2025*
+### [adjudicate](https://www.merriam-webster.com/dictionary/adjudicate)
+<small>*verb*</small> | <small>uh-JOO-dih-kayt</small>
+
+To adjudicate a dispute between two parties is to make an official decision about which party is right; to adjudicate a case or claim is to settle it judicially. Adjudicate is also used to mean “to act as judge.”
+
+---
