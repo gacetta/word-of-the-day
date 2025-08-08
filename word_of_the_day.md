@@ -1239,3 +1239,10 @@ Largesse is a somewhat formal word that refers to the act of giving away money o
 To adjudicate a dispute between two parties is to make an official decision about which party is right; to adjudicate a case or claim is to settle it judicially. Adjudicate is also used to mean “to act as judge.”
 
 ---
+###### *Aug 08, 2025*
+### [winsome](https://www.merriam-webster.com/dictionary/winsome)
+<small>*adjective*</small> | <small>WIN-sum</small>
+
+Winsome describes people and things that are cheerful, pleasant, and appealing. 
+
+---
