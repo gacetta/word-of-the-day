@@ -1246,3 +1246,10 @@ To adjudicate a dispute between two parties is to make an official decision abou
 Winsome describes people and things that are cheerful, pleasant, and appealing. 
 
 ---
+###### *Aug 09, 2025*
+### [behemoth](https://www.merriam-webster.com/dictionary/behemoth)
+<small>*noun*</small> | <small>bih-HEE-muth</small>
+
+A behemoth is something of monstrous size, power, or appearance. Behemoth (usually capitalized) is also the name of a mighty animal described in the biblical book of Job.
+
+---
