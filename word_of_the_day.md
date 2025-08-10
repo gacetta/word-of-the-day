@@ -1253,3 +1253,10 @@ Winsome describes people and things that are cheerful, pleasant, and appealing.
 A behemoth is something of monstrous size, power, or appearance. Behemoth (usually capitalized) is also the name of a mighty animal described in the biblical book of Job.
 
 ---
+###### *Aug 10, 2025*
+### [hidebound](https://www.merriam-webster.com/dictionary/hidebound)
+<small>*adjective*</small> | <small>HYDE-bound</small>
+
+Someone or something described as hidebound is inflexible and unwilling to accept new or different ideas.
+
+---
