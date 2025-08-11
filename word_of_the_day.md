@@ -1260,3 +1260,10 @@ A behemoth is something of monstrous size, power, or appearance. Behemoth (usual
 Someone or something described as hidebound is inflexible and unwilling to accept new or different ideas.
 
 ---
+###### *Aug 11, 2025*
+### [stipulate](https://www.merriam-webster.com/dictionary/stipulate)
+<small>*verb*</small> | <small>STIP-yuh-layt</small>
+
+To stipulate is to demand or require something as part of an agreement.
+
+---
