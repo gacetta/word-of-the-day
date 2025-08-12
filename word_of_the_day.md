@@ -1267,3 +1267,10 @@ Someone or something described as hidebound is inflexible and unwilling to accep
 To stipulate is to demand or require something as part of an agreement.
 
 ---
+###### *Aug 12, 2025*
+### [ramshackle](https://www.merriam-webster.com/dictionary/ramshackle)
+<small>*adjective*</small> | <small>RAM-shak-ul</small>
+
+Ramshackle describes things that are in a very bad condition and need to be repaired, or that are carelessly or loosely constructed.
+
+---
