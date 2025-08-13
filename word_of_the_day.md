@@ -1274,3 +1274,10 @@ To stipulate is to demand or require something as part of an agreement.
 Ramshackle describes things that are in a very bad condition and need to be repaired, or that are carelessly or loosely constructed.
 
 ---
+###### *Aug 13, 2025*
+### [calculus](https://www.merriam-webster.com/dictionary/calculus)
+<small>*noun*</small> | <small>KAL-kyuh-lus</small>
+
+Calculus refers to an advanced branch of mathematics that deals mostly with rates of change and with finding lengths, areas, and volumes. The word can also be used more broadly for the act of calculating—that is, estimating something by using practical judgment, or solving or probing the meaning of something.
+
+---
