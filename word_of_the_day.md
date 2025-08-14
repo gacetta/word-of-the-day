@@ -1281,3 +1281,10 @@ Ramshackle describes things that are in a very bad condition and need to be repa
 Calculus refers to an advanced branch of mathematics that deals mostly with rates of change and with finding lengths, areas, and volumes. The word can also be used more broadly for the act of calculating—that is, estimating something by using practical judgment, or solving or probing the meaning of something.
 
 ---
+###### *Aug 14, 2025*
+### [immutable](https://www.merriam-webster.com/dictionary/immutable)
+<small>*adjective*</small> | <small>ih-MYOO-tuh-bul</small>
+
+Immutable is a formal adjective used to describe something that is unable to be changed.
+
+---
