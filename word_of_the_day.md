@@ -1288,3 +1288,10 @@ Calculus refers to an advanced branch of mathematics that deals mostly with rate
 Immutable is a formal adjective used to describe something that is unable to be changed.
 
 ---
+###### *Aug 15, 2025*
+### [meander](https://www.merriam-webster.com/dictionary/meander)
+<small>*verb*</small> | <small>mee-AN-der</small>
+
+To meander is to follow a winding or intricate course—that is, one with a lot of turns and curves—or to walk slowly without a specific goal, purpose, or direction.
+
+---
