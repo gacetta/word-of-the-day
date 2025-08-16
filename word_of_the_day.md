@@ -1295,3 +1295,10 @@ Immutable is a formal adjective used to describe something that is unable to be 
 To meander is to follow a winding or intricate course—that is, one with a lot of turns and curves—or to walk slowly without a specific goal, purpose, or direction.
 
 ---
+###### *Aug 16, 2025*
+### [tempestuous](https://www.merriam-webster.com/dictionary/tempestuous)
+<small>*adjective*</small> | <small>tem-PESS-chuh-wus</small>
+
+Tempestuous is used to describe something that is related to or resembles a violent storm. In its literal (and often literary) use tempestuous is synonymous with turbulent and stormy. Figuratively, tempestuous describes something or someone full of strong emotions, such as anger or excitement. 
+
+---
