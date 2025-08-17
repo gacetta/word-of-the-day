@@ -1302,3 +1302,10 @@ To meander is to follow a winding or intricate course—that is, one with a lot 
 Tempestuous is used to describe something that is related to or resembles a violent storm. In its literal (and often literary) use tempestuous is synonymous with turbulent and stormy. Figuratively, tempestuous describes something or someone full of strong emotions, such as anger or excitement. 
 
 ---
+###### *Aug 17, 2025*
+### [glitch](https://www.merriam-webster.com/dictionary/glitch)
+<small>*noun*</small> | <small>GLITCH</small>
+
+Glitch is an informal word referring to an unexpected and usually minor problem. It is used especially for a minor problem with a machine or device, such as a computer.
+
+---
