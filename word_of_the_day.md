@@ -1309,3 +1309,10 @@ Tempestuous is used to describe something that is related to or resembles a viol
 Glitch is an informal word referring to an unexpected and usually minor problem. It is used especially for a minor problem with a machine or device, such as a computer.
 
 ---
+###### *Aug 18, 2025*
+### [ostentatious](https://www.merriam-webster.com/dictionary/ostentatious)
+<small>*adjective*</small> | <small>ah-stun-TAY-shus</small>
+
+Ostentatious describes someone or something that displays wealth, knowledge, power, etc., in a way that is meant to attract attention, admiration, or envy. Things that are ostentatious tend to stand out as overly elaborate or conspicuous. 
+
+---
