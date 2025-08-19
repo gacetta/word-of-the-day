@@ -1316,3 +1316,10 @@ Glitch is an informal word referring to an unexpected and usually minor problem.
 Ostentatious describes someone or something that displays wealth, knowledge, power, etc., in a way that is meant to attract attention, admiration, or envy. Things that are ostentatious tend to stand out as overly elaborate or conspicuous. 
 
 ---
+###### *Aug 19, 2025*
+### [euphemism](https://www.merriam-webster.com/dictionary/euphemism)
+<small>*noun*</small> | <small>YOO-fuh-miz-um</small>
+
+A euphemism is a mild or pleasant word or phrase that is used instead of one that is unpleasant or offensive.
+
+---
