@@ -1323,3 +1323,10 @@ Ostentatious describes someone or something that displays wealth, knowledge, pow
 A euphemism is a mild or pleasant word or phrase that is used instead of one that is unpleasant or offensive.
 
 ---
+###### *Aug 20, 2025*
+### [salient](https://www.merriam-webster.com/dictionary/salient)
+<small>*adjective*</small> | <small>SAIL-yunt</small>
+
+Something described as salient is very important or noticeable. 
+
+---
