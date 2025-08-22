@@ -1337,3 +1337,10 @@ Something described as salient is very important or noticeable.
 To validate something is to show that it is real or correct. Validate can also mean “to state or show that something is legal or official,” “to put a mark on something to show that it has been checked and is official or accepted,” and “to show that someone’s feelings, opinions, etc., are fair and reasonable.”
 
 ---
+###### *Aug 22, 2025*
+### [apathy](https://www.merriam-webster.com/dictionary/apathy)
+<small>*noun*</small> | <small>AP-uh-thee</small>
+
+Apathy refers either to a lack of feeling or emotion, or to a lack of interest or concern.
+
+---
