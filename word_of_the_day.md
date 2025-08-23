@@ -1344,3 +1344,10 @@ To validate something is to show that it is real or correct. Validate can also m
 Apathy refers either to a lack of feeling or emotion, or to a lack of interest or concern.
 
 ---
+###### *Aug 23, 2025*
+### [flagrant](https://www.merriam-webster.com/dictionary/flagrant)
+<small>*adjective*</small> | <small>FLAY-grunt</small>
+
+Something may be described as flagrant if it is conspicuously bad—that is, too bad to be ignored.
+
+---
