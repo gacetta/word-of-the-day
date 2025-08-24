@@ -1351,3 +1351,10 @@ Apathy refers either to a lack of feeling or emotion, or to a lack of interest o
 Something may be described as flagrant if it is conspicuously bad—that is, too bad to be ignored.
 
 ---
+###### *Aug 24, 2025*
+### [cloister](https://www.merriam-webster.com/dictionary/cloister)
+<small>*verb*</small> | <small>KLOY-ster</small>
+
+To cloister someone or something is to shut the person or thing away from the world.
+
+---
