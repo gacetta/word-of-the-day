@@ -1358,3 +1358,10 @@ Something may be described as flagrant if it is conspicuously bad—that is, too
 To cloister someone or something is to shut the person or thing away from the world.
 
 ---
+###### *Aug 25, 2025*
+### [undulant](https://www.merriam-webster.com/dictionary/undulant)
+<small>*adjective*</small> | <small>UN-juh-lunt</small>
+
+Undulant describes things that rise and fall in waves, or things that have a wavy form, outline, or surface.
+
+---
