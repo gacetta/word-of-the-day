@@ -1365,3 +1365,10 @@ To cloister someone or something is to shut the person or thing away from the wo
 Undulant describes things that rise and fall in waves, or things that have a wavy form, outline, or surface.
 
 ---
+###### *Aug 26, 2025*
+### [trepidation](https://www.merriam-webster.com/dictionary/trepidation)
+<small>*noun*</small> | <small>trep-uh-DAY-shun</small>
+
+Trepidation refers to a feeling of fear that causes someone to hesitate because they think that something bad or unpleasant is going to happen.
+
+---
