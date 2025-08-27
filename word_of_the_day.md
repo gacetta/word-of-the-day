@@ -1372,3 +1372,10 @@ Undulant describes things that rise and fall in waves, or things that have a wav
 Trepidation refers to a feeling of fear that causes someone to hesitate because they think that something bad or unpleasant is going to happen.
 
 ---
+###### *Aug 27, 2025*
+### [nebulous](https://www.merriam-webster.com/dictionary/nebulous)
+<small>*adjective*</small> | <small>NEB-yuh-lus</small>
+
+Nebulous is a formal word used to describe something that is difficult to see, understand, or describe—in other words, something indistinct or vague. 
+
+---
