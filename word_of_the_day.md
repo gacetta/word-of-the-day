@@ -1379,3 +1379,10 @@ Trepidation refers to a feeling of fear that causes someone to hesitate because 
 Nebulous is a formal word used to describe something that is difficult to see, understand, or describe—in other words, something indistinct or vague. 
 
 ---
+###### *Aug 28, 2025*
+### [diminution](https://www.merriam-webster.com/dictionary/diminution)
+<small>*noun*</small> | <small>dim-uh-NOO-shun</small>
+
+Diminution is a formal word that refers to the act or process of becoming less.
+
+---
