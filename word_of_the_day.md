@@ -1386,3 +1386,10 @@ Nebulous is a formal word used to describe something that is difficult to see, u
 Diminution is a formal word that refers to the act or process of becoming less.
 
 ---
+###### *Aug 29, 2025*
+### [incisive](https://www.merriam-webster.com/dictionary/incisive)
+<small>*adjective*</small> | <small>in-SYE-siv</small>
+
+Incisive means "impressively direct and decisive." It is generally applied to either something communicated in a way that is very clear and direct, or to a person who is able to explain difficult ideas clearly and confidently.
+
+---
