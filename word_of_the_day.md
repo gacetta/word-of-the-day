@@ -1393,3 +1393,10 @@ Diminution is a formal word that refers to the act or process of becoming less.
 Incisive means "impressively direct and decisive." It is generally applied to either something communicated in a way that is very clear and direct, or to a person who is able to explain difficult ideas clearly and confidently.
 
 ---
+###### *Aug 30, 2025*
+### [protocol](https://www.merriam-webster.com/dictionary/protocol)
+<small>*noun*</small> | <small>PROH-tuh-kawl</small>
+
+Protocol most often refers to a system of rules explaining the correct conduct and procedures to be followed in a formal situation; in computer programming a protocol is a set of rules used in formatting data. Protocol can also refer to a plan for a scientific experiment or medical treatment, or to a document that describes the details of a diplomatic treaty.
+
+---
