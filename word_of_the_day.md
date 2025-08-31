@@ -1400,3 +1400,10 @@ Incisive means "impressively direct and decisive." It is generally applied to ei
 Protocol most often refers to a system of rules explaining the correct conduct and procedures to be followed in a formal situation; in computer programming a protocol is a set of rules used in formatting data. Protocol can also refer to a plan for a scientific experiment or medical treatment, or to a document that describes the details of a diplomatic treaty.
 
 ---
+###### *Aug 31, 2025*
+### [simpatico](https://www.merriam-webster.com/dictionary/simpatico)
+<small>*adjective*</small> | <small>sim-PAH-tih-koh</small>
+
+Simpatico typically describes two or more people or things with shared qualities, interests, etc. It can also describe someone who is agreeable or likeable.
+
+---
