@@ -1407,3 +1407,10 @@ Protocol most often refers to a system of rules explaining the correct conduct a
 Simpatico typically describes two or more people or things with shared qualities, interests, etc. It can also describe someone who is agreeable or likeable.
 
 ---
+###### *Sep 01, 2025*
+### [epitome](https://www.merriam-webster.com/dictionary/epitome)
+<small>*noun*</small> | <small>ih-PIT-uh-mee</small>
+
+Epitome means "a perfect example." It is usually used in the phrase "the epitome of," as in "the epitome of elegance."
+
+---
