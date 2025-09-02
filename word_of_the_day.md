@@ -1414,3 +1414,10 @@ Simpatico typically describes two or more people or things with shared qualities
 Epitome means "a perfect example." It is usually used in the phrase "the epitome of," as in "the epitome of elegance."
 
 ---
+###### *Sep 02, 2025*
+### [carp](https://www.merriam-webster.com/dictionary/carp)
+<small>*verb*</small> | <small>KAHRP</small>
+
+To carp is to complain in an annoying way.
+
+---
