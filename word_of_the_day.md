@@ -1421,3 +1421,10 @@ Epitome means "a perfect example." It is usually used in the phrase "the epitome
 To carp is to complain in an annoying way.
 
 ---
+###### *Sep 03, 2025*
+### [trivial](https://www.merriam-webster.com/dictionary/trivial)
+<small>*adjective*</small> | <small>TRIV-ee-ul</small>
+
+Something described as trivial is of little worth or importance.
+
+---
