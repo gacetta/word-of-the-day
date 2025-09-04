@@ -1428,3 +1428,10 @@ To carp is to complain in an annoying way.
 Something described as trivial is of little worth or importance.
 
 ---
+###### *Sep 04, 2025*
+### [abeyance](https://www.merriam-webster.com/dictionary/abeyance)
+<small>*noun*</small> | <small>uh-BAY-unss</small>
+
+Abeyance is a formal word that is almost always used in the phrase “in abeyance” to describe something in a temporary state of inactivity—that is, something in a state of suspension. 
+
+---
