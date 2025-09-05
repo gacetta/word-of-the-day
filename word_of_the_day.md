@@ -1435,3 +1435,10 @@ Something described as trivial is of little worth or importance.
 Abeyance is a formal word that is almost always used in the phrase “in abeyance” to describe something in a temporary state of inactivity—that is, something in a state of suspension. 
 
 ---
+###### *Sep 05, 2025*
+### [histrionic](https://www.merriam-webster.com/dictionary/histrionic)
+<small>*adjective*</small> | <small>hiss-tree-AH-nik</small>
+
+Histrionic is a word used disapprovingly to describe someone or something that is too emotional or dramatic.
+
+---
