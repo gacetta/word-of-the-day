@@ -1442,3 +1442,10 @@ Abeyance is a formal word that is almost always used in the phrase “in abeyanc
 Histrionic is a word used disapprovingly to describe someone or something that is too emotional or dramatic.
 
 ---
+###### *Sep 06, 2025*
+### [mollify](https://www.merriam-webster.com/dictionary/mollify)
+<small>*verb*</small> | <small>MAH-luh-fye</small>
+
+To mollify someone is to make them less angry. Mollify can also mean "to reduce in intensity."
+
+---
