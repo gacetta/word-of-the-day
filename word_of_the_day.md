@@ -1449,3 +1449,10 @@ Histrionic is a word used disapprovingly to describe someone or something that i
 To mollify someone is to make them less angry. Mollify can also mean "to reduce in intensity."
 
 ---
+###### *Sep 07, 2025*
+### [behest](https://www.merriam-webster.com/dictionary/behest)
+<small>*noun*</small> | <small>bih-HEST</small>
+
+Behest can refer either to an authoritative order or an urgent prompting.
+
+---
