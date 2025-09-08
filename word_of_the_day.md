@@ -1456,3 +1456,10 @@ To mollify someone is to make them less angry. Mollify can also mean "to reduce 
 Behest can refer either to an authoritative order or an urgent prompting.
 
 ---
+###### *Sep 08, 2025*
+### [sanguine](https://www.merriam-webster.com/dictionary/sanguine)
+<small>*adjective*</small> | <small>SANG-gwin</small>
+
+Sanguine is a formal word that today almost always describes someone who is confident and hopeful, or something that shows confidence and hopefulness. Sanguine can also describe something that is bloodred in color, something involving or relating to bloodshed, or a person’s reddish complexion.  
+
+---
