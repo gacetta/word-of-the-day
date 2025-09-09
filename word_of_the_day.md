@@ -1463,3 +1463,10 @@ Behest can refer either to an authoritative order or an urgent prompting.
 Sanguine is a formal word that today almost always describes someone who is confident and hopeful, or something that shows confidence and hopefulness. Sanguine can also describe something that is bloodred in color, something involving or relating to bloodshed, or a person’s reddish complexion.  
 
 ---
+###### *Sep 09, 2025*
+### [insinuate](https://www.merriam-webster.com/dictionary/insinuate)
+<small>*verb*</small> | <small>in-SIN-yuh-wayt</small>
+
+To insinuate something (especially something bad or insulting) is to say it in a subtle or indirect way. Insinuate can also mean "to gradually make (oneself) a part of a group, a person's life, etc., often by behaving in a dishonest way."
+
+---
