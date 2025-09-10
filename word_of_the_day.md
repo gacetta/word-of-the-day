@@ -1470,3 +1470,10 @@ Sanguine is a formal word that today almost always describes someone who is conf
 To insinuate something (especially something bad or insulting) is to say it in a subtle or indirect way. Insinuate can also mean "to gradually make (oneself) a part of a group, a person's life, etc., often by behaving in a dishonest way."
 
 ---
+###### *Sep 10, 2025*
+### [griot](https://www.merriam-webster.com/dictionary/griot)
+<small>*noun*</small> | <small>GREE-oh</small>
+
+The term griot refers to any of a class of musician-entertainers of western Africa whose performances include tribal histories and genealogies. The term is also used broadly to refer to a storyteller.
+
+---
