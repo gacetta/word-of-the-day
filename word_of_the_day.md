@@ -1477,3 +1477,10 @@ To insinuate something (especially something bad or insulting) is to say it in a
 The term griot refers to any of a class of musician-entertainers of western Africa whose performances include tribal histories and genealogies. The term is also used broadly to refer to a storyteller.
 
 ---
+###### *Sep 12, 2025*
+### [flummox](https://www.merriam-webster.com/dictionary/flummox)
+<small>*verb*</small> | <small>FLUM-uks</small>
+
+To flummox someone is to confuse or perplex them.
+
+---
