@@ -1484,3 +1484,10 @@ The term griot refers to any of a class of musician-entertainers of western Afri
 To flummox someone is to confuse or perplex them.
 
 ---
+###### *Sep 13, 2025*
+### [consummate](https://www.merriam-webster.com/dictionary/consummate)
+<small>*adjective*</small> | <small>KAHN-suh-mut</small>
+
+Someone or something described as consummate is very skilled or accomplished. Consummate  can also mean “of the highest degree” and “complete in every detail.” The adjective is always used before the noun it describes.
+
+---
