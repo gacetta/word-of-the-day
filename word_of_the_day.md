@@ -1491,3 +1491,10 @@ To flummox someone is to confuse or perplex them.
 Someone or something described as consummate is very skilled or accomplished. Consummate  can also mean “of the highest degree” and “complete in every detail.” The adjective is always used before the noun it describes.
 
 ---
+###### *Sep 14, 2025*
+### [perpetuity](https://www.merriam-webster.com/dictionary/perpetuity)
+<small>*noun*</small> | <small>per-puh-TOO-uh-tee</small>
+
+Perpetuity refers to a state of continuing forever or for a very long time.
+
+---
