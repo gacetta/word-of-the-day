@@ -1498,3 +1498,10 @@ Someone or something described as consummate is very skilled or accomplished. Co
 Perpetuity refers to a state of continuing forever or for a very long time.
 
 ---
+###### *Sep 15, 2025*
+### [askance](https://www.merriam-webster.com/dictionary/askance)
+<small>*adverb*</small> | <small>uh-SKANSS</small>
+
+Askance means "in a way that shows a lack of trust or approval" or "with a side-glance."  
+
+---
