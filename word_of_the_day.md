@@ -1505,3 +1505,10 @@ Perpetuity refers to a state of continuing forever or for a very long time.
 Askance means "in a way that shows a lack of trust or approval" or "with a side-glance."  
 
 ---
+###### *Sep 16, 2025*
+### [debunk](https://www.merriam-webster.com/dictionary/debunk)
+<small>*verb*</small> | <small>dee-BUNK</small>
+
+To debunk something (such as a belief or theory) is to show that it is not true.
+
+---
