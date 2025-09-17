@@ -1512,3 +1512,10 @@ Askance means "in a way that shows a lack of trust or approval" or "with a side-
 To debunk something (such as a belief or theory) is to show that it is not true.
 
 ---
+###### *Sep 17, 2025*
+### [jovial](https://www.merriam-webster.com/dictionary/jovial)
+<small>*adjective*</small> | <small>JOH-vee-ul</small>
+
+Jovial describes people as well as moods, attitudes, etc., that are cheerful and jolly. 
+
+---
