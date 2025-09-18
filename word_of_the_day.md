@@ -1519,3 +1519,10 @@ To debunk something (such as a belief or theory) is to show that it is not true.
 Jovial describes people as well as moods, attitudes, etc., that are cheerful and jolly. 
 
 ---
+###### *Sep 18, 2025*
+### [rationale](https://www.merriam-webster.com/dictionary/rationale)
+<small>*noun*</small> | <small>rash-uh-NAL</small>
+
+Rationale refers to an explanation or reason for something said or done. It is often used with for, behind, or of.
+
+---
