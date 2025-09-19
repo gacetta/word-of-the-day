@@ -1526,3 +1526,10 @@ Jovial describes people as well as moods, attitudes, etc., that are cheerful and
 Rationale refers to an explanation or reason for something said or done. It is often used with for, behind, or of.
 
 ---
+###### *Sep 19, 2025*
+### [succumb](https://www.merriam-webster.com/dictionary/succumb)
+<small>*verb*</small> | <small>suh-KUM</small>
+
+Succumbing is about yielding to something: someone who succumbs to a pressure or emotion stops trying to resist that pressure or emotion, and someone who succumbs to an injury or disease dies because of that injury or disease. The word is often followed by to.
+
+---
