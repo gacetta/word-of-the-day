@@ -1533,3 +1533,10 @@ Rationale refers to an explanation or reason for something said or done. It is o
 Succumbing is about yielding to something: someone who succumbs to a pressure or emotion stops trying to resist that pressure or emotion, and someone who succumbs to an injury or disease dies because of that injury or disease. The word is often followed by to.
 
 ---
+###### *Sep 20, 2025*
+### [enmity](https://www.merriam-webster.com/dictionary/enmity)
+<small>*noun*</small> | <small>EN-muh-tee</small>
+
+Enmity is a formal word that refers to a very deep unfriendly feeling, such as hatred or ill will, that is often felt mutually.
+
+---
