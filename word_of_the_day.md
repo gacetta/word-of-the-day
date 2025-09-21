@@ -1540,3 +1540,10 @@ Succumbing is about yielding to something: someone who succumbs to a pressure or
 Enmity is a formal word that refers to a very deep unfriendly feeling, such as hatred or ill will, that is often felt mutually.
 
 ---
+###### *Sep 21, 2025*
+### [lugubrious](https://www.merriam-webster.com/dictionary/lugubrious)
+<small>*adjective*</small> | <small>loo-GOO-bree-us</small>
+
+Lugubrious is a formal word used chiefly to describe something that is very sad especially in an exaggerated or insincere way. The word can also describe something that shows or expresses gloom.
+
+---
