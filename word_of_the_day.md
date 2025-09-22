@@ -1547,3 +1547,10 @@ Enmity is a formal word that refers to a very deep unfriendly feeling, such as h
 Lugubrious is a formal word used chiefly to describe something that is very sad especially in an exaggerated or insincere way. The word can also describe something that shows or expresses gloom.
 
 ---
+###### *Sep 22, 2025*
+### [catch-22](https://www.merriam-webster.com/dictionary/catch-22)
+<small>*noun*</small> | <small>KATCH-twen-tee-TOO</small>
+
+Catch-22 typically refers to a difficult situation for which there is no easy or possible solution. In the narrowest use of the term, it refers to a problematic situation for which the only solution is denied by a circumstance inherent in the problem or by a rule.
+
+---
