@@ -1561,3 +1561,10 @@ Catch-22 typically refers to a difficult situation for which there is no easy or
 Nonpareil describes that which has no equal because it is better than any other.
 
 ---
+###### *Sep 24, 2025*
+### [brandish](https://www.merriam-webster.com/dictionary/brandish)
+<small>*verb*</small> | <small>BRAN-dish</small>
+
+To brandish something, such as a weapon, is to wave or swing it in a threatening or excited manner. 
+
+---
