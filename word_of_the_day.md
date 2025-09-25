@@ -1568,3 +1568,10 @@ Nonpareil describes that which has no equal because it is better than any other.
 To brandish something, such as a weapon, is to wave or swing it in a threatening or excited manner. 
 
 ---
+###### *Sep 25, 2025*
+### [anomaly](https://www.merriam-webster.com/dictionary/anomaly)
+<small>*noun*</small> | <small>uh-NAH-muh-lee</small>
+
+Anomaly is a somewhat formal word that refers to something that is remarkable in its deviation from what is usual or expected.
+
+---
