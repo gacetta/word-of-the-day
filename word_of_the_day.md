@@ -1575,3 +1575,10 @@ To brandish something, such as a weapon, is to wave or swing it in a threatening
 Anomaly is a somewhat formal word that refers to something that is remarkable in its deviation from what is usual or expected.
 
 ---
+###### *Sep 26, 2025*
+### [gesundheit](https://www.merriam-webster.com/dictionary/gesundheit)
+<small>*interjection*</small> | <small>guh-ZOONT-hyte</small>
+
+Gesundheit is an interjection used to wish good health to one who has just sneezed.
+
+---
