@@ -1582,3 +1582,10 @@ Anomaly is a somewhat formal word that refers to something that is remarkable in
 Gesundheit is an interjection used to wish good health to one who has just sneezed.
 
 ---
+###### *Sep 27, 2025*
+### [vociferous](https://www.merriam-webster.com/dictionary/vociferous)
+<small>*adjective*</small> | <small>voh-SIF-uh-rus</small>
+
+Vociferous describes people who express their feelings or opinions loudly and insistently. It is also applied to things, such as objections, that are expressed in such a way.
+
+---
