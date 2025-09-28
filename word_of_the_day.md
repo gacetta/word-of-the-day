@@ -1589,3 +1589,10 @@ Gesundheit is an interjection used to wish good health to one who has just sneez
 Vociferous describes people who express their feelings or opinions loudly and insistently. It is also applied to things, such as objections, that are expressed in such a way.
 
 ---
+###### *Sep 28, 2025*
+### [kerfuffle](https://www.merriam-webster.com/dictionary/kerfuffle)
+<small>*noun*</small> | <small>ker-FUFF-ul</small>
+
+Kerfuffle is an informal word that refers to a disturbance or fuss typically caused by a dispute or conflict.
+
+---
