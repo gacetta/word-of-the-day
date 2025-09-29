@@ -1596,3 +1596,10 @@ Vociferous describes people who express their feelings or opinions loudly and in
 Kerfuffle is an informal word that refers to a disturbance or fuss typically caused by a dispute or conflict.
 
 ---
+###### *Sep 29, 2025*
+### [obliterate](https://www.merriam-webster.com/dictionary/obliterate)
+<small>*verb*</small> | <small>uh-BLIT-uh-rayt</small>
+
+To obliterate something is to destroy it completely so that nothing is left, to destroy utterly all trace, indication, or significance of it. It can also mean "to remove utterly from recognition or memory." 
+
+---
