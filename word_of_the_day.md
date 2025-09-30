@@ -1603,3 +1603,10 @@ Kerfuffle is an informal word that refers to a disturbance or fuss typically cau
 To obliterate something is to destroy it completely so that nothing is left, to destroy utterly all trace, indication, or significance of it. It can also mean "to remove utterly from recognition or memory." 
 
 ---
+###### *Sep 30, 2025*
+### [impetuous](https://www.merriam-webster.com/dictionary/impetuous)
+<small>*adjective*</small> | <small>im-PECH-uh-wus</small>
+
+Impetuous is a synonym of impulsive that describes a person who is acting without thought, or an action that is done without thought.
+
+---
