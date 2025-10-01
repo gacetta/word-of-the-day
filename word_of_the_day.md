@@ -1610,3 +1610,10 @@ To obliterate something is to destroy it completely so that nothing is left, to 
 Impetuous is a synonym of impulsive that describes a person who is acting without thought, or an action that is done without thought.
 
 ---
+###### *Oct 01, 2025*
+### [preternatural](https://www.merriam-webster.com/dictionary/preternatural)
+<small>*adjective*</small> | <small>pree-ter-NATCH-uh-rul</small>
+
+Preternatural is a formal adjective used to describe things that are very unusual in a way that does not seem natural.
+
+---
