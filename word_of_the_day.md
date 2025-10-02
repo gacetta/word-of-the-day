@@ -1617,3 +1617,10 @@ Impetuous is a synonym of impulsive that describes a person who is acting withou
 Preternatural is a formal adjective used to describe things that are very unusual in a way that does not seem natural.
 
 ---
+###### *Oct 02, 2025*
+### [atone](https://www.merriam-webster.com/dictionary/atone)
+<small>*verb*</small> | <small>uh-TOHN</small>
+
+To atone for something is to make amends for it—that is, to do something good as a way of showing that you are sorry about, or have remorse for, a mistake, bad behavior, etc.  
+
+---
