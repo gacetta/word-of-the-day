@@ -1624,3 +1624,10 @@ Preternatural is a formal adjective used to describe things that are very unusua
 To atone for something is to make amends for it—that is, to do something good as a way of showing that you are sorry about, or have remorse for, a mistake, bad behavior, etc.  
 
 ---
+###### *Oct 03, 2025*
+### [gibbous](https://www.merriam-webster.com/dictionary/gibbous)
+<small>*adjective*</small> | <small>JIB-us</small>
+
+Gibbous is most often used to describe the moon or a planet when it is seen with more than half but not all of the apparent disk illuminated.
+
+---
