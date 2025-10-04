@@ -1631,3 +1631,10 @@ To atone for something is to make amends for it—that is, to do something good 
 Gibbous is most often used to describe the moon or a planet when it is seen with more than half but not all of the apparent disk illuminated.
 
 ---
+###### *Oct 04, 2025*
+### [repertoire](https://www.merriam-webster.com/dictionary/repertoire)
+<small>*noun*</small> | <small>REP-er-twahr</small>
+
+Repertoire typically refers to a list or supply of plays, songs, dances, etc. that a company or person is prepared to perform,. Repertoire may also refer to a supply of skills or devices, or more broadly to an amount or supply.
+
+---
