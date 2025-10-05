@@ -1638,3 +1638,10 @@ Gibbous is most often used to describe the moon or a planet when it is seen with
 Repertoire typically refers to a list or supply of plays, songs, dances, etc. that a company or person is prepared to perform,. Repertoire may also refer to a supply of skills or devices, or more broadly to an amount or supply.
 
 ---
+###### *Oct 05, 2025*
+### [sonorous](https://www.merriam-webster.com/dictionary/sonorous)
+<small>*adjective*</small> | <small>SAH-nuh-rus</small>
+
+Sonorous is an adjective used in formal speech and writing to describe something that has a deep, loud, and pleasant sound. Sonorous can also mean “producing sound (when struck)” and “imposing or impressive in effect or style.”
+
+---
