@@ -1645,3 +1645,10 @@ Repertoire typically refers to a list or supply of plays, songs, dances, etc. th
 Sonorous is an adjective used in formal speech and writing to describe something that has a deep, loud, and pleasant sound. Sonorous can also mean “producing sound (when struck)” and “imposing or impressive in effect or style.”
 
 ---
+###### *Oct 06, 2025*
+### [embarrass](https://www.merriam-webster.com/dictionary/embarrass)
+<small>*verb*</small> | <small>im-BAIR-us</small>
+
+To embarrass someone is to make them feel confused and foolish in front of other people.
+
+---
