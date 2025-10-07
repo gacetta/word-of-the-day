@@ -1652,3 +1652,10 @@ Sonorous is an adjective used in formal speech and writing to describe something
 To embarrass someone is to make them feel confused and foolish in front of other people.
 
 ---
+###### *Oct 07, 2025*
+### [candor](https://www.merriam-webster.com/dictionary/candor)
+<small>*noun*</small> | <small>KAN-der</small>
+
+Candor refers to the quality of being open, sincere, and honest.
+
+---
