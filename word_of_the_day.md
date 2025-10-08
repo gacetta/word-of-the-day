@@ -1659,3 +1659,10 @@ To embarrass someone is to make them feel confused and foolish in front of other
 Candor refers to the quality of being open, sincere, and honest.
 
 ---
+###### *Oct 08, 2025*
+### [finicky](https://www.merriam-webster.com/dictionary/finicky)
+<small>*adjective*</small> | <small>FIN-ih-kee</small>
+
+Finicky describes someone who is very hard to please, or something that requires a lot of care, precision, or attentive effort. 
+
+---
