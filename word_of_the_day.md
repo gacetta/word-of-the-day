@@ -1666,3 +1666,10 @@ Candor refers to the quality of being open, sincere, and honest.
 Finicky describes someone who is very hard to please, or something that requires a lot of care, precision, or attentive effort. 
 
 ---
+###### *Oct 09, 2025*
+### [duress](https://www.merriam-webster.com/dictionary/duress)
+<small>*noun*</small> | <small>dur-RESS</small>
+
+Duress, which is typically used with under, refers to force or threats meant to make someone do something. It is used especially of unlawful coercion.  
+
+---
