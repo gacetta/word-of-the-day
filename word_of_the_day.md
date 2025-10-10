@@ -1673,3 +1673,10 @@ Finicky describes someone who is very hard to please, or something that requires
 Duress, which is typically used with under, refers to force or threats meant to make someone do something. It is used especially of unlawful coercion.  
 
 ---
+###### *Oct 10, 2025*
+### [obviate](https://www.merriam-webster.com/dictionary/obviate)
+<small>*verb*</small> | <small>AHB-vee-ayt</small>
+
+To obviate something (usually a need for something, or a necessity) is to anticipate and prevent it. A formal word, obviate can also mean "to make an action unnecessary."
+
+---
