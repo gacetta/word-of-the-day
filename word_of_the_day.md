@@ -1680,3 +1680,10 @@ Duress, which is typically used with under, refers to force or threats meant to 
 To obviate something (usually a need for something, or a necessity) is to anticipate and prevent it. A formal word, obviate can also mean "to make an action unnecessary."
 
 ---
+###### *Oct 11, 2025*
+### [languid](https://www.merriam-webster.com/dictionary/languid)
+<small>*adjective*</small> | <small>LANG-gwid</small>
+
+Something described as languid shows or has very little energy, force, or activity.
+
+---
