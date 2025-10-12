@@ -1687,3 +1687,10 @@ To obviate something (usually a need for something, or a necessity) is to antici
 Something described as languid shows or has very little energy, force, or activity.
 
 ---
+###### *Oct 12, 2025*
+### [imprimatur](https://www.merriam-webster.com/dictionary/imprimatur)
+<small>*noun*</small> | <small>im-pruh-MAH-toor</small>
+
+Imprimatur is a formal word that refers to explicit approval or permission.
+
+---
