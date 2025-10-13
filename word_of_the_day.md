@@ -1694,3 +1694,10 @@ Something described as languid shows or has very little energy, force, or activi
 Imprimatur is a formal word that refers to explicit approval or permission.
 
 ---
+###### *Oct 13, 2025*
+### [penultimate](https://www.merriam-webster.com/dictionary/penultimate)
+<small>*adjective*</small> | <small>pih-NUL-tuh-mut</small>
+
+Penultimate means "occurring immediately before the last one," or in other words, "next to last." A formal adjective, it is always used before the noun it modifies. 
+
+---
