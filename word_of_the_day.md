@@ -1708,3 +1708,10 @@ Penultimate means "occurring immediately before the last one," or in other words
 Utopia refers to an imaginary place in which the government, laws, and social conditions are perfect; a utopia is a place of ideal perfection.
 
 ---
+###### *Oct 15, 2025*
+### [coalesce](https://www.merriam-webster.com/dictionary/coalesce)
+<small>*verb*</small> | <small>koh-uh-LESS</small>
+
+To coalesce is to come together to form one group or mass.
+
+---
