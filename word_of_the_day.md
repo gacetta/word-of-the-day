@@ -1715,3 +1715,10 @@ Utopia refers to an imaginary place in which the government, laws, and social co
 To coalesce is to come together to form one group or mass.
 
 ---
+###### *Oct 16, 2025*
+### [biannual](https://www.merriam-webster.com/dictionary/biannual)
+<small>*adjective*</small> | <small>bye-AN-yuh-wul</small>
+
+Biannual is an adjective used to describe something that happens twice a year, or something that happens every two years. Biannual is always used before the noun it describes.
+
+---
