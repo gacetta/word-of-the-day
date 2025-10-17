@@ -1722,3 +1722,10 @@ To coalesce is to come together to form one group or mass.
 Biannual is an adjective used to describe something that happens twice a year, or something that happens every two years. Biannual is always used before the noun it describes.
 
 ---
+###### *Oct 17, 2025*
+### [kibosh](https://www.merriam-webster.com/dictionary/kibosh)
+<small>*noun*</small> | <small>KYE-bosh</small>
+
+Kibosh refers to something that serves as a check or stop. It is usually used in the phrase “put the kibosh on” to mean “to stop or end (something)” or “to prevent (something) from happening or continuing.”
+
+---
