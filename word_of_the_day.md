@@ -1729,3 +1729,10 @@ Biannual is an adjective used to describe something that happens twice a year, o
 Kibosh refers to something that serves as a check or stop. It is usually used in the phrase “put the kibosh on” to mean “to stop or end (something)” or “to prevent (something) from happening or continuing.”
 
 ---
+###### *Oct 18, 2025*
+### [muse](https://www.merriam-webster.com/dictionary/muse)
+<small>*verb*</small> | <small>MYOOZ</small>
+
+When muse is used to mean "to think about something carefully or thoroughly," it is usually followed by about, on, over, or upon. The word can also mean "to become absorbed in thought," or "to think or say something in a thoughtful way."
+
+---
