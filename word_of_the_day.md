@@ -1736,3 +1736,10 @@ Kibosh refers to something that serves as a check or stop. It is usually used in
 When muse is used to mean "to think about something carefully or thoroughly," it is usually followed by about, on, over, or upon. The word can also mean "to become absorbed in thought," or "to think or say something in a thoughtful way."
 
 ---
+###### *Oct 19, 2025*
+### [veritable](https://www.merriam-webster.com/dictionary/veritable)
+<small>*adjective*</small> | <small>VAIR-uh-tuh-bul</small>
+
+Veritable is a formal adjective that means “being in fact the thing named and not false, unreal, or imaginary.” It is often used to stress the aptness of a metaphorical description.
+
+---
