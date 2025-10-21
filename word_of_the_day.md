@@ -1750,3 +1750,10 @@ Veritable is a formal adjective that means “being in fact the thing named and 
 An etymology is an explanation of a word’s history—that is, where the word came from and how it developed. 
 
 ---
+###### *Oct 21, 2025*
+### [sedentary](https://www.merriam-webster.com/dictionary/sedentary)
+<small>*adjective*</small> | <small>SED-un-tair-ee</small>
+
+Something described as sedentary does or involves a lot of sitting. Sedentary can also mean "not physically active" (as in "a sedentary lifestyle") or "not migratory" (as in "sedentary birds" or "a sedentary civilization").
+
+---
