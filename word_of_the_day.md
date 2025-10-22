@@ -1757,3 +1757,10 @@ An etymology is an explanation of a word’s history—that is, where the word c
 Something described as sedentary does or involves a lot of sitting. Sedentary can also mean "not physically active" (as in "a sedentary lifestyle") or "not migratory" (as in "sedentary birds" or "a sedentary civilization").
 
 ---
+###### *Oct 22, 2025*
+### [frolic](https://www.merriam-webster.com/dictionary/frolic)
+<small>*verb*</small> | <small>FRAH-lik</small>
+
+To frolic is to play and move about happily.
+
+---
