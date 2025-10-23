@@ -1764,3 +1764,10 @@ Something described as sedentary does or involves a lot of sitting. Sedentary ca
 To frolic is to play and move about happily.
 
 ---
+###### *Oct 23, 2025*
+### [litany](https://www.merriam-webster.com/dictionary/litany)
+<small>*noun*</small> | <small>LIT-uh-nee</small>
+
+Litany usually refers to a long list of complaints, problems, etc. It can also refer to a sizable series or set, a lengthy recitation, a repetitive chant, or a particular kind of call-and-response prayer.
+
+---
