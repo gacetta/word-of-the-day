@@ -1771,3 +1771,10 @@ To frolic is to play and move about happily.
 Litany usually refers to a long list of complaints, problems, etc. It can also refer to a sizable series or set, a lengthy recitation, a repetitive chant, or a particular kind of call-and-response prayer.
 
 ---
+###### *Oct 24, 2025*
+### [rancid](https://www.merriam-webster.com/dictionary/rancid)
+<small>*adjective*</small> | <small>RAN-sid</small>
+
+Rancid usually describes something edible that has a strong and unpleasant smell or taste because it is no longer fresh. In figurative use, rancid describes things that are very distasteful or offensive.
+
+---
