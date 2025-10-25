@@ -1778,3 +1778,10 @@ Litany usually refers to a long list of complaints, problems, etc. It can also r
 Rancid usually describes something edible that has a strong and unpleasant smell or taste because it is no longer fresh. In figurative use, rancid describes things that are very distasteful or offensive.
 
 ---
+###### *Oct 25, 2025*
+### [wreak](https://www.merriam-webster.com/dictionary/wreak)
+<small>*verb*</small> | <small>REEK</small>
+
+Wreak means “to cause something very harmful or damaging.” It is often used with on or upon.
+
+---
