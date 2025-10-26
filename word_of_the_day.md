@@ -1785,3 +1785,10 @@ Rancid usually describes something edible that has a strong and unpleasant smell
 Wreak means “to cause something very harmful or damaging.” It is often used with on or upon.
 
 ---
+###### *Oct 26, 2025*
+### [cognoscente](https://www.merriam-webster.com/dictionary/cognoscente)
+<small>*noun*</small> | <small>kahn-yuh-SHEN-tee</small>
+
+Cognoscente refers to a person with expert knowledge in a subject. It is usually encountered in its plural form, cognoscenti, and preceded by the.
+
+---
