@@ -1792,3 +1792,10 @@ Wreak means “to cause something very harmful or damaging.” It is often used 
 Cognoscente refers to a person with expert knowledge in a subject. It is usually encountered in its plural form, cognoscenti, and preceded by the.
 
 ---
+###### *Oct 27, 2025*
+### [acerbic](https://www.merriam-webster.com/dictionary/acerbic)
+<small>*adjective*</small> | <small>uh-SER-bik</small>
+
+Something described as acerbic is sharply or bitingly critical, sarcastic, or ironic in temper, mood, or tone.
+
+---
