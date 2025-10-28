@@ -1799,3 +1799,10 @@ Cognoscente refers to a person with expert knowledge in a subject. It is usually
 Something described as acerbic is sharply or bitingly critical, sarcastic, or ironic in temper, mood, or tone.
 
 ---
+###### *Oct 28, 2025*
+### [menagerie](https://www.merriam-webster.com/dictionary/menagerie)
+<small>*noun*</small> | <small>muh-NAJ-uh-ree</small>
+
+Menagerie refers to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer figuratively to any varied mixture of things.
+
+---
