@@ -1806,3 +1806,10 @@ Something described as acerbic is sharply or bitingly critical, sarcastic, or ir
 Menagerie refers to a collection of animals kept especially to be shown to the public, as well as a place where such animals are kept. It can also refer figuratively to any varied mixture of things.
 
 ---
+###### *Oct 29, 2025*
+### [deliquesce](https://www.merriam-webster.com/dictionary/deliquesce)
+<small>*verb*</small> | <small>del-ih-KWESS</small>
+
+Deliquesce can mean "to dissolve or melt away" or, in reference to some fungal structures (such as mushroom gills), "to become soft or liquid with age or maturity."
+
+---
