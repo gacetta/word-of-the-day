@@ -1813,3 +1813,10 @@ Menagerie refers to a collection of animals kept especially to be shown to the p
 Deliquesce can mean "to dissolve or melt away" or, in reference to some fungal structures (such as mushroom gills), "to become soft or liquid with age or maturity."
 
 ---
+###### *Oct 30, 2025*
+### [truculent](https://www.merriam-webster.com/dictionary/truculent)
+<small>*adjective*</small> | <small>TRUCK-yuh-lunt</small>
+
+Truculent describes a person who is easily annoyed and eager to argue or fight. It can also describe the mood or attitude of such a person.
+
+---
