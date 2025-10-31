@@ -1820,3 +1820,10 @@ Deliquesce can mean "to dissolve or melt away" or, in reference to some fungal s
 Truculent describes a person who is easily annoyed and eager to argue or fight. It can also describe the mood or attitude of such a person.
 
 ---
+###### *Oct 31, 2025*
+### [hobgoblin](https://www.merriam-webster.com/dictionary/hobgoblin)
+<small>*noun*</small> | <small>HAHB-gahb-lin</small>
+
+A hobgoblin is a mischievous goblin that plays tricks in children’s stories. When used figuratively, hobgoblin refers to something that causes fear or worry. 
+
+---
