@@ -1827,3 +1827,10 @@ Truculent describes a person who is easily annoyed and eager to argue or fight. 
 A hobgoblin is a mischievous goblin that plays tricks in children’s stories. When used figuratively, hobgoblin refers to something that causes fear or worry. 
 
 ---
+###### *Nov 01, 2025*
+### [ostracize](https://www.merriam-webster.com/dictionary/ostracize)
+<small>*verb*</small> | <small>AH-struh-syze</small>
+
+To ostracize someone is to exclude them from a group by the agreement of the group's members. 
+
+---
