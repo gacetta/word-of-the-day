@@ -1834,3 +1834,10 @@ A hobgoblin is a mischievous goblin that plays tricks in children’s stories. W
 To ostracize someone is to exclude them from a group by the agreement of the group's members. 
 
 ---
+###### *Nov 02, 2025*
+### [arbitrary](https://www.merriam-webster.com/dictionary/arbitrary)
+<small>*adjective*</small> | <small>AHR-buh-trair-ee</small>
+
+Arbitrary describes something that is not planned or chosen for a particular reason, is not based on reason or evidence, or is done without concern for what is fair or right.
+
+---
