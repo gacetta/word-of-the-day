@@ -1841,3 +1841,10 @@ To ostracize someone is to exclude them from a group by the agreement of the gro
 Arbitrary describes something that is not planned or chosen for a particular reason, is not based on reason or evidence, or is done without concern for what is fair or right.
 
 ---
+###### *Nov 03, 2025*
+### [fidelity](https://www.merriam-webster.com/dictionary/fidelity)
+<small>*noun*</small> | <small>fuh-DELL-uh-tee</small>
+
+Fidelity is the quality or state of being faithful to a person, such as a partner or spouse, or a thing, such as one’s country. Fidelity can also refer to accuracy or exactness in details, or the degree to which an electronic device (such as a television) accurately reproduces its effect (such as sound or picture).
+
+---
