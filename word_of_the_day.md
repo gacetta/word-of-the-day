@@ -1848,3 +1848,10 @@ Arbitrary describes something that is not planned or chosen for a particular rea
 Fidelity is the quality or state of being faithful to a person, such as a partner or spouse, or a thing, such as one’s country. Fidelity can also refer to accuracy or exactness in details, or the degree to which an electronic device (such as a television) accurately reproduces its effect (such as sound or picture).
 
 ---
+###### *Nov 04, 2025*
+### [spontaneous](https://www.merriam-webster.com/dictionary/spontaneous)
+<small>*adjective*</small> | <small>spahn-TAY-nee-us</small>
+
+Spontaneous describes something that is done or said in a natural and often sudden way and without a lot of thought or planning. It can describe a person who does things that have not been planned but that seem enjoyable and worth doing at a particular time.
+
+---
