@@ -1855,3 +1855,10 @@ Fidelity is the quality or state of being faithful to a person, such as a partne
 Spontaneous describes something that is done or said in a natural and often sudden way and without a lot of thought or planning. It can describe a person who does things that have not been planned but that seem enjoyable and worth doing at a particular time.
 
 ---
+###### *Nov 05, 2025*
+### [lout](https://www.merriam-webster.com/dictionary/lout)
+<small>*noun*</small> | <small>LOUT</small>
+
+A lout is an awkward brutish person.
+
+---
