@@ -1862,3 +1862,10 @@ Spontaneous describes something that is done or said in a natural and often sudd
 A lout is an awkward brutish person.
 
 ---
+###### *Nov 06, 2025*
+### [conciliatory](https://www.merriam-webster.com/dictionary/conciliatory)
+<small>*adjective*</small> | <small>kun-SILL-yuh-tor-ee</small>
+
+Something described as conciliatory is intended to reduce hostility or to gain favor or goodwill.
+
+---
