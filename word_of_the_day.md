@@ -1869,3 +1869,10 @@ A lout is an awkward brutish person.
 Something described as conciliatory is intended to reduce hostility or to gain favor or goodwill.
 
 ---
+###### *Nov 07, 2025*
+### [vamoose](https://www.merriam-webster.com/dictionary/vamoose)
+<small>*verb*</small> | <small>vuh-MOOSS</small>
+
+Vamoose is an informal word that means "to depart quickly." 
+
+---
