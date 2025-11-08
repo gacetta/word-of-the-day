@@ -1876,3 +1876,10 @@ Something described as conciliatory is intended to reduce hostility or to gain f
 Vamoose is an informal word that means "to depart quickly." 
 
 ---
+###### *Nov 08, 2025*
+### [bromide](https://www.merriam-webster.com/dictionary/bromide)
+<small>*noun*</small> | <small>BROH-myde</small>
+
+A bromide is a statement intended to make someone feel happier or calmer, but too dull and unoriginal to be effective.
+
+---
