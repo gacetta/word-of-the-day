@@ -1883,3 +1883,10 @@ Vamoose is an informal word that means "to depart quickly."
 A bromide is a statement intended to make someone feel happier or calmer, but too dull and unoriginal to be effective.
 
 ---
+###### *Nov 09, 2025*
+### [improvident](https://www.merriam-webster.com/dictionary/improvident)
+<small>*adjective*</small> | <small>im-PRAH-vuh-dunt</small>
+
+Improvident is a formal word used to describe something that does not foresee or provide for the future, especially with regard to money. An improvident relationship, habit, or practice is financially unwise or impractical.
+
+---
