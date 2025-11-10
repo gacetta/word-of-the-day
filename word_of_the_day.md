@@ -1890,3 +1890,10 @@ A bromide is a statement intended to make someone feel happier or calmer, but to
 Improvident is a formal word used to describe something that does not foresee or provide for the future, especially with regard to money. An improvident relationship, habit, or practice is financially unwise or impractical.
 
 ---
+###### *Nov 10, 2025*
+### [temerity](https://www.merriam-webster.com/dictionary/temerity)
+<small>*noun*</small> | <small>tuh-MAIR-uh-tee</small>
+
+Temerity is the quality of being confident and unafraid of danger or punishment, especially in a way that seems rude or foolish. Temerity may also refer to a rash or reckless act.
+
+---
