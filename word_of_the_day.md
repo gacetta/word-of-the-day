@@ -1897,3 +1897,10 @@ Improvident is a formal word used to describe something that does not foresee or
 Temerity is the quality of being confident and unafraid of danger or punishment, especially in a way that seems rude or foolish. Temerity may also refer to a rash or reckless act.
 
 ---
+###### *Nov 11, 2025*
+### [doughty](https://www.merriam-webster.com/dictionary/doughty)
+<small>*adjective*</small> | <small>DOW-tee</small>
+
+Doughty is a word with an old-fashioned flair used to describe someone who is brave, strong, and determined.
+
+---
