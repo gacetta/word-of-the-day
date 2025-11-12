@@ -1904,3 +1904,10 @@ Temerity is the quality of being confident and unafraid of danger or punishment,
 Doughty is a word with an old-fashioned flair used to describe someone who is brave, strong, and determined.
 
 ---
+###### *Nov 12, 2025*
+### [abide](https://www.merriam-webster.com/dictionary/abide)
+<small>*verb*</small> | <small>uh-BYDE</small>
+
+If someone cannot abide someone or something bad, unpleasant, etc., they cannot tolerate or accept that person or thing. Abide can also mean "to accept without objection" and "to remain or continue."
+
+---
