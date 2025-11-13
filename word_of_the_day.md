@@ -1911,3 +1911,10 @@ Doughty is a word with an old-fashioned flair used to describe someone who is br
 If someone cannot abide someone or something bad, unpleasant, etc., they cannot tolerate or accept that person or thing. Abide can also mean "to accept without objection" and "to remain or continue."
 
 ---
+###### *Nov 13, 2025*
+### [peremptory](https://www.merriam-webster.com/dictionary/peremptory)
+<small>*adjective*</small> | <small>puh-REMP-tuh-ree</small>
+
+Peremptory is a formal word used especially in legal contexts to describe an order, command, etc., that requires immediate compliance with no opportunity to show why one should not comply. It is also used disapprovingly to describe someone with an arrogant attitude, or something indicative of such an attitude.
+
+---
