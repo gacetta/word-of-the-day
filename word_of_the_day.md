@@ -1918,3 +1918,10 @@ If someone cannot abide someone or something bad, unpleasant, etc., they cannot 
 Peremptory is a formal word used especially in legal contexts to describe an order, command, etc., that requires immediate compliance with no opportunity to show why one should not comply. It is also used disapprovingly to describe someone with an arrogant attitude, or something indicative of such an attitude.
 
 ---
+###### *Nov 14, 2025*
+### [heyday](https://www.merriam-webster.com/dictionary/heyday)
+<small>*noun*</small> | <small>HAY-day</small>
+
+Heyday refers to the period of one's greatest popularity, vigor, or prosperity. It is usually used in the singular.
+
+---
