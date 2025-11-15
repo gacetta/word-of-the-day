@@ -1925,3 +1925,10 @@ Peremptory is a formal word used especially in legal contexts to describe an ord
 Heyday refers to the period of one's greatest popularity, vigor, or prosperity. It is usually used in the singular.
 
 ---
+###### *Nov 15, 2025*
+### [radial](https://www.merriam-webster.com/dictionary/radial)
+<small>*adjective*</small> | <small>RAY-dee-ul</small>
+
+Radial describes things that are arranged or have parts arranged in straight lines coming out from the center of a circle.
+
+---
