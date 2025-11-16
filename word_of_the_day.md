@@ -1932,3 +1932,10 @@ Heyday refers to the period of one's greatest popularity, vigor, or prosperity. 
 Radial describes things that are arranged or have parts arranged in straight lines coming out from the center of a circle.
 
 ---
+###### *Nov 16, 2025*
+### [writhe](https://www.merriam-webster.com/dictionary/writhe)
+<small>*verb*</small> | <small>RYTHE</small>
+
+To writhe is to twist one’s body from side to side. The word is often used when the body or a bodily part is twisting in pain.
+
+---
