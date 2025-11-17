@@ -1939,3 +1939,10 @@ Radial describes things that are arranged or have parts arranged in straight lin
 To writhe is to twist one’s body from side to side. The word is often used when the body or a bodily part is twisting in pain.
 
 ---
+###### *Nov 17, 2025*
+### [crucible](https://www.merriam-webster.com/dictionary/crucible)
+<small>*noun*</small> | <small>KROO-suh-bul</small>
+
+A crucible, in the word’s literal use, is a pot in which metals or other substances are heated to a very high temperature or melted. But crucible is more often encountered in figurative use referring to a difficult test or challenge, or to a place or situation that forces people to change or make difficult decisions.   
+
+---
