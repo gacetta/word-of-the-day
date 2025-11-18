@@ -1946,3 +1946,10 @@ To writhe is to twist one’s body from side to side. The word is often used whe
 A crucible, in the word’s literal use, is a pot in which metals or other substances are heated to a very high temperature or melted. But crucible is more often encountered in figurative use referring to a difficult test or challenge, or to a place or situation that forces people to change or make difficult decisions.   
 
 ---
+###### *Nov 18, 2025*
+### [eccentric](https://www.merriam-webster.com/dictionary/eccentric)
+<small>*adjective*</small> | <small>ik-SEN-trik</small>
+
+Eccentric usually describes people and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. It is also used technically to mean "deviating from a circular path" and "located elsewhere than at the geometric center."
+
+---
