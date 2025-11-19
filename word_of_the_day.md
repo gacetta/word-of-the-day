@@ -1953,3 +1953,10 @@ A crucible, in the word’s literal use, is a pot in which metals or other subst
 Eccentric usually describes people and things that deviate from conventional or accepted usage or behavior, especially in odd or whimsical ways. It is also used technically to mean "deviating from a circular path" and "located elsewhere than at the geometric center."
 
 ---
+###### *Nov 19, 2025*
+### [serendipity](https://www.merriam-webster.com/dictionary/serendipity)
+<small>*noun*</small> | <small>sair-un-DIP-uh-tee</small>
+
+Serendipity refers to luck that takes the form of finding valuable or pleasant things that are not looked for, or to an instance of such luck.
+
+---
