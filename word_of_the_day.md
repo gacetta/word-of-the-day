@@ -1960,3 +1960,10 @@ Eccentric usually describes people and things that deviate from conventional or 
 Serendipity refers to luck that takes the form of finding valuable or pleasant things that are not looked for, or to an instance of such luck.
 
 ---
+###### *Nov 20, 2025*
+### [gauche](https://www.merriam-webster.com/dictionary/gauche)
+<small>*adjective*</small> | <small>GOHSH</small>
+
+Gauche describes someone or something having or showing a lack of awareness about the proper way to behave. When describing a person or a behavior, gauche can mean “socially awkward” or “tactless”; when describing an object (such as a product with a vulgar image or slogan on it) it can mean “crudely made or done.”
+
+---
