@@ -1967,3 +1967,10 @@ Serendipity refers to luck that takes the form of finding valuable or pleasant t
 Gauche describes someone or something having or showing a lack of awareness about the proper way to behave. When describing a person or a behavior, gauche can mean “socially awkward” or “tactless”; when describing an object (such as a product with a vulgar image or slogan on it) it can mean “crudely made or done.”
 
 ---
+###### *Nov 21, 2025*
+### [bloviate](https://www.merriam-webster.com/dictionary/bloviate)
+<small>*verb*</small> | <small>BLOH-vee-ayt</small>
+
+To bloviate is to speak or write in an arrogant tone and with more words than are necessary.
+
+---
