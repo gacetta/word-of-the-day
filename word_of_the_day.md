@@ -1974,3 +1974,10 @@ Gauche describes someone or something having or showing a lack of awareness abou
 To bloviate is to speak or write in an arrogant tone and with more words than are necessary.
 
 ---
+###### *Nov 22, 2025*
+### [metonymy](https://www.merriam-webster.com/dictionary/metonymy)
+<small>*noun*</small> | <small>muh-TAH-nuh-mee</small>
+
+Metonymy refers to a figure of speech in which a word that is associated with something is used to refer to the thing itself, as when crown is used to mean “king” or “queen.”
+
+---
