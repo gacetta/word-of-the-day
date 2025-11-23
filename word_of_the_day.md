@@ -1981,3 +1981,10 @@ To bloviate is to speak or write in an arrogant tone and with more words than ar
 Metonymy refers to a figure of speech in which a word that is associated with something is used to refer to the thing itself, as when crown is used to mean “king” or “queen.”
 
 ---
+###### *Nov 23, 2025*
+### [desolate](https://www.merriam-webster.com/dictionary/desolate)
+<small>*adjective*</small> | <small>DESS-uh-lut</small>
+
+Desolate describes places that lack people, plants, animals, etc., that make people feel welcome in a place; desolate places are, in other words, deserted or barren. Desolate can also mean “joyless” or “gloomy.”
+
+---
