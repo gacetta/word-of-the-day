@@ -1988,3 +1988,10 @@ Metonymy refers to a figure of speech in which a word that is associated with so
 Desolate describes places that lack people, plants, animals, etc., that make people feel welcome in a place; desolate places are, in other words, deserted or barren. Desolate can also mean “joyless” or “gloomy.”
 
 ---
+###### *Nov 24, 2025*
+### [amalgamate](https://www.merriam-webster.com/dictionary/amalgamate)
+<small>*verb*</small> | <small>uh-MAL-guh-mayt</small>
+
+Amalgamate is a formal verb meaning "to unite (two or more things) into one thing."
+
+---
