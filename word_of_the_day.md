@@ -1995,3 +1995,10 @@ Desolate describes places that lack people, plants, animals, etc., that make peo
 Amalgamate is a formal verb meaning "to unite (two or more things) into one thing."
 
 ---
+###### *Nov 25, 2025*
+### [perdition](https://www.merriam-webster.com/dictionary/perdition)
+<small>*noun*</small> | <small>per-DISH-un</small>
+
+Perdition refers to hell, or to the state of being in hell forever as punishment after death—in other words, damnation. It is usually used figuratively.  
+
+---
