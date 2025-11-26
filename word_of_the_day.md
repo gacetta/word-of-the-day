@@ -2002,3 +2002,10 @@ Amalgamate is a formal verb meaning "to unite (two or more things) into one thin
 Perdition refers to hell, or to the state of being in hell forever as punishment after death—in other words, damnation. It is usually used figuratively.  
 
 ---
+###### *Nov 26, 2025*
+### [unabashed](https://www.merriam-webster.com/dictionary/unabashed)
+<small>*adjective*</small> | <small>un-uh-BASHT</small>
+
+Someone who is unabashed is not embarrassed or ashamed about openly expressing strong feelings or opinions.
+
+---
