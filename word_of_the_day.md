@@ -2009,3 +2009,10 @@ Perdition refers to hell, or to the state of being in hell forever as punishment
 Someone who is unabashed is not embarrassed or ashamed about openly expressing strong feelings or opinions.
 
 ---
+###### *Nov 27, 2025*
+### [cornucopia](https://www.merriam-webster.com/dictionary/cornucopia)
+<small>*noun*</small> | <small>kor-nuh-KOH-pee-uh</small>
+
+A cornucopia, also known as a horn of plenty, is a curved, hollow goat’s horn or similarly shaped receptacle (such as a horn-shaped basket) that is overflowing, especially with fruit and vegetables. The image of a cornucopia is commonly used as decoration and as a symbol of abundance, but the word cornucopia is today more often encountered in its metaphorical use referring to an overflowing abundance, or to a seemingly inexhaustible amount of something. 
+
+---
