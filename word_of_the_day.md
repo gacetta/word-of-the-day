@@ -2016,3 +2016,10 @@ Someone who is unabashed is not embarrassed or ashamed about openly expressing s
 A cornucopia, also known as a horn of plenty, is a curved, hollow goat’s horn or similarly shaped receptacle (such as a horn-shaped basket) that is overflowing, especially with fruit and vegetables. The image of a cornucopia is commonly used as decoration and as a symbol of abundance, but the word cornucopia is today more often encountered in its metaphorical use referring to an overflowing abundance, or to a seemingly inexhaustible amount of something. 
 
 ---
+###### *Nov 28, 2025*
+### [sustain](https://www.merriam-webster.com/dictionary/sustain)
+<small>*verb*</small> | <small>suh-STAYN</small>
+
+To sustain someone or something is to provide what is needed for that person or thing to exist or continue. Sustain also means "to hold up the weight of," "to suffer or endure," or "to confirm or prove." In legal contexts, to sustain something is to decide or state that it is proper, legal, or fair.
+
+---
