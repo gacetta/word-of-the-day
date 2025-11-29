@@ -2023,3 +2023,10 @@ A cornucopia, also known as a horn of plenty, is a curved, hollow goat’s horn 
 To sustain someone or something is to provide what is needed for that person or thing to exist or continue. Sustain also means "to hold up the weight of," "to suffer or endure," or "to confirm or prove." In legal contexts, to sustain something is to decide or state that it is proper, legal, or fair.
 
 ---
+###### *Nov 29, 2025*
+### [exculpatory](https://www.merriam-webster.com/dictionary/exculpatory)
+<small>*adjective*</small> | <small>ek-SKUL-puh-tor-ee</small>
+
+Something described as exculpatory serves to prove that someone is not guilty of doing something wrong.
+
+---
