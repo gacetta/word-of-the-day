@@ -2030,3 +2030,10 @@ To sustain someone or something is to provide what is needed for that person or 
 Something described as exculpatory serves to prove that someone is not guilty of doing something wrong.
 
 ---
+###### *Nov 30, 2025*
+### [iconoclast](https://www.merriam-webster.com/dictionary/iconoclast)
+<small>*noun*</small> | <small>eye-KAH-nuh-klast</small>
+
+Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who criticizes or opposes beliefs and practices that are widely accepted.
+
+---
