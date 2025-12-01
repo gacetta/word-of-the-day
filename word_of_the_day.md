@@ -2037,3 +2037,10 @@ Something described as exculpatory serves to prove that someone is not guilty of
 Iconoclast originally referred to someone who destroys religious images or who opposes their veneration. It is now used to refer broadly to anyone who criticizes or opposes beliefs and practices that are widely accepted.
 
 ---
+###### *Dec 01, 2025*
+### [pseudonym](https://www.merriam-webster.com/dictionary/pseudonym)
+<small>*noun*</small> | <small>SOO-duh-nim</small>
+
+A pseudonym is a name that someone (such as a writer) uses instead of their real name.
+
+---
