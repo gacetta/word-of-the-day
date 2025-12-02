@@ -2044,3 +2044,10 @@ Iconoclast originally referred to someone who destroys religious images or who o
 A pseudonym is a name that someone (such as a writer) uses instead of their real name.
 
 ---
+###### *Dec 02, 2025*
+### [cajole](https://www.merriam-webster.com/dictionary/cajole)
+<small>*verb*</small> | <small>kuh-JOHL</small>
+
+To cajole someone is to use flattery or gentle urging to persuade them to do something or to give you something. Cajole can also mean “to deceive with soothing words or false promises.” It is often used with the word into.
+
+---
