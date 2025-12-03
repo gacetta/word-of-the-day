@@ -2051,3 +2051,10 @@ A pseudonym is a name that someone (such as a writer) uses instead of their real
 To cajole someone is to use flattery or gentle urging to persuade them to do something or to give you something. Cajole can also mean “to deceive with soothing words or false promises.” It is often used with the word into.
 
 ---
+###### *Dec 03, 2025*
+### [alchemy](https://www.merriam-webster.com/dictionary/alchemy)
+<small>*noun*</small> | <small>AL-kuh-mee</small>
+
+Alchemy refers to a power or process that changes or transforms something in a mysterious or impressive way.
+
+---
