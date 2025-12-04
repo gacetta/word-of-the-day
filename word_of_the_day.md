@@ -2058,3 +2058,10 @@ To cajole someone is to use flattery or gentle urging to persuade them to do som
 Alchemy refers to a power or process that changes or transforms something in a mysterious or impressive way.
 
 ---
+###### *Dec 04, 2025*
+### [frowsy](https://www.merriam-webster.com/dictionary/frowsy)
+<small>*adjective*</small> | <small>FROW-zee</small>
+
+Something described as frowsy has a messy or dirty appearance. 
+
+---
