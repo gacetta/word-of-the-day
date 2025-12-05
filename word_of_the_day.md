@@ -2065,3 +2065,10 @@ Alchemy refers to a power or process that changes or transforms something in a m
 Something described as frowsy has a messy or dirty appearance. 
 
 ---
+###### *Dec 05, 2025*
+### [inoculate](https://www.merriam-webster.com/dictionary/inoculate)
+<small>*verb*</small> | <small>ih-NAHK-yuh-layt</small>
+
+To inoculate a person or animal is to introduce immunologically active material (such as an antibody or antigen) into them especially in order to treat or prevent a disease. Inoculate can also mean "to introduce (something, such as a microorganism) into a suitable situation for growth," and in figurative use, it can mean "to protect as if by inoculation" or "to introduce something into the mind of."
+
+---
