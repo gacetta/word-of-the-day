@@ -2072,3 +2072,10 @@ Something described as frowsy has a messy or dirty appearance.
 To inoculate a person or animal is to introduce immunologically active material (such as an antibody or antigen) into them especially in order to treat or prevent a disease. Inoculate can also mean "to introduce (something, such as a microorganism) into a suitable situation for growth," and in figurative use, it can mean "to protect as if by inoculation" or "to introduce something into the mind of."
 
 ---
+###### *Dec 06, 2025*
+### [sensibility](https://www.merriam-webster.com/dictionary/sensibility)
+<small>*noun*</small> | <small>sen-suh-BIL-uh-tee</small>
+
+Sensibility is a formal word often used in its plural form to refer someone’s personal or cultural approach to what they encounter, as in “the speaker made sure to tailor his speech to the sensibilities of his audience.” Sensibility can also be used for the kind of feelings a person tends to have in general, as well as for the ability to feel and understand emotions.
+
+---
