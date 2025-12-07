@@ -2079,3 +2079,10 @@ To inoculate a person or animal is to introduce immunologically active material 
 Sensibility is a formal word often used in its plural form to refer someone’s personal or cultural approach to what they encounter, as in “the speaker made sure to tailor his speech to the sensibilities of his audience.” Sensibility can also be used for the kind of feelings a person tends to have in general, as well as for the ability to feel and understand emotions.
 
 ---
+###### *Dec 07, 2025*
+### [enigmatic](https://www.merriam-webster.com/dictionary/enigmatic)
+<small>*adjective*</small> | <small>en-ig-MAT-ik</small>
+
+Something or someone described as enigmatic is mysterious and difficult to understand.
+
+---
