@@ -2086,3 +2086,10 @@ Sensibility is a formal word often used in its plural form to refer someone’s 
 Something or someone described as enigmatic is mysterious and difficult to understand.
 
 ---
+###### *Dec 08, 2025*
+### [bravado](https://www.merriam-webster.com/dictionary/bravado)
+<small>*noun*</small> | <small>bruh-VAH-doh</small>
+
+Bravado refers to confident or brave talk or behavior that is intended to impress other people.
+
+---
