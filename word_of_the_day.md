@@ -2093,3 +2093,10 @@ Something or someone described as enigmatic is mysterious and difficult to under
 Bravado refers to confident or brave talk or behavior that is intended to impress other people.
 
 ---
+###### *Dec 09, 2025*
+### [paltry](https://www.merriam-webster.com/dictionary/paltry)
+<small>*adjective*</small> | <small>PAWL-tree</small>
+
+Paltry is a formal word that can describe something that is very small or too small in amount, or something that has little meaning, importance, or worth.
+
+---
