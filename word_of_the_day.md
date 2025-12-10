@@ -2100,3 +2100,10 @@ Bravado refers to confident or brave talk or behavior that is intended to impres
 Paltry is a formal word that can describe something that is very small or too small in amount, or something that has little meaning, importance, or worth.
 
 ---
+###### *Dec 10, 2025*
+### [grift](https://www.merriam-webster.com/dictionary/grift)
+<small>*verb*</small> | <small>GRIFT</small>
+
+To grift is to use dishonest tricks to illegally take money or property.
+
+---
