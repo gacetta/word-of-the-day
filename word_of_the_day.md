@@ -2107,3 +2107,10 @@ Paltry is a formal word that can describe something that is very small or too sm
 To grift is to use dishonest tricks to illegally take money or property.
 
 ---
+###### *Dec 11, 2025*
+### [leviathan](https://www.merriam-webster.com/dictionary/leviathan)
+<small>*noun*</small> | <small>luh-VYE-uh-thun</small>
+
+Leviathan is a word with literary flair that can refer broadly to something very large and powerful, or more narrowly to a large sea animal, or a totalitarian state having a vast bureaucracy.
+
+---
