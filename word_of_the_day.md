@@ -2114,3 +2114,10 @@ To grift is to use dishonest tricks to illegally take money or property.
 Leviathan is a word with literary flair that can refer broadly to something very large and powerful, or more narrowly to a large sea animal, or a totalitarian state having a vast bureaucracy.
 
 ---
+###### *Dec 12, 2025*
+### [waggish](https://www.merriam-webster.com/dictionary/waggish)
+<small>*adjective*</small> | <small>WAG-ish</small>
+
+Waggish describes someone who is silly and playful, and especially someone who displays a mischievous sense of humor. The word can also describe things that such a person might do or possess. 
+
+---
