@@ -2121,3 +2121,10 @@ Leviathan is a word with literary flair that can refer broadly to something very
 Waggish describes someone who is silly and playful, and especially someone who displays a mischievous sense of humor. The word can also describe things that such a person might do or possess. 
 
 ---
+###### *Dec 13, 2025*
+### [alleviate](https://www.merriam-webster.com/dictionary/alleviate)
+<small>*verb*</small> | <small>uh-LEE-vee-ayt</small>
+
+To alleviate something is to make it less painful, difficult, or severe. Alleviate can also mean "to partially remove or correct."
+
+---
