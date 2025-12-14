@@ -2128,3 +2128,10 @@ Waggish describes someone who is silly and playful, and especially someone who d
 To alleviate something is to make it less painful, difficult, or severe. Alleviate can also mean "to partially remove or correct."
 
 ---
+###### *Dec 14, 2025*
+### [multitudinous](https://www.merriam-webster.com/dictionary/multitudinous)
+<small>*adjective*</small> | <small>mul-tuh-TOO-duh-nus</small>
+
+Multitudinous is a formal word with meanings that relate to multitudes. It can mean “existing in a great multitude”—that is, “very many”; or “including a multitude of individuals”; or “existing in or consisting of innumerable elements or aspects.”
+
+---
