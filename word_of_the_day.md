@@ -2135,3 +2135,10 @@ To alleviate something is to make it less painful, difficult, or severe. Allevia
 Multitudinous is a formal word with meanings that relate to multitudes. It can mean “existing in a great multitude”—that is, “very many”; or “including a multitude of individuals”; or “existing in or consisting of innumerable elements or aspects.”
 
 ---
+###### *Dec 15, 2025*
+### [dreidel](https://www.merriam-webster.com/dictionary/dreidel)
+<small>*noun*</small> | <small>DRAY-dul</small>
+
+A dreidel is a 4-sided toy marked with Hebrew letters and spun like a top in a game of chance. The game, played by children especially at Hanukkah, is also called dreidel.
+
+---
