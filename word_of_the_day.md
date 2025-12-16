@@ -2142,3 +2142,10 @@ Multitudinous is a formal word with meanings that relate to multitudes. It can m
 A dreidel is a 4-sided toy marked with Hebrew letters and spun like a top in a game of chance. The game, played by children especially at Hanukkah, is also called dreidel.
 
 ---
+###### *Dec 16, 2025*
+### [conversant](https://www.merriam-webster.com/dictionary/conversant)
+<small>*adjective*</small> | <small>kun-VER-sunt</small>
+
+Conversant, usually used in the phrase "conversant with," describes someone who has knowledge of or experience with something. 
+
+---
