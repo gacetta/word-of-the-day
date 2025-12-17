@@ -2149,3 +2149,10 @@ A dreidel is a 4-sided toy marked with Hebrew letters and spun like a top in a g
 Conversant, usually used in the phrase "conversant with," describes someone who has knowledge of or experience with something. 
 
 ---
+###### *Dec 17, 2025*
+### [espouse](https://www.merriam-webster.com/dictionary/espouse)
+<small>*verb*</small> | <small>ih-SPOWZ</small>
+
+To espouse an ideology, belief, etc., is to take it up and support it as a cause. Espouse is usually encountered in formal speech and writing.
+
+---
