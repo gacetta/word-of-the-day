@@ -2156,3 +2156,10 @@ Conversant, usually used in the phrase "conversant with," describes someone who 
 To espouse an ideology, belief, etc., is to take it up and support it as a cause. Espouse is usually encountered in formal speech and writing.
 
 ---
+###### *Dec 18, 2025*
+### [jaunty](https://www.merriam-webster.com/dictionary/jaunty)
+<small>*adjective*</small> | <small>JAWN-tee</small>
+
+Something described as jaunty is lively in manner or appearance. Jaunty can also describe something, such as an article of clothing, that suggests a lively and confident quality. 
+
+---
