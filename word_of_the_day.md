@@ -2163,3 +2163,10 @@ To espouse an ideology, belief, etc., is to take it up and support it as a cause
 Something described as jaunty is lively in manner or appearance. Jaunty can also describe something, such as an article of clothing, that suggests a lively and confident quality. 
 
 ---
+###### *Dec 19, 2025*
+### [veracity](https://www.merriam-webster.com/dictionary/veracity)
+<small>*noun*</small> | <small>vuh-RASS-uh-tee</small>
+
+Veracity is a formal word that can refer to truth or accuracy, or to the quality of being truthful or honest.
+
+---
