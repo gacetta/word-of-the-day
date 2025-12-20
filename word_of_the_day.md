@@ -2170,3 +2170,10 @@ Something described as jaunty is lively in manner or appearance. Jaunty can also
 Veracity is a formal word that can refer to truth or accuracy, or to the quality of being truthful or honest.
 
 ---
+###### *Dec 20, 2025*
+### [decorous](https://www.merriam-webster.com/dictionary/decorous)
+<small>*adjective*</small> | <small>DECK-er-us</small>
+
+Decorous is a formal adjective used to describe an attitude or behavior characterized by propriety and good taste. 
+
+---
