@@ -2177,3 +2177,10 @@ Veracity is a formal word that can refer to truth or accuracy, or to the quality
 Decorous is a formal adjective used to describe an attitude or behavior characterized by propriety and good taste. 
 
 ---
+###### *Dec 21, 2025*
+### [hibernaculum](https://www.merriam-webster.com/dictionary/hibernaculum)
+<small>*noun*</small> | <small>hye-ber-NAK-yuh-lum</small>
+
+Hibernaculum (plural hibernacula) refers to a shelter occupied during the winter by a dormant animal, such as an insect, snake, bat, or marmot.
+
+---
