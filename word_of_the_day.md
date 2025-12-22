@@ -2184,3 +2184,10 @@ Decorous is a formal adjective used to describe an attitude or behavior characte
 Hibernaculum (plural hibernacula) refers to a shelter occupied during the winter by a dormant animal, such as an insect, snake, bat, or marmot.
 
 ---
+###### *Dec 22, 2025*
+### [temporize](https://www.merriam-webster.com/dictionary/temporize)
+<small>*verb*</small> | <small>TEM-puh-ryze</small>
+
+To temporize is to avoid making a decision or giving a definite answer in order to have more time.  
+
+---
