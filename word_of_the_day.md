@@ -2191,3 +2191,10 @@ Hibernaculum (plural hibernacula) refers to a shelter occupied during the winter
 To temporize is to avoid making a decision or giving a definite answer in order to have more time.  
 
 ---
+###### *Dec 23, 2025*
+### [bespoke](https://www.merriam-webster.com/dictionary/bespoke)
+<small>*adjective*</small> | <small>bih-SPOHK</small>
+
+Bespoke describes something that is custom-made—that is, made to fit the needs or requirements of a particular person.
+
+---
