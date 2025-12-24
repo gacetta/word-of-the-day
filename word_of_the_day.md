@@ -2198,3 +2198,10 @@ To temporize is to avoid making a decision or giving a definite answer in order 
 Bespoke describes something that is custom-made—that is, made to fit the needs or requirements of a particular person.
 
 ---
+###### *Dec 24, 2025*
+### [hark back](https://www.merriam-webster.com/dictionary/hark back)
+<small>*verb*</small> | <small>HAHRK-BAK</small>
+
+Harking back can be about turning back to an earlier topic or circumstance, as in "a storyteller harking back to his youth," or it can be about going back to something as an origin or source, as in "a style that harks back to the turn of the previous century."
+
+---
