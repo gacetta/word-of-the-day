@@ -2205,3 +2205,10 @@ Bespoke describes something that is custom-made—that is, made to fit the needs
 Harking back can be about turning back to an earlier topic or circumstance, as in "a storyteller harking back to his youth," or it can be about going back to something as an origin or source, as in "a style that harks back to the turn of the previous century."
 
 ---
+###### *Dec 25, 2025*
+### [noel](https://www.merriam-webster.com/dictionary/noel)
+<small>*noun*</small> | <small>noh-EL</small>
+
+When capitalized, Noel refers to Christmas or the Christmas season. Uncapitalized, noel refers to a Christmas carol.
+
+---
