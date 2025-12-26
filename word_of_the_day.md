@@ -2212,3 +2212,10 @@ Harking back can be about turning back to an earlier topic or circumstance, as i
 When capitalized, Noel refers to Christmas or the Christmas season. Uncapitalized, noel refers to a Christmas carol.
 
 ---
+###### *Dec 26, 2025*
+### [grandiose](https://www.merriam-webster.com/dictionary/grandiose)
+<small>*adjective*</small> | <small>gran-dee-OHSS</small>
+
+Grandiose is  usually used disapprovingly to describe something that seems impressive or is intended to be impressive, but that is either not possible or practical.
+
+---
