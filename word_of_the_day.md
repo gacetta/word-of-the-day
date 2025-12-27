@@ -2219,3 +2219,10 @@ When capitalized, Noel refers to Christmas or the Christmas season. Uncapitalize
 Grandiose is  usually used disapprovingly to describe something that seems impressive or is intended to be impressive, but that is either not possible or practical.
 
 ---
+###### *Dec 27, 2025*
+### [apropos](https://www.merriam-webster.com/dictionary/apropos)
+<small>*preposition*</small> | <small>ap-ruh-POH</small>
+
+Apropos is used as a preposition to mean "with regard to." It is frequently used in the phrase "apropos of."
+
+---
