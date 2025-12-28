@@ -2226,3 +2226,10 @@ Grandiose is  usually used disapprovingly to describe something that seems impre
 Apropos is used as a preposition to mean "with regard to." It is frequently used in the phrase "apropos of."
 
 ---
+###### *Dec 28, 2025*
+### [yen](https://www.merriam-webster.com/dictionary/yen)
+<small>*noun*</small> | <small>YEN</small>
+
+A yen is a strong desire, urge, or craving for something.
+
+---
