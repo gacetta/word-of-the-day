@@ -2233,3 +2233,10 @@ Apropos is used as a preposition to mean "with regard to." It is frequently used
 A yen is a strong desire, urge, or craving for something.
 
 ---
+###### *Dec 29, 2025*
+### [nefarious](https://www.merriam-webster.com/dictionary/nefarious)
+<small>*adjective*</small> | <small>nih-FAIR-ee-us</small>
+
+Nefarious is a formal word that describes something as evil or immoral.
+
+---
