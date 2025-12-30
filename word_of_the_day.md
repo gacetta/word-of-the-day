@@ -2240,3 +2240,10 @@ A yen is a strong desire, urge, or craving for something.
 Nefarious is a formal word that describes something as evil or immoral.
 
 ---
+###### *Dec 30, 2025*
+### [charisma](https://www.merriam-webster.com/dictionary/charisma)
+<small>*noun*</small> | <small>kuh-RIZ-muh</small>
+
+Charisma refers to a special magnetic charm or appeal that causes people to feel attracted and excited by someone. A person with charisma is captivating and often admired. 
+
+---
