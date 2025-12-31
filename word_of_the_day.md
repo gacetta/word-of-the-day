@@ -2247,3 +2247,10 @@ Nefarious is a formal word that describes something as evil or immoral.
 Charisma refers to a special magnetic charm or appeal that causes people to feel attracted and excited by someone. A person with charisma is captivating and often admired. 
 
 ---
+###### *Dec 31, 2025*
+### [retrospective](https://www.merriam-webster.com/dictionary/retrospective)
+<small>*adjective*</small> | <small>reh-truh-SPEK-tiv</small>
+
+Retrospective describes something that relates to the past or to something that happened in the past.
+
+---
