@@ -2254,3 +2254,10 @@ Charisma refers to a special magnetic charm or appeal that causes people to feel
 Retrospective describes something that relates to the past or to something that happened in the past.
 
 ---
+###### *Jan 01, 2026*
+### [amortize](https://www.merriam-webster.com/dictionary/amortize)
+<small>*verb*</small> | <small>AM-er-tyze</small>
+
+To amortize something, such as a mortgage, is to pay for it by making regular payments over a long period of time. 
+
+---
