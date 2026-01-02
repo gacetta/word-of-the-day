@@ -2261,3 +2261,10 @@ Retrospective describes something that relates to the past or to something that 
 To amortize something, such as a mortgage, is to pay for it by making regular payments over a long period of time. 
 
 ---
+###### *Jan 02, 2026*
+### [febrile](https://www.merriam-webster.com/dictionary/febrile)
+<small>*adjective*</small> | <small>FEB-ryle</small>
+
+Febrile is a medical term meaning "marked or caused by fever; feverish." It is sometimes used figuratively, as in "a febrile political climate."
+
+---
