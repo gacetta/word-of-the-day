@@ -2268,3 +2268,10 @@ To amortize something, such as a mortgage, is to pay for it by making regular pa
 Febrile is a medical term meaning "marked or caused by fever; feverish." It is sometimes used figuratively, as in "a febrile political climate."
 
 ---
+###### *Jan 03, 2026*
+### [senescence](https://www.merriam-webster.com/dictionary/senescence)
+<small>*noun*</small> | <small>sih-NESS-unss</small>
+
+Senescence is a formal and technical word that refers to the state of being old or the process of becoming old.
+
+---
