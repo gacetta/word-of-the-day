@@ -2275,3 +2275,10 @@ Febrile is a medical term meaning "marked or caused by fever; feverish." It is s
 Senescence is a formal and technical word that refers to the state of being old or the process of becoming old.
 
 ---
+###### *Jan 04, 2026*
+### [titanic](https://www.merriam-webster.com/dictionary/titanic)
+<small>*adjective*</small> | <small>tye-TAN-ik</small>
+
+Something described as titanic is very great in size, force, or power.
+
+---
