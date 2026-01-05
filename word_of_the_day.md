@@ -2282,3 +2282,10 @@ Senescence is a formal and technical word that refers to the state of being old 
 Something described as titanic is very great in size, force, or power.
 
 ---
+###### *Jan 05, 2026*
+### [marginalia](https://www.merriam-webster.com/dictionary/marginalia)
+<small>*noun*</small> | <small>mahr-juh-NAY-lee-uh</small>
+
+Marginalia is a plural noun that refers to notes or other marks written in the margins of a text, and also to nonessential matters or items. 
+
+---
