@@ -2289,3 +2289,10 @@ Something described as titanic is very great in size, force, or power.
 Marginalia is a plural noun that refers to notes or other marks written in the margins of a text, and also to nonessential matters or items. 
 
 ---
+###### *Jan 06, 2026*
+### [loll](https://www.merriam-webster.com/dictionary/loll)
+<small>*verb*</small> | <small>LAHL</small>
+
+Loll most often means “to droop or hang loosely.” It can also mean “to act or move in a relaxed or lazy manner.”
+
+---
