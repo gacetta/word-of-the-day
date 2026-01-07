@@ -2296,3 +2296,10 @@ Marginalia is a plural noun that refers to notes or other marks written in the m
 Loll most often means “to droop or hang loosely.” It can also mean “to act or move in a relaxed or lazy manner.”
 
 ---
+###### *Jan 07, 2026*
+### [eminently](https://www.merriam-webster.com/dictionary/eminently)
+<small>*adverb*</small> | <small>EM-uh-nunt-lee</small>
+
+Eminently is used as a synonym of very and means "to a high degree."
+
+---
