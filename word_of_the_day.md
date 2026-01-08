@@ -2303,3 +2303,10 @@ Loll most often means “to droop or hang loosely.” It can also mean “to act
 Eminently is used as a synonym of very and means "to a high degree."
 
 ---
+###### *Jan 08, 2026*
+### [gumbo](https://www.merriam-webster.com/dictionary/gumbo)
+<small>*noun*</small> | <small>GUM-boh</small>
+
+Gumbo refers to a soup thickened with okra pods or filé and containing meat or seafoods and usually vegetables. The word is also used figuratively to refer to a mixture or blend of something.
+
+---
