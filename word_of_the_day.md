@@ -2310,3 +2310,10 @@ Eminently is used as a synonym of very and means "to a high degree."
 Gumbo refers to a soup thickened with okra pods or filé and containing meat or seafoods and usually vegetables. The word is also used figuratively to refer to a mixture or blend of something.
 
 ---
+###### *Jan 09, 2026*
+### [innocuous](https://www.merriam-webster.com/dictionary/innocuous)
+<small>*adjective*</small> | <small>ih-NAH-kyuh-wus</small>
+
+Innocuous describes either something that is not likely to bother or offend anyone (as in “an innocuous comment”), or something that causes no injury, or is otherwise considered harmless (as in “an innocuous prank”).
+
+---
