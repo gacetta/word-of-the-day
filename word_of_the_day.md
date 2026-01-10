@@ -2317,3 +2317,10 @@ Gumbo refers to a soup thickened with okra pods or filé and containing meat or 
 Innocuous describes either something that is not likely to bother or offend anyone (as in “an innocuous comment”), or something that causes no injury, or is otherwise considered harmless (as in “an innocuous prank”).
 
 ---
+###### *Jan 10, 2026*
+### [collude](https://www.merriam-webster.com/dictionary/collude)
+<small>*verb*</small> | <small>kuh-LOOD</small>
+
+To collude is to work with others secretly especially in order to do something illegal or dishonest. Collude is used as a synonym of conspire and plot.
+
+---
