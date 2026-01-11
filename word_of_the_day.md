@@ -2324,3 +2324,10 @@ Innocuous describes either something that is not likely to bother or offend anyo
 To collude is to work with others secretly especially in order to do something illegal or dishonest. Collude is used as a synonym of conspire and plot.
 
 ---
+###### *Jan 11, 2026*
+### [paradox](https://www.merriam-webster.com/dictionary/paradox)
+<small>*noun*</small> | <small>PAIR-uh-dahks</small>
+
+Paradox refers to something (such as a situation) that is made up of two opposite things and that seems impossible but is actually true or possible. It can also refer to someone who does two seemingly opposite things or who has qualities that are opposite; to a statement that seems to say two opposite things but that nonetheless may be true; or to the use of such statements in writing or speech.
+
+---
