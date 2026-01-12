@@ -2331,3 +2331,10 @@ To collude is to work with others secretly especially in order to do something i
 Paradox refers to something (such as a situation) that is made up of two opposite things and that seems impossible but is actually true or possible. It can also refer to someone who does two seemingly opposite things or who has qualities that are opposite; to a statement that seems to say two opposite things but that nonetheless may be true; or to the use of such statements in writing or speech.
 
 ---
+###### *Jan 12, 2026*
+### [brackish](https://www.merriam-webster.com/dictionary/brackish)
+<small>*adjective*</small> | <small>BRACK-ish</small>
+
+Brackish, meaning “somewhat salty,” usually describes water or bodies of water, such as rivers, lakes, and estuaries. The word can also mean “not appealing to the taste” or “repulsive.”
+
+---
