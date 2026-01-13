@@ -2338,3 +2338,10 @@ Paradox refers to something (such as a situation) that is made up of two opposit
 Brackish, meaning “somewhat salty,” usually describes water or bodies of water, such as rivers, lakes, and estuaries. The word can also mean “not appealing to the taste” or “repulsive.”
 
 ---
+###### *Jan 13, 2026*
+### [umbrage](https://www.merriam-webster.com/dictionary/umbrage)
+<small>*noun*</small> | <small>UM-brij</small>
+
+Umbrage refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.”
+
+---
