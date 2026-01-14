@@ -2345,3 +2345,10 @@ Brackish, meaning “somewhat salty,” usually describes water or bodies of wat
 Umbrage refers to a feeling of being offended by what someone has said or done. It is often used in the phrase “take umbrage.”
 
 ---
+###### *Jan 14, 2026*
+### [delegate](https://www.merriam-webster.com/dictionary/delegate)
+<small>*verb*</small> | <small>DEL-uh-gayt</small>
+
+To delegate something (such as control, responsibility, authority, or a job or duty) is to trust someone else with it. 
+
+---
