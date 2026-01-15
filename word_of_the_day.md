@@ -2352,3 +2352,10 @@ Umbrage refers to a feeling of being offended by what someone has said or done. 
 To delegate something (such as control, responsibility, authority, or a job or duty) is to trust someone else with it. 
 
 ---
+###### *Jan 15, 2026*
+### [cloying](https://www.merriam-webster.com/dictionary/cloying)
+<small>*adjective*</small> | <small>KLOY-ing</small>
+
+Cloying is used disapprovingly to describe something that is too sweet, pleasant, or sentimental.
+
+---
