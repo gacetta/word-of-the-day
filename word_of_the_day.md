@@ -2359,3 +2359,10 @@ To delegate something (such as control, responsibility, authority, or a job or d
 Cloying is used disapprovingly to describe something that is too sweet, pleasant, or sentimental.
 
 ---
+###### *Jan 16, 2026*
+### [vendetta](https://www.merriam-webster.com/dictionary/vendetta)
+<small>*noun*</small> | <small>ven-DET-uh</small>
+
+Vendetta refers to an active and mutual hatred between two families or groups, also known as a blood feud. It can also refer to an often prolonged series of retaliatory, vengeful, or hostile acts, or to a commitment to carrying out such acts.
+
+---
