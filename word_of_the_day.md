@@ -2366,3 +2366,10 @@ Cloying is used disapprovingly to describe something that is too sweet, pleasant
 Vendetta refers to an active and mutual hatred between two families or groups, also known as a blood feud. It can also refer to an often prolonged series of retaliatory, vengeful, or hostile acts, or to a commitment to carrying out such acts.
 
 ---
+###### *Jan 17, 2026*
+### [notorious](https://www.merriam-webster.com/dictionary/notorious)
+<small>*adjective*</small> | <small>noh-TOR-ee-us</small>
+
+Notorious describes people and things that are well-known or famous, especially for something bad or unfavorable.
+
+---
