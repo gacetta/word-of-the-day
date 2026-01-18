@@ -2373,3 +2373,10 @@ Vendetta refers to an active and mutual hatred between two families or groups, a
 Notorious describes people and things that are well-known or famous, especially for something bad or unfavorable.
 
 ---
+###### *Jan 18, 2026*
+### [elicit](https://www.merriam-webster.com/dictionary/elicit)
+<small>*verb*</small> | <small>ih-LISS-it</small>
+
+Elicit is a formal word meaning “to get (a response, information, etc.) from someone.”
+
+---
