@@ -2380,3 +2380,10 @@ Notorious describes people and things that are well-known or famous, especially 
 Elicit is a formal word meaning “to get (a response, information, etc.) from someone.”
 
 ---
+###### *Jan 19, 2026*
+### [ephemeral](https://www.merriam-webster.com/dictionary/ephemeral)
+<small>*adjective*</small> | <small>ih-FEM-uh-rul</small>
+
+Something described as ephemeral lasts only for a very short time.
+
+---
