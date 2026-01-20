@@ -2387,3 +2387,10 @@ Elicit is a formal word meaning “to get (a response, information, etc.) from s
 Something described as ephemeral lasts only for a very short time.
 
 ---
+###### *Jan 20, 2026*
+### [quiddity](https://www.merriam-webster.com/dictionary/quiddity)
+<small>*noun*</small> | <small>KWID-uh-tee</small>
+
+Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone's behavior. 
+
+---
