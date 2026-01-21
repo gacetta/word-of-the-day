@@ -2394,3 +2394,10 @@ Something described as ephemeral lasts only for a very short time.
 Quiddity refers to the essence of a thing—that is, whatever makes something the type of thing that it is. Quiddity can also refer to a small and usually trivial complaint or criticism, or to a quirk or eccentricity in someone's behavior. 
 
 ---
+###### *Jan 21, 2026*
+### [schmooze](https://www.merriam-webster.com/dictionary/schmooze)
+<small>*verb*</small> | <small>SHMOOZ</small>
+
+To schmooze is to warmly chat with someone often in order to gain favor, business, or connections.
+
+---
