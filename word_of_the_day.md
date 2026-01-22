@@ -2401,3 +2401,10 @@ Quiddity refers to the essence of a thing—that is, whatever makes something th
 To schmooze is to warmly chat with someone often in order to gain favor, business, or connections.
 
 ---
+###### *Jan 22, 2026*
+### [disheveled](https://www.merriam-webster.com/dictionary/disheveled)
+<small>*adjective*</small> | <small>dih-SHEV-uld</small>
+
+A disheveled person or thing is not neat or tidy.
+
+---
