@@ -2408,3 +2408,10 @@ To schmooze is to warmly chat with someone often in order to gain favor, busines
 A disheveled person or thing is not neat or tidy.
 
 ---
+###### *Jan 23, 2026*
+### [astrolabe](https://www.merriam-webster.com/dictionary/astrolabe)
+<small>*noun*</small> | <small>A-struh-layb</small>
+
+An astrolabe is a compact instrument used to observe and calculate the position of celestial bodies before the invention of the sextant.
+
+---
