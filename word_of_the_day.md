@@ -2415,3 +2415,10 @@ A disheveled person or thing is not neat or tidy.
 An astrolabe is a compact instrument used to observe and calculate the position of celestial bodies before the invention of the sextant.
 
 ---
+###### *Jan 24, 2026*
+### [garner](https://www.merriam-webster.com/dictionary/garner)
+<small>*verb*</small> | <small>GAHR-ner</small>
+
+Garner means "to acquire by effort; earn" or "to accumulate or collect."
+
+---
