@@ -2422,3 +2422,10 @@ An astrolabe is a compact instrument used to observe and calculate the position 
 Garner means "to acquire by effort; earn" or "to accumulate or collect."
 
 ---
+###### *Jan 25, 2026*
+### [resplendent](https://www.merriam-webster.com/dictionary/resplendent)
+<small>*adjective*</small> | <small>rih-SPLEN-dunt</small>
+
+Resplendent is a literary word used to describe someone or something as very bright and attractive.
+
+---
