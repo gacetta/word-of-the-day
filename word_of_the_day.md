@@ -2429,3 +2429,10 @@ Garner means "to acquire by effort; earn" or "to accumulate or collect."
 Resplendent is a literary word used to describe someone or something as very bright and attractive.
 
 ---
+###### *Jan 26, 2026*
+### [oaf](https://www.merriam-webster.com/dictionary/oaf)
+<small>*noun*</small> | <small>OHF</small>
+
+Oaf is used to refer to someone as big, clumsy, and slow-witted.
+
+---
