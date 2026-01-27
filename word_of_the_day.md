@@ -2436,3 +2436,10 @@ Resplendent is a literary word used to describe someone or something as very bri
 Oaf is used to refer to someone as big, clumsy, and slow-witted.
 
 ---
+###### *Jan 27, 2026*
+### [fiduciary](https://www.merriam-webster.com/dictionary/fiduciary)
+<small>*adjective*</small> | <small>fuh-DOO-shee-air-ee</small>
+
+Fiduciary is a formal word describing something relating to or involving trust, such as the trust between a customer and a professional.
+
+---
