@@ -2443,3 +2443,10 @@ Oaf is used to refer to someone as big, clumsy, and slow-witted.
 Fiduciary is a formal word describing something relating to or involving trust, such as the trust between a customer and a professional.
 
 ---
+###### *Jan 28, 2026*
+### [bombast](https://www.merriam-webster.com/dictionary/bombast)
+<small>*noun*</small> | <small>BAHM-bast</small>
+
+Bombast is a formal word that refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful.
+
+---
