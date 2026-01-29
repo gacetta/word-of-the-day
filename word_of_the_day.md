@@ -2450,3 +2450,10 @@ Fiduciary is a formal word describing something relating to or involving trust, 
 Bombast is a formal word that refers to speech or writing that is meant to sound important or impressive but that is not sincere or meaningful.
 
 ---
+###### *Jan 29, 2026*
+### [reciprocate](https://www.merriam-webster.com/dictionary/reciprocate)
+<small>*verb*</small> | <small>rih-SIP-ruh-kayt</small>
+
+To reciprocate is to do something for or to someone who has done something similar for or to you. Reciprocate can also mean “to have (a feeling) for someone who has the same feeling for you.”
+
+---
