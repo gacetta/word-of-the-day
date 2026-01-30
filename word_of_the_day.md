@@ -2457,3 +2457,10 @@ Bombast is a formal word that refers to speech or writing that is meant to sound
 To reciprocate is to do something for or to someone who has done something similar for or to you. Reciprocate can also mean “to have (a feeling) for someone who has the same feeling for you.”
 
 ---
+###### *Jan 30, 2026*
+### [preeminent](https://www.merriam-webster.com/dictionary/preeminent)
+<small>*adjective*</small> | <small>pree-EM-uh-nunt</small>
+
+Preeminent is a formal word used to describe someone or something more important, skillful, or successful than their counterparts or peers. It is used synonymously with outstanding and supreme. 
+
+---
