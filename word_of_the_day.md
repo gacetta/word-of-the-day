@@ -2464,3 +2464,10 @@ To reciprocate is to do something for or to someone who has done something simil
 Preeminent is a formal word used to describe someone or something more important, skillful, or successful than their counterparts or peers. It is used synonymously with outstanding and supreme. 
 
 ---
+###### *Jan 31, 2026*
+### [short shrift](https://www.merriam-webster.com/dictionary/short shrift)
+<small>*noun*</small> | <small>SHORT-SHRIFT</small>
+
+Short shrift means “little or no attention or thought” or “quick work.” In religious use it refers to barely adequate time for confession before execution.
+
+---
