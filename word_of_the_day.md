@@ -2471,3 +2471,10 @@ Preeminent is a formal word used to describe someone or something more important
 Short shrift means “little or no attention or thought” or “quick work.” In religious use it refers to barely adequate time for confession before execution.
 
 ---
+###### *Feb 01, 2026*
+### [gargantuan](https://www.merriam-webster.com/dictionary/gargantuan)
+<small>*adjective*</small> | <small>gahr-GAN-chuh-wun</small>
+
+Gargantuan describes something that is very large in size or amount; something gargantuan is, in other words, gigantic.
+
+---
