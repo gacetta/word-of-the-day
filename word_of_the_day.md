@@ -2478,3 +2478,10 @@ Short shrift means “little or no attention or thought” or “quick work.” 
 Gargantuan describes something that is very large in size or amount; something gargantuan is, in other words, gigantic.
 
 ---
+###### *Feb 02, 2026*
+### [prescience](https://www.merriam-webster.com/dictionary/prescience)
+<small>*noun*</small> | <small>PRESH-ee-unss</small>
+
+Prescience is a formal word used to refer to the ability to see or anticipate what will or might happen in the future.
+
+---
