@@ -2485,3 +2485,10 @@ Gargantuan describes something that is very large in size or amount; something g
 Prescience is a formal word used to refer to the ability to see or anticipate what will or might happen in the future.
 
 ---
+###### *Feb 03, 2026*
+### [hornswoggle](https://www.merriam-webster.com/dictionary/hornswoggle)
+<small>*verb*</small> | <small>HORN-swah-gul</small>
+
+To hornswoggle someone is to trick or deceive them. 
+
+---
