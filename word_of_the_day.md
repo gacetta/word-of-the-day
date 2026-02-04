@@ -2492,3 +2492,10 @@ Prescience is a formal word used to refer to the ability to see or anticipate wh
 To hornswoggle someone is to trick or deceive them. 
 
 ---
+###### *Feb 04, 2026*
+### [diaphanous](https://www.merriam-webster.com/dictionary/diaphanous)
+<small>*adjective*</small> | <small>dye-AF-uh-nus</small>
+
+Diaphanous is a formal word used to describe fabric of a texture so fine that one can see through it. Diaphanous is also sometimes used figuratively to describe something characterized by extreme delicacy of form.
+
+---
