@@ -2499,3 +2499,10 @@ To hornswoggle someone is to trick or deceive them.
 Diaphanous is a formal word used to describe fabric of a texture so fine that one can see through it. Diaphanous is also sometimes used figuratively to describe something characterized by extreme delicacy of form.
 
 ---
+###### *Feb 05, 2026*
+### [adulation](https://www.merriam-webster.com/dictionary/adulation)
+<small>*noun*</small> | <small>aj-uh-LAY-shun</small>
+
+Adulation refers to extreme or excessive admiration, flattery, or praise.
+
+---
