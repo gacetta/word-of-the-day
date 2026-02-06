@@ -2506,3 +2506,10 @@ Diaphanous is a formal word used to describe fabric of a texture so fine that on
 Adulation refers to extreme or excessive admiration, flattery, or praise.
 
 ---
+###### *Feb 06, 2026*
+### [sartorial](https://www.merriam-webster.com/dictionary/sartorial)
+<small>*adjective*</small> | <small>sahr-TOR-ee-ul</small>
+
+Sartorial broadly means “of or relating to clothes,” but it often more specifically means “of or relating to a tailor or tailored clothes.” 
+
+---
