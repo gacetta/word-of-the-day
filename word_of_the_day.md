@@ -2513,3 +2513,10 @@ Adulation refers to extreme or excessive admiration, flattery, or praise.
 Sartorial broadly means “of or relating to clothes,” but it often more specifically means “of or relating to a tailor or tailored clothes.” 
 
 ---
+###### *Feb 07, 2026*
+### [imbue](https://www.merriam-webster.com/dictionary/imbue)
+<small>*verb*</small> | <small>im-BYOO</small>
+
+Imbue has two common meanings: "to permeate or influence as if by dyeing" and "to provide with something freely or naturally." In the second use it is usually used with with.
+
+---
