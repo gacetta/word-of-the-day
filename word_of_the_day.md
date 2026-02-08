@@ -2520,3 +2520,10 @@ Sartorial broadly means “of or relating to clothes,” but it often more speci
 Imbue has two common meanings: "to permeate or influence as if by dyeing" and "to provide with something freely or naturally." In the second use it is usually used with with.
 
 ---
+###### *Feb 08, 2026*
+### [meme](https://www.merriam-webster.com/dictionary/meme)
+<small>*noun*</small> | <small>MEEM</small>
+
+Meme is used popularly to refer to an amusing or interesting picture, video, etc. that is spread widely online. It can also refer to an idea, behavior, style, or usage that spreads from person to person within a culture.
+
+---
