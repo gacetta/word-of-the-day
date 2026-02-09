@@ -2527,3 +2527,10 @@ Imbue has two common meanings: "to permeate or influence as if by dyeing" and "t
 Meme is used popularly to refer to an amusing or interesting picture, video, etc. that is spread widely online. It can also refer to an idea, behavior, style, or usage that spreads from person to person within a culture.
 
 ---
+###### *Feb 09, 2026*
+### [fortuitous](https://www.merriam-webster.com/dictionary/fortuitous)
+<small>*adjective*</small> | <small>for-TOO-uh-tus</small>
+
+Fortuitous is a formal word that usually describes something that comes or happens by a lucky chance. It can also mean “happening by chance” and “fortunate, lucky.”
+
+---
