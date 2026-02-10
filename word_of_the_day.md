@@ -2534,3 +2534,10 @@ Meme is used popularly to refer to an amusing or interesting picture, video, etc
 Fortuitous is a formal word that usually describes something that comes or happens by a lucky chance. It can also mean “happening by chance” and “fortunate, lucky.”
 
 ---
+###### *Feb 10, 2026*
+### [besmirch](https://www.merriam-webster.com/dictionary/besmirch)
+<small>*verb*</small> | <small>bih-SMERCH</small>
+
+To besmirch the reputation, name, honor, etc. of someone or something is to cause harm or damage to it.
+
+---
