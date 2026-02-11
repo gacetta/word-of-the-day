@@ -2541,3 +2541,10 @@ Fortuitous is a formal word that usually describes something that comes or happe
 To besmirch the reputation, name, honor, etc. of someone or something is to cause harm or damage to it.
 
 ---
+###### *Feb 11, 2026*
+### [tabula rasa](https://www.merriam-webster.com/dictionary/tabula rasa)
+<small>*noun*</small> | <small>TAB-yuh-luh-RAH-zuh</small>
+
+In general use, tabula rasa refers to something existing in an original pristine state. In philosophy, tabula rasa refers to the mind in its hypothetical primary blank or empty state before receiving outside impressions. 
+
+---
