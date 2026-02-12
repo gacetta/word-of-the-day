@@ -2548,3 +2548,10 @@ To besmirch the reputation, name, honor, etc. of someone or something is to caus
 In general use, tabula rasa refers to something existing in an original pristine state. In philosophy, tabula rasa refers to the mind in its hypothetical primary blank or empty state before receiving outside impressions. 
 
 ---
+###### *Feb 12, 2026*
+### [endemic](https://www.merriam-webster.com/dictionary/endemic)
+<small>*adjective*</small> | <small>en-DEM-ik</small>
+
+When used for a plant or animal species, endemic describes something that grows or exists in a certain place or area, and often specifically something restricted to a particular locality or region. Endemic is also used to describe diseases that persist over time in a particular region or population. It can also mean “common in a particular area or field.”
+
+---
