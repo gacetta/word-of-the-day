@@ -2555,3 +2555,10 @@ In general use, tabula rasa refers to something existing in an original pristine
 When used for a plant or animal species, endemic describes something that grows or exists in a certain place or area, and often specifically something restricted to a particular locality or region. Endemic is also used to describe diseases that persist over time in a particular region or population. It can also mean “common in a particular area or field.”
 
 ---
+###### *Feb 13, 2026*
+### [rapscallion](https://www.merriam-webster.com/dictionary/rapscallion)
+<small>*noun*</small> | <small>rap-SKAL-yun</small>
+
+The word rapscallion refers to someone who causes trouble, often in a mischievous way. It appears in the same sorts of contexts as rascal and scamp.
+
+---
