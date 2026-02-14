@@ -2562,3 +2562,10 @@ When used for a plant or animal species, endemic describes something that grows 
 The word rapscallion refers to someone who causes trouble, often in a mischievous way. It appears in the same sorts of contexts as rascal and scamp.
 
 ---
+###### *Feb 14, 2026*
+### [canoodle](https://www.merriam-webster.com/dictionary/canoodle)
+<small>*verb*</small> | <small>kuh-NOO-dul</small>
+
+To canoodle with someone is to hug and kiss them in a romantic way.
+
+---
