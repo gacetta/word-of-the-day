@@ -2569,3 +2569,10 @@ The word rapscallion refers to someone who causes trouble, often in a mischievou
 To canoodle with someone is to hug and kiss them in a romantic way.
 
 ---
+###### *Feb 15, 2026*
+### [vertiginous](https://www.merriam-webster.com/dictionary/vertiginous)
+<small>*adjective*</small> | <small>ver-TIJ-uh-nus</small>
+
+Vertiginous is a formal adjective used to describe something that causes or is likely to cause a feeling of dizziness especially because of great height.
+
+---
