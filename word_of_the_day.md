@@ -2576,3 +2576,10 @@ To canoodle with someone is to hug and kiss them in a romantic way.
 Vertiginous is a formal adjective used to describe something that causes or is likely to cause a feeling of dizziness especially because of great height.
 
 ---
+###### *Feb 16, 2026*
+### [prerogative](https://www.merriam-webster.com/dictionary/prerogative)
+<small>*noun*</small> | <small>prih-RAH-guh-tiv</small>
+
+Prerogative means "right or privilege," and especially refers to a special right or privilege that some people have.
+
+---
