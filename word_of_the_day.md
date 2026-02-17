@@ -2583,3 +2583,10 @@ Vertiginous is a formal adjective used to describe something that causes or is l
 Prerogative means "right or privilege," and especially refers to a special right or privilege that some people have.
 
 ---
+###### *Feb 17, 2026*
+### [abdicate](https://www.merriam-webster.com/dictionary/abdicate)
+<small>*verb*</small> | <small>AB-dih-kayt</small>
+
+Abdicate usually means “to renounce a position of power, such as a throne, high office, dignity, or function.” It can also mean “to fail to do what is required by (a duty or responsibility).”
+
+---
