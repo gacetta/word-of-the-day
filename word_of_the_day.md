@@ -2590,3 +2590,10 @@ Prerogative means "right or privilege," and especially refers to a special right
 Abdicate usually means “to renounce a position of power, such as a throne, high office, dignity, or function.” It can also mean “to fail to do what is required by (a duty or responsibility).”
 
 ---
+###### *Feb 18, 2026*
+### [Goldilocks](https://www.merriam-webster.com/dictionary/Goldilocks)
+<small>*adjective*</small> | <small>GOHL-dee-lahks</small>
+
+Goldilocks describes something that has or produces an optimal balance usually between two extremes. In astronomy, it specifically designates an area of planetary orbit neither too hot nor too cold to support life.
+
+---
