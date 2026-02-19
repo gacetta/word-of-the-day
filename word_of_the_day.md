@@ -2597,3 +2597,10 @@ Abdicate usually means “to renounce a position of power, such as a throne, hig
 Goldilocks describes something that has or produces an optimal balance usually between two extremes. In astronomy, it specifically designates an area of planetary orbit neither too hot nor too cold to support life.
 
 ---
+###### *Feb 19, 2026*
+### [syllogism](https://www.merriam-webster.com/dictionary/syllogism)
+<small>*noun*</small> | <small>SIL-uh-jiz-um</small>
+
+Syllogism refers to a formal argument in logic that is formed by two statements and a conclusion which must be true if the two statements are true.
+
+---
