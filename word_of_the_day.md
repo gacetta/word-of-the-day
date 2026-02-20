@@ -2604,3 +2604,10 @@ Goldilocks describes something that has or produces an optimal balance usually b
 Syllogism refers to a formal argument in logic that is formed by two statements and a conclusion which must be true if the two statements are true.
 
 ---
+###### *Feb 20, 2026*
+### [encapsulate](https://www.merriam-webster.com/dictionary/encapsulate)
+<small>*verb*</small> | <small>in-KAP-suh-layt</small>
+
+Encapsulate literally means “to enclose in or as if in a capsule,” but the word is more often used figuratively as a synonym of summarize, to talk about showing or expressing a main idea or quality in a brief way.
+
+---
