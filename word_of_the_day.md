@@ -2611,3 +2611,10 @@ Syllogism refers to a formal argument in logic that is formed by two statements 
 Encapsulate literally means “to enclose in or as if in a capsule,” but the word is more often used figuratively as a synonym of summarize, to talk about showing or expressing a main idea or quality in a brief way.
 
 ---
+###### *Feb 21, 2026*
+### [laconic](https://www.merriam-webster.com/dictionary/laconic)
+<small>*adjective*</small> | <small>luh-KAH-nik</small>
+
+Laconic describes someone or something communicating with few words. Laconic can more narrowly mean "concise to the point of seeming rude or mysterious." 
+
+---
