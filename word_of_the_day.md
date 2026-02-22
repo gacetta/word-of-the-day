@@ -2618,3 +2618,10 @@ Encapsulate literally means “to enclose in or as if in a capsule,” but the w
 Laconic describes someone or something communicating with few words. Laconic can more narrowly mean "concise to the point of seeming rude or mysterious." 
 
 ---
+###### *Feb 22, 2026*
+### [foray](https://www.merriam-webster.com/dictionary/foray)
+<small>*noun*</small> | <small>FOR-ay</small>
+
+A foray is an initial and often hesitant attempt to do something in a new or different field or area of activity, as in “the novelist’s foray into nonfiction.” In martial contexts, foray means “a sudden or irregular invasion or attack for war or spoils.” 
+
+---
