@@ -2625,3 +2625,10 @@ Laconic describes someone or something communicating with few words. Laconic can
 A foray is an initial and often hesitant attempt to do something in a new or different field or area of activity, as in “the novelist’s foray into nonfiction.” In martial contexts, foray means “a sudden or irregular invasion or attack for war or spoils.” 
 
 ---
+###### *Feb 23, 2026*
+### [culminate](https://www.merriam-webster.com/dictionary/culminate)
+<small>*verb*</small> | <small>KUL-muh-nayt</small>
+
+To culminate is to reach the end or the final result of something. Culminate is usually used with in or with. 
+
+---
