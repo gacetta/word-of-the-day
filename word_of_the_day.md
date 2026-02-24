@@ -2632,3 +2632,10 @@ A foray is an initial and often hesitant attempt to do something in a new or dif
 To culminate is to reach the end or the final result of something. Culminate is usually used with in or with. 
 
 ---
+###### *Feb 24, 2026*
+### [umpteen](https://www.merriam-webster.com/dictionary/umpteen)
+<small>*adjective*</small> | <small>UMP-teen</small>
+
+Umpteen is an informal adjective meaning "very many" or "indefinitely numerous."
+
+---
