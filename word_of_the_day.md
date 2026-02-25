@@ -2639,3 +2639,10 @@ To culminate is to reach the end or the final result of something. Culminate is 
 Umpteen is an informal adjective meaning "very many" or "indefinitely numerous."
 
 ---
+###### *Feb 25, 2026*
+### [onomatopoeia](https://www.merriam-webster.com/dictionary/onomatopoeia)
+<small>*noun*</small> | <small>ah-nuh-mah-tuh-PEE-uh</small>
+
+Onomatopoeia refers to the creation of words that imitate natural sounds. It can also refer to the words themselves, such as buzz and hiss.
+
+---
