@@ -2646,3 +2646,10 @@ Umpteen is an informal adjective meaning "very many" or "indefinitely numerous."
 Onomatopoeia refers to the creation of words that imitate natural sounds. It can also refer to the words themselves, such as buzz and hiss.
 
 ---
+###### *Feb 26, 2026*
+### [knackered](https://www.merriam-webster.com/dictionary/knackered)
+<small>*adjective*</small> | <small>NAK-erd</small>
+
+Knackered is an adjective mostly used informally in British English to mean “very tired or exhausted.” 
+
+---
