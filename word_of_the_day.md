@@ -2653,3 +2653,10 @@ Onomatopoeia refers to the creation of words that imitate natural sounds. It can
 Knackered is an adjective mostly used informally in British English to mean “very tired or exhausted.” 
 
 ---
+###### *Feb 27, 2026*
+### [nettle](https://www.merriam-webster.com/dictionary/nettle)
+<small>*verb*</small> | <small>NET-ul</small>
+
+To nettle someone is to make them angry or annoyed.
+
+---
