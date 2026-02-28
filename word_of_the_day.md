@@ -2660,3 +2660,10 @@ Knackered is an adjective mostly used informally in British English to mean “v
 To nettle someone is to make them angry or annoyed.
 
 ---
+###### *Feb 28, 2026*
+### [congruous](https://www.merriam-webster.com/dictionary/congruous)
+<small>*adjective*</small> | <small>KAHNG-groo-us</small>
+
+Something described as congruous is in agreement, harmony, or correspondence with something else. Congruous can also describe something that is appropriate for a particular circumstance or requirement, or a thing that is marked or enhanced by harmonious agreement among its constituent elements.
+
+---
