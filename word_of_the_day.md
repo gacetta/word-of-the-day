@@ -2667,3 +2667,10 @@ To nettle someone is to make them angry or annoyed.
 Something described as congruous is in agreement, harmony, or correspondence with something else. Congruous can also describe something that is appropriate for a particular circumstance or requirement, or a thing that is marked or enhanced by harmonious agreement among its constituent elements.
 
 ---
+###### *Mar 01, 2026*
+### [paean](https://www.merriam-webster.com/dictionary/paean)
+<small>*noun*</small> | <small>PEE-un</small>
+
+Paean is a literary word that refers to a song of joy, praise, or victory. It can also be used as a synonym of tribute for a work that praises or honors its subject.
+
+---
