@@ -2674,3 +2674,10 @@ Something described as congruous is in agreement, harmony, or correspondence wit
 Paean is a literary word that refers to a song of joy, praise, or victory. It can also be used as a synonym of tribute for a work that praises or honors its subject.
 
 ---
+###### *Mar 02, 2026*
+### [exhilarate](https://www.merriam-webster.com/dictionary/exhilarate)
+<small>*verb*</small> | <small>ig-ZIL-uh-rayt</small>
+
+Exhilarate means "to cause (someone) to feel very happy and excited." It is usually used in the passive voice as (be) exhilarated. 
+
+---
