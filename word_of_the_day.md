@@ -2681,3 +2681,10 @@ Paean is a literary word that refers to a song of joy, praise, or victory. It ca
 Exhilarate means "to cause (someone) to feel very happy and excited." It is usually used in the passive voice as (be) exhilarated. 
 
 ---
+###### *Mar 03, 2026*
+### [spiel](https://www.merriam-webster.com/dictionary/spiel)
+<small>*noun*</small> | <small>SPEEL</small>
+
+A spiel is a fast speech that someone has often said before and that is usually intended to persuade people to buy something or to agree to something.
+
+---
