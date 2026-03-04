@@ -2688,3 +2688,10 @@ Exhilarate means "to cause (someone) to feel very happy and excited." It is usua
 A spiel is a fast speech that someone has often said before and that is usually intended to persuade people to buy something or to agree to something.
 
 ---
+###### *Mar 04, 2026*
+### [ad hoc](https://www.merriam-webster.com/dictionary/ad hoc)
+<small>*adjective*</small> | <small>AD-HOCK</small>
+
+Ad hoc describes something that is formed or used for a special purpose, or that is made or done without planning because of an immediate need.
+
+---
