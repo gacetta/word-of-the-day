@@ -2695,3 +2695,10 @@ A spiel is a fast speech that someone has often said before and that is usually 
 Ad hoc describes something that is formed or used for a special purpose, or that is made or done without planning because of an immediate need.
 
 ---
+###### *Mar 05, 2026*
+### [deem](https://www.merriam-webster.com/dictionary/deem)
+<small>*verb*</small> | <small>DEEM</small>
+
+Deem is a somewhat formal word used when someone comes to think something or to have something as an opinion after some consideration.
+
+---
