@@ -2702,3 +2702,10 @@ Ad hoc describes something that is formed or used for a special purpose, or that
 Deem is a somewhat formal word used when someone comes to think something or to have something as an opinion after some consideration.
 
 ---
+###### *Mar 06, 2026*
+### [vaunted](https://www.merriam-webster.com/dictionary/vaunted)
+<small>*adjective*</small> | <small>VAWN-tud</small>
+
+Vaunted describes someone or something that is often spoken of or described as very good or great.
+
+---
