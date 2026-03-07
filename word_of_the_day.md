@@ -2709,3 +2709,10 @@ Deem is a somewhat formal word used when someone comes to think something or to 
 Vaunted describes someone or something that is often spoken of or described as very good or great.
 
 ---
+###### *Mar 07, 2026*
+### [libertine](https://www.merriam-webster.com/dictionary/libertine)
+<small>*noun*</small> | <small>LIB-er-teen</small>
+
+A libertine is in broad terms a person who is unrestrained by convention or morality. More narrowly, the word describes someone who leads an immoral life.
+
+---
