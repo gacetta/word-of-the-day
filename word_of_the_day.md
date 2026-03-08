@@ -2716,3 +2716,10 @@ Vaunted describes someone or something that is often spoken of or described as v
 A libertine is in broad terms a person who is unrestrained by convention or morality. More narrowly, the word describes someone who leads an immoral life.
 
 ---
+###### *Mar 08, 2026*
+### [crepuscular](https://www.merriam-webster.com/dictionary/crepuscular)
+<small>*adjective*</small> | <small>krih-PUHSS-kyuh-ler</small>
+
+Crepuscular means “of, relating to, or resembling twilight.” It is used in zoological contexts to describe creatures that are active during twilight, or the activities of such creatures.
+
+---
