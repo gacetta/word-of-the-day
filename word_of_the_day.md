@@ -2723,3 +2723,10 @@ A libertine is in broad terms a person who is unrestrained by convention or mora
 Crepuscular means “of, relating to, or resembling twilight.” It is used in zoological contexts to describe creatures that are active during twilight, or the activities of such creatures.
 
 ---
+###### *Mar 09, 2026*
+### [hector](https://www.merriam-webster.com/dictionary/hector)
+<small>*verb*</small> | <small>HEK-ter</small>
+
+To hector someone is to criticize or question them in a threatening way.
+
+---
