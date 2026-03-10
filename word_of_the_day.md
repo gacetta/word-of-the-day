@@ -2730,3 +2730,10 @@ Crepuscular means “of, relating to, or resembling twilight.” It is used in z
 To hector someone is to criticize or question them in a threatening way.
 
 ---
+###### *Mar 10, 2026*
+### [mea culpa](https://www.merriam-webster.com/dictionary/mea culpa)
+<small>*noun*</small> | <small>may-uh-KOOL-puh</small>
+
+The noun mea culpa is used for a formal acknowledgment of personal fault or error.
+
+---
