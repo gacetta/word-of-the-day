@@ -2737,3 +2737,10 @@ To hector someone is to criticize or question them in a threatening way.
 The noun mea culpa is used for a formal acknowledgment of personal fault or error.
 
 ---
+###### *Mar 11, 2026*
+### [besotted](https://www.merriam-webster.com/dictionary/besotted)
+<small>*adjective*</small> | <small>bih-SAH-tud</small>
+
+Someone described as besotted is so in love that they are unable to think clearly; they are utterly infatuated. Besotted can also be used as a synonym of drunk.
+
+---
