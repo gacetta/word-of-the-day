@@ -2744,3 +2744,10 @@ The noun mea culpa is used for a formal acknowledgment of personal fault or erro
 Someone described as besotted is so in love that they are unable to think clearly; they are utterly infatuated. Besotted can also be used as a synonym of drunk.
 
 ---
+###### *Mar 12, 2026*
+### [gambit](https://www.merriam-webster.com/dictionary/gambit)
+<small>*noun*</small> | <small>GAM-bit</small>
+
+A gambit is something done or said in order to gain an advantage or to produce a desired effect.
+
+---
