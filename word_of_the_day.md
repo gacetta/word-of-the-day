@@ -2751,3 +2751,10 @@ Someone described as besotted is so in love that they are unable to think clearl
 A gambit is something done or said in order to gain an advantage or to produce a desired effect.
 
 ---
+###### *Mar 13, 2026*
+### [immure](https://www.merriam-webster.com/dictionary/immure)
+<small>*verb*</small> | <small>ih-MYOOR</small>
+
+To immure something is to enclose it within or as if within walls. Immure is also sometimes used synonymously with imprison.
+
+---
