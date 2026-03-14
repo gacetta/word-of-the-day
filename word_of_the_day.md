@@ -2758,3 +2758,10 @@ A gambit is something done or said in order to gain an advantage or to produce a
 To immure something is to enclose it within or as if within walls. Immure is also sometimes used synonymously with imprison.
 
 ---
+###### *Mar 14, 2026*
+### [rash](https://www.merriam-webster.com/dictionary/rash)
+<small>*adjective*</small> | <small>RASH</small>
+
+Rash describes something done or made quickly and without thought about what will happen as a result. It can also describe someone who is doing something rash.
+
+---
