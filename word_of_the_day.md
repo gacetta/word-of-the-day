@@ -2765,3 +2765,10 @@ To immure something is to enclose it within or as if within walls. Immure is als
 Rash describes something done or made quickly and without thought about what will happen as a result. It can also describe someone who is doing something rash.
 
 ---
+###### *Mar 15, 2026*
+### [tranche](https://www.merriam-webster.com/dictionary/tranche)
+<small>*noun*</small> | <small>TRAHNSH</small>
+
+Tranche refers to a division or portion of a whole.
+
+---
