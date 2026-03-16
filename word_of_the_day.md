@@ -2772,3 +2772,10 @@ Rash describes something done or made quickly and without thought about what wil
 Tranche refers to a division or portion of a whole.
 
 ---
+###### *Mar 16, 2026*
+### [putative](https://www.merriam-webster.com/dictionary/putative)
+<small>*adjective*</small> | <small>PYOO-tuh-tiv</small>
+
+Putative is a formal word used to describe something that is generally believed, supposed, or assumed to be something specified. It is always used before a noun. 
+
+---
