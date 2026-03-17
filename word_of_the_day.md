@@ -2779,3 +2779,10 @@ Tranche refers to a division or portion of a whole.
 Putative is a formal word used to describe something that is generally believed, supposed, or assumed to be something specified. It is always used before a noun. 
 
 ---
+###### *Mar 17, 2026*
+### [Erin go bragh](https://www.merriam-webster.com/dictionary/Erin go bragh)
+<small>*phrase*</small> | <small>air-un-guh-BRAW</small>
+
+Erin go bragh is an Irish phrase that means “Ireland forever.”
+
+---
