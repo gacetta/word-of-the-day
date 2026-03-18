@@ -2786,3 +2786,10 @@ Putative is a formal word used to describe something that is generally believed,
 Erin go bragh is an Irish phrase that means “Ireland forever.”
 
 ---
+###### *Mar 18, 2026*
+### [jejune](https://www.merriam-webster.com/dictionary/jejune)
+<small>*adjective*</small> | <small>jih-JOON</small>
+
+Jejune is a formal word that means "uninteresting" or "boring." It is also used as a synonym of juvenile to describe things (such as behaviors, attitudes, etc.) that are immature, childish, or simplistic.
+
+---
