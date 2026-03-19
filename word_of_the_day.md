@@ -2793,3 +2793,10 @@ Erin go bragh is an Irish phrase that means “Ireland forever.”
 Jejune is a formal word that means "uninteresting" or "boring." It is also used as a synonym of juvenile to describe things (such as behaviors, attitudes, etc.) that are immature, childish, or simplistic.
 
 ---
+###### *Mar 19, 2026*
+### [nadir](https://www.merriam-webster.com/dictionary/nadir)
+<small>*noun*</small> | <small>NAY-deer</small>
+
+Nadir refers to the lowest or worst point of something. When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer. 
+
+---
