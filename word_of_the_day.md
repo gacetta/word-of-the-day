@@ -2800,3 +2800,10 @@ Jejune is a formal word that means "uninteresting" or "boring." It is also used 
 Nadir refers to the lowest or worst point of something. When used in astronomy, nadir describes the point of the celestial sphere that is directly opposite the zenith and vertically downward from the observer. 
 
 ---
+###### *Mar 20, 2026*
+### [eureka](https://www.merriam-webster.com/dictionary/eureka)
+<small>*adjective*</small> | <small>yoo-REE-kuh</small>
+
+As an interjection, eureka is used to express excitement when a discovery has been made. When used as an adjective, eureka describes something (typically a moment) that is characterized by a usually sudden triumphant discovery. 
+
+---
