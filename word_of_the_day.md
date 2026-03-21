@@ -2807,3 +2807,10 @@ Nadir refers to the lowest or worst point of something. When used in astronomy, 
 As an interjection, eureka is used to express excitement when a discovery has been made. When used as an adjective, eureka describes something (typically a moment) that is characterized by a usually sudden triumphant discovery. 
 
 ---
+###### *Mar 21, 2026*
+### [scrutinize](https://www.merriam-webster.com/dictionary/scrutinize)
+<small>*verb*</small> | <small>SKROO-tuh-nyze</small>
+
+To scrutinize something is to examine it carefully especially in a critical way.
+
+---
