@@ -2814,3 +2814,10 @@ As an interjection, eureka is used to express excitement when a discovery has be
 To scrutinize something is to examine it carefully especially in a critical way.
 
 ---
+###### *Mar 22, 2026*
+### [apotheosis](https://www.merriam-webster.com/dictionary/apotheosis)
+<small>*noun*</small> | <small>uh-pah-thee-OH-sis</small>
+
+Apotheosis refers to the perfect form or example of something, or to the highest or best part of something. It can also mean “elevation to divine status; deification.” It is usually singular, but the plural form is apotheoses.
+
+---
