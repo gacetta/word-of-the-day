@@ -2821,3 +2821,10 @@ To scrutinize something is to examine it carefully especially in a critical way.
 Apotheosis refers to the perfect form or example of something, or to the highest or best part of something. It can also mean “elevation to divine status; deification.” It is usually singular, but the plural form is apotheoses.
 
 ---
+###### *Mar 23, 2026*
+### [frenetic](https://www.merriam-webster.com/dictionary/frenetic)
+<small>*adjective*</small> | <small>frih-NET-ik</small>
+
+Something described as frenetic is filled with excitement, activity, or confusion. The word is a synonym of frantic.
+
+---
