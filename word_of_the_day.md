@@ -2828,3 +2828,10 @@ Apotheosis refers to the perfect form or example of something, or to the highest
 Something described as frenetic is filled with excitement, activity, or confusion. The word is a synonym of frantic.
 
 ---
+###### *Mar 24, 2026*
+### [cadence](https://www.merriam-webster.com/dictionary/cadence)
+<small>*noun*</small> | <small>KAY-dunss</small>
+
+Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to the way a person's voice changes by gently rising and falling while they are speaking.
+
+---
