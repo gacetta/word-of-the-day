@@ -2835,3 +2835,10 @@ Something described as frenetic is filled with excitement, activity, or confusio
 Cadence is used to refer to various rhythmic or repeated motions, activities, or patterns of sound, or to the way a person's voice changes by gently rising and falling while they are speaking.
 
 ---
+###### *Mar 25, 2026*
+### [undulate](https://www.merriam-webster.com/dictionary/undulate)
+<small>*verb*</small> | <small>UN-juh-layt</small>
+
+Undulate is a formal word that means “to move or be shaped like waves.”
+
+---
