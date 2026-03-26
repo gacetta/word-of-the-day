@@ -2842,3 +2842,10 @@ Cadence is used to refer to various rhythmic or repeated motions, activities, or
 Undulate is a formal word that means “to move or be shaped like waves.”
 
 ---
+###### *Mar 26, 2026*
+### [zany](https://www.merriam-webster.com/dictionary/zany)
+<small>*adjective*</small> | <small>ZAY-nee</small>
+
+Zany describes people or things that are very strange and silly.
+
+---
