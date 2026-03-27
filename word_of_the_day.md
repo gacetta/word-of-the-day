@@ -2849,3 +2849,10 @@ Undulate is a formal word that means “to move or be shaped like waves.”
 Zany describes people or things that are very strange and silly.
 
 ---
+###### *Mar 27, 2026*
+### [dross](https://www.merriam-webster.com/dictionary/dross)
+<small>*noun*</small> | <small>DRAHSS</small>
+
+Something referred to as "dross" is of low value or quality. Dross may also be used as a technical term to refer to unwanted material that is removed from a mineral to make it better.
+
+---
