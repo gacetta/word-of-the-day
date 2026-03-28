@@ -2856,3 +2856,10 @@ Zany describes people or things that are very strange and silly.
 Something referred to as "dross" is of low value or quality. Dross may also be used as a technical term to refer to unwanted material that is removed from a mineral to make it better.
 
 ---
+###### *Mar 28, 2026*
+### [fiscal](https://www.merriam-webster.com/dictionary/fiscal)
+<small>*adjective*</small> | <small>FISS-kul</small>
+
+Fiscal is used to describe things relating to money and especially to the money a government, business, or organization earns, spends, and owes.
+
+---
