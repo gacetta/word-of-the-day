@@ -2863,3 +2863,10 @@ Something referred to as "dross" is of low value or quality. Dross may also be u
 Fiscal is used to describe things relating to money and especially to the money a government, business, or organization earns, spends, and owes.
 
 ---
+###### *Mar 29, 2026*
+### [cadge](https://www.merriam-webster.com/dictionary/cadge)
+<small>*verb*</small> | <small>KAJ</small>
+
+To cadge something is to persuade someone to give it to you for free. Cadge can also mean “to take, use, or borrow (something) without acknowledgment.”
+
+---
