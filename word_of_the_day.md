@@ -2870,3 +2870,10 @@ Fiscal is used to describe things relating to money and especially to the money 
 To cadge something is to persuade someone to give it to you for free. Cadge can also mean “to take, use, or borrow (something) without acknowledgment.”
 
 ---
+###### *Mar 30, 2026*
+### [oblivion](https://www.merriam-webster.com/dictionary/oblivion)
+<small>*noun*</small> | <small>uh-BLIV-ee-un</small>
+
+Oblivion can refer to the state of something that is not remembered or thought about any more, or to the state of being unconscious or unaware. It also sometimes refers to the state of being destroyed.
+
+---
