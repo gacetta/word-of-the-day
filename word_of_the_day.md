@@ -2877,3 +2877,10 @@ To cadge something is to persuade someone to give it to you for free. Cadge can 
 Oblivion can refer to the state of something that is not remembered or thought about any more, or to the state of being unconscious or unaware. It also sometimes refers to the state of being destroyed.
 
 ---
+###### *Mar 31, 2026*
+### [genteel](https://www.merriam-webster.com/dictionary/genteel)
+<small>*adjective*</small> | <small>jen-TEEL</small>
+
+Genteel means “of or relating to people who have high social status” and can be used as a somewhat old-fashioned synonym of aristocratic. It can also be used to describe something with a quietly appealing or polite quality, as in “genteel manners.”
+
+---
