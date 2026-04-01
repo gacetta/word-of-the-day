@@ -2884,3 +2884,10 @@ Oblivion can refer to the state of something that is not remembered or thought a
 Genteel means “of or relating to people who have high social status” and can be used as a somewhat old-fashioned synonym of aristocratic. It can also be used to describe something with a quietly appealing or polite quality, as in “genteel manners.”
 
 ---
+###### *Apr 01, 2026*
+### [shenanigans](https://www.merriam-webster.com/dictionary/shenanigans)
+<small>*plural noun*</small> | <small>shuh-NAN-ih-gunz</small>
+
+Shenanigans is an informal word used to refer to activity or behavior that is either not honest or proper, or is mischievous or high-spirited. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.”
+
+---
