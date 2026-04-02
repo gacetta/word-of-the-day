@@ -2891,3 +2891,10 @@ Genteel means “of or relating to people who have high social status” and can
 Shenanigans is an informal word used to refer to activity or behavior that is either not honest or proper, or is mischievous or high-spirited. Its oldest meaning, and the one most likely to be encountered as the singular shenanigan, is “a devious trick used especially for an underhanded purpose.”
 
 ---
+###### *Apr 02, 2026*
+### [fawn](https://www.merriam-webster.com/dictionary/fawn)
+<small>*verb*</small> | <small>FAWN</small>
+
+To fawn over or on someone (usually someone important or powerful) is to try to get their approval through praise, special attention, or flattery. Fawn is also sometimes used—especially but not exclusively of dogs—to mean “to show affection.” 
+
+---
