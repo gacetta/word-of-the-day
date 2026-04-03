@@ -2898,3 +2898,10 @@ Shenanigans is an informal word used to refer to activity or behavior that is ei
 To fawn over or on someone (usually someone important or powerful) is to try to get their approval through praise, special attention, or flattery. Fawn is also sometimes used—especially but not exclusively of dogs—to mean “to show affection.” 
 
 ---
+###### *Apr 03, 2026*
+### [adroit](https://www.merriam-webster.com/dictionary/adroit)
+<small>*adjective*</small> | <small>uh-DROYT</small>
+
+Adroit describes someone or something that has or shows skill, cleverness, or resourcefulness in handling situations.
+
+---
