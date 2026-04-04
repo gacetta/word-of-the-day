@@ -2905,3 +2905,10 @@ To fawn over or on someone (usually someone important or powerful) is to try to 
 Adroit describes someone or something that has or shows skill, cleverness, or resourcefulness in handling situations.
 
 ---
+###### *Apr 04, 2026*
+### [wiseacre](https://www.merriam-webster.com/dictionary/wiseacre)
+<small>*noun*</small> | <small>WYZE-ay-ker</small>
+
+A wiseacre is someone who says or does things that are funny but annoying. Wiseacre is an informal and old-fashioned word, as well as a synonym of smart aleck.
+
+---
