@@ -2912,3 +2912,10 @@ Adroit describes someone or something that has or shows skill, cleverness, or re
 A wiseacre is someone who says or does things that are funny but annoying. Wiseacre is an informal and old-fashioned word, as well as a synonym of smart aleck.
 
 ---
+###### *Apr 05, 2026*
+### [verdant](https://www.merriam-webster.com/dictionary/verdant)
+<small>*adjective*</small> | <small>VER-dunt</small>
+
+Verdant describes something that is green in tint or color, or green because it is covered with growing plants. Verdant can also describe a person who is inexperienced or has not yet developed good judgment.
+
+---
