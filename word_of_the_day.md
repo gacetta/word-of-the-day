@@ -2919,3 +2919,10 @@ A wiseacre is someone who says or does things that are funny but annoying. Wisea
 Verdant describes something that is green in tint or color, or green because it is covered with growing plants. Verdant can also describe a person who is inexperienced or has not yet developed good judgment.
 
 ---
+###### *Apr 06, 2026*
+### [cotton](https://www.merriam-webster.com/dictionary/cotton)
+<small>*verb*</small> | <small>KAH-tun</small>
+
+The verb cotton is used with on or on to to mean “to begin to understand something; to catch on.” Cotton used with to alone means “to begin to like someone or something.” 
+
+---
