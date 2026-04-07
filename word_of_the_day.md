@@ -2926,3 +2926,10 @@ Verdant describes something that is green in tint or color, or green because it 
 The verb cotton is used with on or on to to mean “to begin to understand something; to catch on.” Cotton used with to alone means “to begin to like someone or something.” 
 
 ---
+###### *Apr 07, 2026*
+### [laudable](https://www.merriam-webster.com/dictionary/laudable)
+<small>*adjective*</small> | <small>LAW-duh-bul</small>
+
+Laudable is a somewhat formal word used to describe something as worthy of praise. It is a synonym of commendable.
+
+---
