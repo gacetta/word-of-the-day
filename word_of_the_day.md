@@ -2940,3 +2940,10 @@ Laudable is a somewhat formal word used to describe something as worthy of prais
 In simplest terms, panache refers to lively grace and style; it appears in contexts in which words like verve and flair are also applied.
 
 ---
+###### *Apr 09, 2026*
+### [decry](https://www.merriam-webster.com/dictionary/decry)
+<small>*verb*</small> | <small>dih-KRY</small>
+
+To decry something is to express strong disapproval of it.
+
+---
