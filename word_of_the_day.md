@@ -2947,3 +2947,10 @@ In simplest terms, panache refers to lively grace and style; it appears in conte
 To decry something is to express strong disapproval of it.
 
 ---
+###### *Apr 10, 2026*
+### [glaucous](https://www.merriam-webster.com/dictionary/glaucous)
+<small>*adjective*</small> | <small>GLAW-kus</small>
+
+Glaucous as a color word can describe things of two rather different shades: a light bluish-gray or bluish-white color, or a pale yellow-green. It can also mean "having a powdery or waxy coating that gives a frosted appearance and tends to rub off." 
+
+---
