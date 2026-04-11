@@ -2954,3 +2954,10 @@ To decry something is to express strong disapproval of it.
 Glaucous as a color word can describe things of two rather different shades: a light bluish-gray or bluish-white color, or a pale yellow-green. It can also mean "having a powdery or waxy coating that gives a frosted appearance and tends to rub off." 
 
 ---
+###### *Apr 11, 2026*
+### [subterfuge](https://www.merriam-webster.com/dictionary/subterfuge)
+<small>*noun*</small> | <small>SUB-ter-fyooj</small>
+
+Subterfuge is a formal word that refers to the use of tricks to hide, avoid, or get something.
+
+---
