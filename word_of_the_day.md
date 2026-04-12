@@ -2961,3 +2961,10 @@ Glaucous as a color word can describe things of two rather different shades: a l
 Subterfuge is a formal word that refers to the use of tricks to hide, avoid, or get something.
 
 ---
+###### *Apr 12, 2026*
+### [recondite](https://www.merriam-webster.com/dictionary/recondite)
+<small>*adjective*</small> | <small>REK-un-dyte</small>
+
+Recondite is a formal word used to describe something that is difficult to understand or that is not known by many people.
+
+---
