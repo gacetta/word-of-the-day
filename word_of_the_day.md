@@ -2968,3 +2968,10 @@ Subterfuge is a formal word that refers to the use of tricks to hide, avoid, or 
 Recondite is a formal word used to describe something that is difficult to understand or that is not known by many people.
 
 ---
+###### *Apr 13, 2026*
+### [kibitzer](https://www.merriam-webster.com/dictionary/kibitzer)
+<small>*noun*</small> | <small>KIB-it-ser</small>
+
+A kibitzer is someone who watches other people and makes unwanted comments about what they are doing.
+
+---
