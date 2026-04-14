@@ -2975,3 +2975,10 @@ Recondite is a formal word used to describe something that is difficult to under
 A kibitzer is someone who watches other people and makes unwanted comments about what they are doing.
 
 ---
+###### *Apr 14, 2026*
+### [enjoin](https://www.merriam-webster.com/dictionary/enjoin)
+<small>*verb*</small> | <small>in-JOIN</small>
+
+Enjoining is about requiring or prohibiting. To enjoin a person is to direct or order them to do something. To enjoin an act or practice is to prohibit it; in legal contexts, that prohibition is by way of a judicial order.
+
+---
