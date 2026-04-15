@@ -2982,3 +2982,10 @@ A kibitzer is someone who watches other people and makes unwanted comments about
 Enjoining is about requiring or prohibiting. To enjoin a person is to direct or order them to do something. To enjoin an act or practice is to prohibit it; in legal contexts, that prohibition is by way of a judicial order.
 
 ---
+###### *Apr 15, 2026*
+### [mayhem](https://www.merriam-webster.com/dictionary/mayhem)
+<small>*noun*</small> | <small>MAY-hem</small>
+
+Mayhem refers to needless or willful damage or violence, and especially to a scene or situation that involves a lot of violence. In figurative use, it may refer to any instance of excited activity. 
+
+---
