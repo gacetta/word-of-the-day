@@ -2989,3 +2989,10 @@ Enjoining is about requiring or prohibiting. To enjoin a person is to direct or 
 Mayhem refers to needless or willful damage or violence, and especially to a scene or situation that involves a lot of violence. In figurative use, it may refer to any instance of excited activity. 
 
 ---
+###### *Apr 16, 2026*
+### [brazen](https://www.merriam-webster.com/dictionary/brazen)
+<small>*adjective*</small> | <small>BRAY-zun</small>
+
+Brazen describes someone who is acting, or something that is done, in a very open and shocking way without shame or embarrassment.
+
+---
