@@ -2996,3 +2996,10 @@ Mayhem refers to needless or willful damage or violence, and especially to a sce
 Brazen describes someone who is acting, or something that is done, in a very open and shocking way without shame or embarrassment.
 
 ---
+###### *Apr 17, 2026*
+### [postulate](https://www.merriam-webster.com/dictionary/postulate)
+<small>*verb*</small> | <small>PAHSS-chuh-layt</small>
+
+Postulate is a formal word used to mean “to suggest something, such as an idea or theory, especially in order to start or continue a discussion.”
+
+---
