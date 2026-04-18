@@ -3003,3 +3003,10 @@ Brazen describes someone who is acting, or something that is done, in a very ope
 Postulate is a formal word used to mean “to suggest something, such as an idea or theory, especially in order to start or continue a discussion.”
 
 ---
+###### *Apr 18, 2026*
+### [hiatus](https://www.merriam-webster.com/dictionary/hiatus)
+<small>*noun*</small> | <small>hye-AY-tus</small>
+
+In general contexts, hiatus usually refers to a period of time when something, such as an activity or program, is suspended. In biology, hiatus describes a gap or passage in an anatomical part or organ, and in linguistics, it refers to the occurrence of two vowel sounds without pause or intervening consonantal sound.
+
+---
