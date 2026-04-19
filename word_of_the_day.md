@@ -3010,3 +3010,10 @@ Postulate is a formal word used to mean “to suggest something, such as an idea
 In general contexts, hiatus usually refers to a period of time when something, such as an activity or program, is suspended. In biology, hiatus describes a gap or passage in an anatomical part or organ, and in linguistics, it refers to the occurrence of two vowel sounds without pause or intervening consonantal sound.
 
 ---
+###### *Apr 19, 2026*
+### [nugatory](https://www.merriam-webster.com/dictionary/nugatory)
+<small>*adjective*</small> | <small>NOO-guh-tor-ee</small>
+
+Something described as nugatory is of little or no consequence. In law, nugatory describes something (such as a statute or agreement) without operative legal effect.
+
+---
