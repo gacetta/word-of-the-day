@@ -3017,3 +3017,10 @@ In general contexts, hiatus usually refers to a period of time when something, s
 Something described as nugatory is of little or no consequence. In law, nugatory describes something (such as a statute or agreement) without operative legal effect.
 
 ---
+###### *Apr 20, 2026*
+### [indoctrinate](https://www.merriam-webster.com/dictionary/indoctrinate)
+<small>*verb*</small> | <small>in-DAHK-truh-nayt</small>
+
+To indoctrinate someone is to teach them to fully accept the ideas, opinions, and beliefs of a particular group while categorically rejecting other ideas, opinions, and beliefs. 
+
+---
