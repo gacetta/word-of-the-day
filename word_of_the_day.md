@@ -3024,3 +3024,10 @@ Something described as nugatory is of little or no consequence. In law, nugatory
 To indoctrinate someone is to teach them to fully accept the ideas, opinions, and beliefs of a particular group while categorically rejecting other ideas, opinions, and beliefs. 
 
 ---
+###### *Apr 21, 2026*
+### [orthography](https://www.merriam-webster.com/dictionary/orthography)
+<small>*noun*</small> | <small>or-THAH-gruh-fee</small>
+
+Orthography refers to the way in which the words of a language are spelled, or to the art of writing words with the proper letters according to standard usage.
+
+---
