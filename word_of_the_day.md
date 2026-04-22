@@ -3031,3 +3031,10 @@ To indoctrinate someone is to teach them to fully accept the ideas, opinions, an
 Orthography refers to the way in which the words of a language are spelled, or to the art of writing words with the proper letters according to standard usage.
 
 ---
+###### *Apr 22, 2026*
+### [tantamount](https://www.merriam-webster.com/dictionary/tantamount)
+<small>*adjective*</small> | <small>TAN-tuh-mount</small>
+
+Something may be described as tantamount to something else if it is equal in value, meaning, or effect.
+
+---
