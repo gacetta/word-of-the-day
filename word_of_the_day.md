@@ -3038,3 +3038,10 @@ Orthography refers to the way in which the words of a language are spelled, or t
 Something may be described as tantamount to something else if it is equal in value, meaning, or effect.
 
 ---
+###### *Apr 23, 2026*
+### [fortitude](https://www.merriam-webster.com/dictionary/fortitude)
+<small>*noun*</small> | <small>FOR-tuh-tood</small>
+
+Fortitude is a formal word that refers to the strength of mind that enables someone to encounter danger or to bear pain or adversity with courage. Less formal words with similar meanings include grit, fiber, and pluck.
+
+---
