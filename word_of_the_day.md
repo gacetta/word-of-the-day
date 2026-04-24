@@ -3045,3 +3045,10 @@ Something may be described as tantamount to something else if it is equal in val
 Fortitude is a formal word that refers to the strength of mind that enables someone to encounter danger or to bear pain or adversity with courage. Less formal words with similar meanings include grit, fiber, and pluck.
 
 ---
+###### *Apr 24, 2026*
+### [arboreal](https://www.merriam-webster.com/dictionary/arboreal)
+<small>*adjective*</small> | <small>ahr-BOR-ee-ul</small>
+
+Arboreal is a formal and literary word used to describe something that relates to trees. It is also used in technical contexts to mean "living in or often found in trees," as in "arboreal primates."
+
+---
