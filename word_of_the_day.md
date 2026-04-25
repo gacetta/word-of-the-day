@@ -3052,3 +3052,10 @@ Fortitude is a formal word that refers to the strength of mind that enables some
 Arboreal is a formal and literary word used to describe something that relates to trees. It is also used in technical contexts to mean "living in or often found in trees," as in "arboreal primates."
 
 ---
+###### *Apr 25, 2026*
+### [juxtapose](https://www.merriam-webster.com/dictionary/juxtapose)
+<small>*verb*</small> | <small>JUK-stuh-pohz</small>
+
+To juxtapose things is to place them together in order to create an interesting effect or to show how they are the same or different.
+
+---
