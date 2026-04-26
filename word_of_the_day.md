@@ -3059,3 +3059,10 @@ Arboreal is a formal and literary word used to describe something that relates t
 To juxtapose things is to place them together in order to create an interesting effect or to show how they are the same or different.
 
 ---
+###### *Apr 26, 2026*
+### [onerous](https://www.merriam-webster.com/dictionary/onerous)
+<small>*adjective*</small> | <small>AH-nuh-rus</small>
+
+Onerous means "involving, imposing, or constituting a burden." It typically describes something that is difficult and unpleasant to do or deal with.  
+
+---
