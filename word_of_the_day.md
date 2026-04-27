@@ -3066,3 +3066,10 @@ To juxtapose things is to place them together in order to create an interesting 
 Onerous means "involving, imposing, or constituting a burden." It typically describes something that is difficult and unpleasant to do or deal with.  
 
 ---
+###### *Apr 27, 2026*
+### [boondoggle](https://www.merriam-webster.com/dictionary/boondoggle)
+<small>*noun*</small> | <small>BOON-dah-gul</small>
+
+A boondoggle is an expensive and wasteful project usually paid for with public money. Boondoggle is also a word for a braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.
+
+---
