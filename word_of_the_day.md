@@ -3073,3 +3073,10 @@ Onerous means "involving, imposing, or constituting a burden." It typically desc
 A boondoggle is an expensive and wasteful project usually paid for with public money. Boondoggle is also a word for a braided cord worn by Boy Scouts as a neckerchief slide, hatband, or ornament.
 
 ---
+###### *Apr 28, 2026*
+### [evanescent](https://www.merriam-webster.com/dictionary/evanescent)
+<small>*adjective*</small> | <small>ev-uh-NESS-unt</small>
+
+Evanescent is a formal and literary word that describes something that only lasts a very short time.
+
+---
