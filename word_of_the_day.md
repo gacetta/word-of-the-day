@@ -3080,3 +3080,10 @@ A boondoggle is an expensive and wasteful project usually paid for with public m
 Evanescent is a formal and literary word that describes something that only lasts a very short time.
 
 ---
+###### *Apr 29, 2026*
+### [speculate](https://www.merriam-webster.com/dictionary/speculate)
+<small>*verb*</small> | <small>SPEK-yuh-layt</small>
+
+In general contexts, speculate means "to form ideas or theories about something usually when there are many things not known about it." In contexts relating to business or finance, it means "to invest money in ways that could produce a large profit but that also involve a lot of risk."
+
+---
