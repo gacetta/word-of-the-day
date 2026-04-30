@@ -3087,3 +3087,10 @@ Evanescent is a formal and literary word that describes something that only last
 In general contexts, speculate means "to form ideas or theories about something usually when there are many things not known about it." In contexts relating to business or finance, it means "to invest money in ways that could produce a large profit but that also involve a lot of risk."
 
 ---
+###### *Apr 30, 2026*
+### [interlocutor](https://www.merriam-webster.com/dictionary/interlocutor)
+<small>*noun*</small> | <small>in-ter-LAH-kyuh-ter</small>
+
+Interlocutor is a formal word that means “one who takes part in dialogue or conversation.”
+
+---
