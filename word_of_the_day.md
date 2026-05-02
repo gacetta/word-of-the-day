@@ -3101,3 +3101,10 @@ Interlocutor is a formal word that means “one who takes part in dialogue or co
 Beltane refers to the Celtic May Day festival.
 
 ---
+###### *May 02, 2026*
+### [exasperate](https://www.merriam-webster.com/dictionary/exasperate)
+<small>*verb*</small> | <small>ig-ZASS-puh-rayt</small>
+
+To exasperate someone is to cause them irritation or annoyance, or to make them angry.
+
+---
