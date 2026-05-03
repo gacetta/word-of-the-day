@@ -3108,3 +3108,10 @@ Beltane refers to the Celtic May Day festival.
 To exasperate someone is to cause them irritation or annoyance, or to make them angry.
 
 ---
+###### *May 03, 2026*
+### [métier](https://www.merriam-webster.com/dictionary/métier)
+<small>*noun*</small> | <small>MET-yay</small>
+
+Métier, sometimes styled metier, is a formal word that refers to something that a person does very well.
+
+---
