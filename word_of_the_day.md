@@ -3115,3 +3115,10 @@ To exasperate someone is to cause them irritation or annoyance, or to make them 
 Métier, sometimes styled metier, is a formal word that refers to something that a person does very well.
 
 ---
+###### *May 04, 2026*
+### [scrupulous](https://www.merriam-webster.com/dictionary/scrupulous)
+<small>*adjective*</small> | <small>SKROO-pyuh-lus</small>
+
+Scrupulous describes someone who is very careful about doing something correctly, or something marked by such carefulness. Scrupulous can also describe someone who is careful about doing what is honest and morally right.
+
+---
