@@ -3122,3 +3122,10 @@ Métier, sometimes styled metier, is a formal word that refers to something that
 Scrupulous describes someone who is very careful about doing something correctly, or something marked by such carefulness. Scrupulous can also describe someone who is careful about doing what is honest and morally right.
 
 ---
+###### *May 05, 2026*
+### [augur](https://www.merriam-webster.com/dictionary/augur)
+<small>*verb*</small> | <small>AW-gur</small>
+
+To augur is to show or suggest, especially from omens, that something might happen in the future. Used most often in formal speech or writing, augur is often followed by an adverb, such as well. 
+
+---
