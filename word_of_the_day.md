@@ -3129,3 +3129,10 @@ Scrupulous describes someone who is very careful about doing something correctly
 To augur is to show or suggest, especially from omens, that something might happen in the future. Used most often in formal speech or writing, augur is often followed by an adverb, such as well. 
 
 ---
+###### *May 06, 2026*
+### [flamboyant](https://www.merriam-webster.com/dictionary/flamboyant)
+<small>*adjective*</small> | <small>flam-BOY-ant</small>
+
+Someone or something described as flamboyant has a very noticeable quality that attracts a lot of attention. Such a person or thing is often strikingly elaborate or colorful in their behavior or display.
+
+---
