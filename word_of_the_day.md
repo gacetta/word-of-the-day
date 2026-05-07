@@ -3136,3 +3136,10 @@ To augur is to show or suggest, especially from omens, that something might happ
 Someone or something described as flamboyant has a very noticeable quality that attracts a lot of attention. Such a person or thing is often strikingly elaborate or colorful in their behavior or display.
 
 ---
+###### *May 07, 2026*
+### [dudgeon](https://www.merriam-webster.com/dictionary/dudgeon)
+<small>*noun*</small> | <small>DUJ-un</small>
+
+Dudgeon is typically used in the phrase “in high dudgeon” to describe someone who is angry and offended by something they perceive to be unfair or wrong.
+
+---
