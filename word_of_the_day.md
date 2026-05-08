@@ -3143,3 +3143,10 @@ Someone or something described as flamboyant has a very noticeable quality that 
 Dudgeon is typically used in the phrase “in high dudgeon” to describe someone who is angry and offended by something they perceive to be unfair or wrong.
 
 ---
+###### *May 08, 2026*
+### [wistful](https://www.merriam-webster.com/dictionary/wistful)
+<small>*adjective*</small> | <small>WIST-ful</small>
+
+To be wistful is to have sad thoughts and feelings about something that you want to have or do, and especially about something that made you happy in the past. Wistful can also describe something, such as a smile or sigh, that shows or communicates such feelings.
+
+---
