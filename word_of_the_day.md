@@ -3150,3 +3150,10 @@ Dudgeon is typically used in the phrase “in high dudgeon” to describe someon
 To be wistful is to have sad thoughts and feelings about something that you want to have or do, and especially about something that made you happy in the past. Wistful can also describe something, such as a smile or sigh, that shows or communicates such feelings.
 
 ---
+###### *May 09, 2026*
+### [gallivant](https://www.merriam-webster.com/dictionary/gallivant)
+<small>*verb*</small> | <small>GAL-uh-vant</small>
+
+To gallivant is to go or travel to many different places for pleasure. Gallivant is a somewhat informal word that is often applied when the user of the word does not approve of such pleasurable traveling.
+
+---
