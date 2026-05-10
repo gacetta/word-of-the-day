@@ -3157,3 +3157,10 @@ To be wistful is to have sad thoughts and feelings about something that you want
 To gallivant is to go or travel to many different places for pleasure. Gallivant is a somewhat informal word that is often applied when the user of the word does not approve of such pleasurable traveling.
 
 ---
+###### *May 10, 2026*
+### [halcyon](https://www.merriam-webster.com/dictionary/halcyon)
+<small>*adjective*</small> | <small>HAL-see-un</small>
+
+Halcyon is most often used to describe a happy and successful time in the past that is remembered as being better than today. It can also mean “calm, peaceful” or “prosperous, affluent.” 
+
+---
