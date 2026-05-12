@@ -3171,3 +3171,10 @@ Halcyon is most often used to describe a happy and successful time in the past t
 Paragon is a formal word that refers to a person or thing that is perfect or excellent in some way and should be considered a model or example to be copied.
 
 ---
+###### *May 12, 2026*
+### [catercorner](https://www.merriam-webster.com/dictionary/catercorner)
+<small>*adverb or adjective*</small> | <small>KAT-ee-kor-ner</small>
+
+Catercorner is used to describe two things that are located across from each other on opposite corners. It is a less common variant of kitty-corner. 
+
+---
