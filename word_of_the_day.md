@@ -3178,3 +3178,10 @@ Paragon is a formal word that refers to a person or thing that is perfect or exc
 Catercorner is used to describe two things that are located across from each other on opposite corners. It is a less common variant of kitty-corner. 
 
 ---
+###### *May 13, 2026*
+### [rectify](https://www.merriam-webster.com/dictionary/rectify)
+<small>*verb*</small> | <small>REK-tuh-fye</small>
+
+Rectify is a formal word meaning “to correct (something that is wrong).”
+
+---
