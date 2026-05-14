@@ -3185,3 +3185,10 @@ Catercorner is used to describe two things that are located across from each oth
 Rectify is a formal word meaning “to correct (something that is wrong).”
 
 ---
+###### *May 14, 2026*
+### [imbroglio](https://www.merriam-webster.com/dictionary/imbroglio)
+<small>*noun*</small> | <small>im-BROHL-yoh</small>
+
+Imbroglio is a formal word that refers to a complex dispute or argument.
+
+---
