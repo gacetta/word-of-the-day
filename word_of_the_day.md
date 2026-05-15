@@ -3192,3 +3192,10 @@ Rectify is a formal word meaning “to correct (something that is wrong).”
 Imbroglio is a formal word that refers to a complex dispute or argument.
 
 ---
+###### *May 15, 2026*
+### [tortuous](https://www.merriam-webster.com/dictionary/tortuous)
+<small>*adjective*</small> | <small>TOR-chuh-wus</small>
+
+Tortuous describes something that has many literal or figurative twists and turns.
+
+---
