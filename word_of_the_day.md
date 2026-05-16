@@ -3199,3 +3199,10 @@ Imbroglio is a formal word that refers to a complex dispute or argument.
 Tortuous describes something that has many literal or figurative twists and turns.
 
 ---
+###### *May 16, 2026*
+### [kiki](https://www.merriam-webster.com/dictionary/kiki)
+<small>*noun*</small> | <small>KEE-kee</small>
+
+Kiki is a slang term used for an informal gathering among close friends, especially to share lively gossip or frank conversation. It can also refer more broadly to gossipy conversation. Kiki is especially used in and associated with LGBTQ+ and Black communities.
+
+---
