@@ -3206,3 +3206,10 @@ Tortuous describes something that has many literal or figurative twists and turn
 Kiki is a slang term used for an informal gathering among close friends, especially to share lively gossip or frank conversation. It can also refer more broadly to gossipy conversation. Kiki is especially used in and associated with LGBTQ+ and Black communities.
 
 ---
+###### *May 17, 2026*
+### [affable](https://www.merriam-webster.com/dictionary/affable)
+<small>*adjective*</small> | <small>AF-uh-bul</small>
+
+Affable describes someone who is friendly and easy to talk to. It can also describe something, such as someone’s personality, that is characterized by ease and friendliness.
+
+---
