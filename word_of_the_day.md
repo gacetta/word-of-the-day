@@ -3213,3 +3213,10 @@ Kiki is a slang term used for an informal gathering among close friends, especia
 Affable describes someone who is friendly and easy to talk to. It can also describe something, such as someone’s personality, that is characterized by ease and friendliness.
 
 ---
+###### *May 18, 2026*
+### [vindicate](https://www.merriam-webster.com/dictionary/vindicate)
+<small>*verb*</small> | <small>VIN-duh-kayt</small>
+
+To vindicate someone is to show that they are not guilty. Vindicate can also mean “to show that someone or something that has been criticized or doubted is correct, true, or reasonable.”
+
+---
