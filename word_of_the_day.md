@@ -3220,3 +3220,10 @@ Affable describes someone who is friendly and easy to talk to. It can also descr
 To vindicate someone is to show that they are not guilty. Vindicate can also mean “to show that someone or something that has been criticized or doubted is correct, true, or reasonable.”
 
 ---
+###### *May 19, 2026*
+### [demeanor](https://www.merriam-webster.com/dictionary/demeanor)
+<small>*noun*</small> | <small>dih-MEE-ner</small>
+
+Demeanor refers to someone’s outward manner and behavior toward others. 
+
+---
