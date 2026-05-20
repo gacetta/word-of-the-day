@@ -3227,3 +3227,10 @@ To vindicate someone is to show that they are not guilty. Vindicate can also mea
 Demeanor refers to someone’s outward manner and behavior toward others. 
 
 ---
+###### *May 20, 2026*
+### [cordial](https://www.merriam-webster.com/dictionary/cordial)
+<small>*adjective*</small> | <small>KOR-jul</small>
+
+Cordial describes someone or something that is politely pleasant and friendly.
+
+---
