@@ -3234,3 +3234,10 @@ Demeanor refers to someone’s outward manner and behavior toward others.
 Cordial describes someone or something that is politely pleasant and friendly.
 
 ---
+###### *May 21, 2026*
+### [lacuna](https://www.merriam-webster.com/dictionary/lacuna)
+<small>*noun*</small> | <small>luh-KOO-nuh</small>
+
+Lacuna is a formal word that refers to a gap or blank space in something—in other words, a missing part. When used with respect to biology, lacuna also refers to a small cavity, pit, or discontinuity in an anatomical structure.
+
+---
