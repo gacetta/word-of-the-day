@@ -3241,3 +3241,10 @@ Cordial describes someone or something that is politely pleasant and friendly.
 Lacuna is a formal word that refers to a gap or blank space in something—in other words, a missing part. When used with respect to biology, lacuna also refers to a small cavity, pit, or discontinuity in an anatomical structure.
 
 ---
+###### *May 22, 2026*
+### [fraught](https://www.merriam-webster.com/dictionary/fraught)
+<small>*adjective*</small> | <small>FRAWT</small>
+
+Fraught describes something that causes or involves a lot of emotional stress or worry. When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.”
+
+---
