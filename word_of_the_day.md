@@ -3248,3 +3248,10 @@ Lacuna is a formal word that refers to a gap or blank space in something—in ot
 Fraught describes something that causes or involves a lot of emotional stress or worry. When fraught is used in the phrase “fraught with,” it means “full of something bad or unwanted.”
 
 ---
+###### *May 23, 2026*
+### [expedite](https://www.merriam-webster.com/dictionary/expedite)
+<small>*verb*</small> | <small>EK-spuh-dyte</small>
+
+To expedite something is to cause it to happen faster. 
+
+---
