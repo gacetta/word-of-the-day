@@ -3255,3 +3255,10 @@ Fraught describes something that causes or involves a lot of emotional stress or
 To expedite something is to cause it to happen faster. 
 
 ---
+###### *May 24, 2026*
+### [onus](https://www.merriam-webster.com/dictionary/onus)
+<small>*noun*</small> | <small>OH-nuss</small>
+
+Onus is a formal word typically used to refer to a responsibility, obligation, or burden. It is usually preceded by the word the.
+
+---
