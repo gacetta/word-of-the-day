@@ -3262,3 +3262,10 @@ To expedite something is to cause it to happen faster.
 Onus is a formal word typically used to refer to a responsibility, obligation, or burden. It is usually preceded by the word the.
 
 ---
+###### *May 25, 2026*
+### [sacrosanct](https://www.merriam-webster.com/dictionary/sacrosanct)
+<small>*adjective*</small> | <small>SAK-roh-sankt</small>
+
+Sacrosanct is a formal word that describes something too important and respected to be changed or criticized. It can also mean "most sacred or holy."
+
+---
