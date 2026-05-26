@@ -3269,3 +3269,10 @@ Onus is a formal word typically used to refer to a responsibility, obligation, o
 Sacrosanct is a formal word that describes something too important and respected to be changed or criticized. It can also mean "most sacred or holy."
 
 ---
+###### *May 26, 2026*
+### [Gordian knot](https://www.merriam-webster.com/dictionary/Gordian knot)
+<small>*noun*</small> | <small>GOR-dee-un-NAHT</small>
+
+Gordian knot refers to a complicated and difficult problem. It is often used in the phrase cut the Gordian knot, which means “to solve a difficult problem in a very direct way by doing something forceful or extreme.”
+
+---
