@@ -3283,3 +3283,10 @@ Gordian knot refers to a complicated and difficult problem. It is often used in 
 Benevolent can describe someone or something that is kind and generous or something that is organized for the purpose of doing good.
 
 ---
+###### *May 28, 2026*
+### [ingratiate](https://www.merriam-webster.com/dictionary/ingratiate)
+<small>*verb*</small> | <small>in-GRAY-shee-ayt</small>
+
+To ingratiate yourself with others is to gain their favor or approval by deliberately doing or saying things they will like. Ingratiate is usually used with with, and is often (though not always) used disapprovingly.
+
+---
