@@ -3290,3 +3290,10 @@ Benevolent can describe someone or something that is kind and generous or someth
 To ingratiate yourself with others is to gain their favor or approval by deliberately doing or saying things they will like. Ingratiate is usually used with with, and is often (though not always) used disapprovingly.
 
 ---
+###### *May 29, 2026*
+### [cohort](https://www.merriam-webster.com/dictionary/cohort)
+<small>*noun*</small> | <small>KOH-hort</small>
+
+Cohort refers to a group or band of individuals, as in “a cohort of supporters.” It can also be used for a group of individuals who have a statistical factor (such as age) in common in a demographic study, as in “a cohort of people born in the 1980s.” Cohort can be used for individuals too, as for a friend, companion, or colleague, but it is almost always used in its plural form.
+
+---
