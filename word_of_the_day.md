@@ -3297,3 +3297,10 @@ To ingratiate yourself with others is to gain their favor or approval by deliber
 Cohort refers to a group or band of individuals, as in “a cohort of supporters.” It can also be used for a group of individuals who have a statistical factor (such as age) in common in a demographic study, as in “a cohort of people born in the 1980s.” Cohort can be used for individuals too, as for a friend, companion, or colleague, but it is almost always used in its plural form.
 
 ---
+###### *May 30, 2026*
+### [unctuous](https://www.merriam-webster.com/dictionary/unctuous)
+<small>*adjective*</small> | <small>UNK-chuh-wus</small>
+
+Unctuous is a word that’s undergone change in recent years. It now often describes food that is fatty and oily, especially in a pleasing way. Formerly it was more typically applied as a formal adjective describing someone who is figuratively oily—that is, overly or insincerely flattering. Both uses can be found today.
+
+---
