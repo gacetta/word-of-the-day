@@ -3304,3 +3304,10 @@ Cohort refers to a group or band of individuals, as in “a cohort of supporters
 Unctuous is a word that’s undergone change in recent years. It now often describes food that is fatty and oily, especially in a pleasing way. Formerly it was more typically applied as a formal adjective describing someone who is figuratively oily—that is, overly or insincerely flattering. Both uses can be found today.
 
 ---
+###### *May 31, 2026*
+### [permutation](https://www.merriam-webster.com/dictionary/permutation)
+<small>*noun*</small> | <small>per-myoo-TAY-shun</small>
+
+Permutation is a formal word for any one of the many different ways or forms in which something exists or can be arranged. It can also refer to a major or fundamental change in something based primarily on rearrangement of its existing elements. Permutation is usually used in its plural form.
+
+---
