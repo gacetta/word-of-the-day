@@ -3311,3 +3311,10 @@ Unctuous is a word that’s undergone change in recent years. It now often descr
 Permutation is a formal word for any one of the many different ways or forms in which something exists or can be arranged. It can also refer to a major or fundamental change in something based primarily on rearrangement of its existing elements. Permutation is usually used in its plural form.
 
 ---
+###### *Jun 01, 2026*
+### [palatable](https://www.merriam-webster.com/dictionary/palatable)
+<small>*adjective*</small> | <small>PAL-uh-tuh-bul</small>
+
+Palatable describes something that has a pleasant or agreeable taste, or that is pleasant or acceptable to someone. 
+
+---
