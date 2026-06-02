@@ -3318,3 +3318,10 @@ Permutation is a formal word for any one of the many different ways or forms in 
 Palatable describes something that has a pleasant or agreeable taste, or that is pleasant or acceptable to someone. 
 
 ---
+###### *Jun 02, 2026*
+### [crux](https://www.merriam-webster.com/dictionary/crux)
+<small>*noun*</small> | <small>KRUKS</small>
+
+Crux refers to the most important part of something (such as a problem, issue, or puzzle). It is often used in the phrase "the crux of."
+
+---
