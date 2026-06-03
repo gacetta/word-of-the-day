@@ -3325,3 +3325,10 @@ Palatable describes something that has a pleasant or agreeable taste, or that is
 Crux refers to the most important part of something (such as a problem, issue, or puzzle). It is often used in the phrase "the crux of."
 
 ---
+###### *Jun 03, 2026*
+### [engender](https://www.merriam-webster.com/dictionary/engender)
+<small>*verb*</small> | <small>in-JEN-der</small>
+
+Engender is a formal word that means “to be the source or cause of something.”
+
+---
