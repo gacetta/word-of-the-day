@@ -3332,3 +3332,10 @@ Crux refers to the most important part of something (such as a problem, issue, o
 Engender is a formal word that means “to be the source or cause of something.”
 
 ---
+###### *Jun 04, 2026*
+### [redolent](https://www.merriam-webster.com/dictionary/redolent)
+<small>*adjective*</small> | <small>RED-uh-lunt</small>
+
+As a synonym of aromatic, the word redolent can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by of or with and means “full of a specified fragrance,” as in “redolent with incense.” Redolent can also describe something that causes thoughts or memories of something, as in “music redolent of the 1980s.”  
+
+---
