@@ -3339,3 +3339,10 @@ Engender is a formal word that means “to be the source or cause of something.�
 As a synonym of aromatic, the word redolent can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by of or with and means “full of a specified fragrance,” as in “redolent with incense.” Redolent can also describe something that causes thoughts or memories of something, as in “music redolent of the 1980s.”  
 
 ---
+###### *Jun 05, 2026*
+### [interloper](https://www.merriam-webster.com/dictionary/interloper)
+<small>*noun*</small> | <small>in-ter-LOH-per</small>
+
+An interloper is a person who intrudes in a place or sphere of activity; they are not wanted or welcome by the other people present.
+
+---
