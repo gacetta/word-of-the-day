@@ -3346,3 +3346,10 @@ As a synonym of aromatic, the word redolent can describe something that has a no
 An interloper is a person who intrudes in a place or sphere of activity; they are not wanted or welcome by the other people present.
 
 ---
+###### *Jun 06, 2026*
+### [valedictory](https://www.merriam-webster.com/dictionary/valedictory)
+<small>*adjective*</small> | <small>val-uh-DIK-tuh-ree</small>
+
+Valedictory describes something expressing or containing a farewell.
+
+---
