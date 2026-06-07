@@ -3353,3 +3353,10 @@ An interloper is a person who intrudes in a place or sphere of activity; they ar
 Valedictory describes something expressing or containing a farewell.
 
 ---
+###### *Jun 07, 2026*
+### [MacGyver](https://www.merriam-webster.com/dictionary/MacGyver)
+<small>*verb*</small> | <small>muh-GHYE-ver</small>
+
+To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.
+
+---
