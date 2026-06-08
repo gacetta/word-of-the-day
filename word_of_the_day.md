@@ -3360,3 +3360,10 @@ Valedictory describes something expressing or containing a farewell.
 To MacGyver something is to make, form, or repair it with materials that are conveniently on hand.
 
 ---
+###### *Jun 08, 2026*
+### [accoutrement](https://www.merriam-webster.com/dictionary/accoutrement)
+<small>*noun*</small> | <small>uh-KOO-truh-munt</small>
+
+An accoutrement is a piece of clothing or equipment that is used in a particular place or for a particular activity. In military contexts, accoutrement refers specifically to a soldier's outfit. The word can also refer to an identifying and often superficial characteristic or device. Accoutrement in any of its uses is often pluralized.
+
+---
