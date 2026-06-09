@@ -3367,3 +3367,10 @@ To MacGyver something is to make, form, or repair it with materials that are con
 An accoutrement is a piece of clothing or equipment that is used in a particular place or for a particular activity. In military contexts, accoutrement refers specifically to a soldier's outfit. The word can also refer to an identifying and often superficial characteristic or device. Accoutrement in any of its uses is often pluralized.
 
 ---
+###### *Jun 09, 2026*
+### [deleterious](https://www.merriam-webster.com/dictionary/deleterious)
+<small>*adjective*</small> | <small>del-uh-TEER-ee-us</small>
+
+Deleterious is a word used in formal speech and writing to describe something that is damaging or harmful, usually in a subtle or unexpected way.
+
+---
