@@ -3374,3 +3374,10 @@ An accoutrement is a piece of clothing or equipment that is used in a particular
 Deleterious is a word used in formal speech and writing to describe something that is damaging or harmful, usually in a subtle or unexpected way.
 
 ---
+###### *Jun 10, 2026*
+### [foible](https://www.merriam-webster.com/dictionary/foible)
+<small>*noun*</small> | <small>FOY-bul</small>
+
+Foibles are minor flaws or shortcomings in someone's character or behavior. In fencing, foible refers to the weakest part of a sword's blade, between the middle and point.
+
+---
