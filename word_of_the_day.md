@@ -3381,3 +3381,10 @@ Deleterious is a word used in formal speech and writing to describe something th
 Foibles are minor flaws or shortcomings in someone's character or behavior. In fencing, foible refers to the weakest part of a sword's blade, between the middle and point.
 
 ---
+###### *Jun 11, 2026*
+### [saturnine](https://www.merriam-webster.com/dictionary/saturnine)
+<small>*adjective*</small> | <small>SAT-er-nyne</small>
+
+Saturnine is a literary word that typically describes people who are glum and grumpy, or things that suggest or express gloom. It can also mean “slow to act or change.” 
+
+---
