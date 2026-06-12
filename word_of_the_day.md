@@ -3388,3 +3388,10 @@ Foibles are minor flaws or shortcomings in someone's character or behavior. In f
 Saturnine is a literary word that typically describes people who are glum and grumpy, or things that suggest or express gloom. It can also mean “slow to act or change.” 
 
 ---
+###### *Jun 12, 2026*
+### [blandishment](https://www.merriam-webster.com/dictionary/blandishment)
+<small>*noun*</small> | <small>BLAN-dish-munt</small>
+
+Blandishments are nice things that you say or do to convince someone to do something. Blandishment is usually used in the plural form. 
+
+---
