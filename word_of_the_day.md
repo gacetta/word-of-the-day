@@ -3395,3 +3395,10 @@ Saturnine is a literary word that typically describes people who are glum and gr
 Blandishments are nice things that you say or do to convince someone to do something. Blandishment is usually used in the plural form. 
 
 ---
+###### *Jun 13, 2026*
+### [hale](https://www.merriam-webster.com/dictionary/hale)
+<small>*adjective*</small> | <small>HAIL</small>
+
+Someone described as hale is in good and often exceptional health. Hale is commonly used in the phrase "hale and hearty."
+
+---
