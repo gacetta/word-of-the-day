@@ -3402,3 +3402,10 @@ Blandishments are nice things that you say or do to convince someone to do somet
 Someone described as hale is in good and often exceptional health. Hale is commonly used in the phrase "hale and hearty."
 
 ---
+###### *Jun 14, 2026*
+### [emblazon](https://www.merriam-webster.com/dictionary/emblazon)
+<small>*verb*</small> | <small>im-BLAY-zun</small>
+
+To emblazon something is to decorate its surface, usually with a name, slogan, or picture. 
+
+---
