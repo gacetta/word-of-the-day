@@ -3409,3 +3409,10 @@ Someone described as hale is in good and often exceptional health. Hale is commo
 To emblazon something is to decorate its surface, usually with a name, slogan, or picture. 
 
 ---
+###### *Jun 15, 2026*
+### [tenuous](https://www.merriam-webster.com/dictionary/tenuous)
+<small>*adjective*</small> | <small>TEN-yoo-us</small>
+
+Something described as tenuous is flimsy, weak, or uncertain. 
+
+---
