@@ -3416,3 +3416,10 @@ To emblazon something is to decorate its surface, usually with a name, slogan, o
 Something described as tenuous is flimsy, weak, or uncertain. 
 
 ---
+###### *Jun 16, 2026*
+### [gamut](https://www.merriam-webster.com/dictionary/gamut)
+<small>*noun*</small> | <small>GAM-ut</small>
+
+A gamut is a range or series of related things. When we say that something “runs the gamut,” we are saying that it encompasses an entire range of related things.
+
+---
