@@ -3423,3 +3423,10 @@ Something described as tenuous is flimsy, weak, or uncertain.
 A gamut is a range or series of related things. When we say that something “runs the gamut,” we are saying that it encompasses an entire range of related things.
 
 ---
+###### *Jun 17, 2026*
+### [wifty](https://www.merriam-webster.com/dictionary/wifty)
+<small>*adjective*</small> | <small>WIF-tee</small>
+
+Wifty, a synonym of ditzy, describes something or someone eccentrically silly or scatterbrained. 
+
+---
