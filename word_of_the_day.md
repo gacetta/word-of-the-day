@@ -3430,3 +3430,10 @@ A gamut is a range or series of related things. When we say that something “ru
 Wifty, a synonym of ditzy, describes something or someone eccentrically silly or scatterbrained. 
 
 ---
+###### *Jun 18, 2026*
+### [acquiesce](https://www.merriam-webster.com/dictionary/acquiesce)
+<small>*verb*</small> | <small>ak-wee-ESS</small>
+
+To acquiesce to something is to accept it, agree with it, or allow it to happen by staying silent or by not arguing. Acquiesce is somewhat formal, and is often used with in or to.
+
+---
