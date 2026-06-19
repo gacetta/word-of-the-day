@@ -3437,3 +3437,10 @@ Wifty, a synonym of ditzy, describes something or someone eccentrically silly or
 To acquiesce to something is to accept it, agree with it, or allow it to happen by staying silent or by not arguing. Acquiesce is somewhat formal, and is often used with in or to.
 
 ---
+###### *Jun 19, 2026*
+### [indomitable](https://www.merriam-webster.com/dictionary/indomitable)
+<small>*adjective*</small> | <small>in-DAH-muh-tuh-bul</small>
+
+Indomitable is a formal word used to describe something that is impossible to defeat or discourage.
+
+---
