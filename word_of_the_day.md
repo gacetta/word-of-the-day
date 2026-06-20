@@ -3444,3 +3444,10 @@ To acquiesce to something is to accept it, agree with it, or allow it to happen 
 Indomitable is a formal word used to describe something that is impossible to defeat or discourage.
 
 ---
+###### *Jun 20, 2026*
+### [longueur](https://www.merriam-webster.com/dictionary/longueur)
+<small>*noun*</small> | <small>lawn-GUR</small>
+
+Longueur refers to a boring part of something (such as a book or play). It is usually used in the plural form.
+
+---
