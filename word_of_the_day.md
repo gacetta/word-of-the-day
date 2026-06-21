@@ -3451,3 +3451,10 @@ Indomitable is a formal word used to describe something that is impossible to de
 Longueur refers to a boring part of something (such as a book or play). It is usually used in the plural form.
 
 ---
+###### *Jun 21, 2026*
+### [assiduous](https://www.merriam-webster.com/dictionary/assiduous)
+<small>*adjective*</small> | <small>uh-SIJ-uh-wus</small>
+
+Assiduous is a formal word that means “showing great care, attention, and effort.” 
+
+---
