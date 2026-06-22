@@ -3458,3 +3458,10 @@ Longueur refers to a boring part of something (such as a book or play). It is us
 Assiduous is a formal word that means “showing great care, attention, and effort.” 
 
 ---
+###### *Jun 22, 2026*
+### [cavalcade](https://www.merriam-webster.com/dictionary/cavalcade)
+<small>*noun*</small> | <small>kav-ul-KAYD</small>
+
+Cavalcade most often refers to a series of related things. An older meaning, still in use, is “a procession of riders or carriages”; vehicles or ships in a procession can be referred to as a cavalcade too. 
+
+---
