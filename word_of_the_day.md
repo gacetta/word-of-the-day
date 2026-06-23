@@ -3465,3 +3465,10 @@ Assiduous is a formal word that means “showing great care, attention, and effo
 Cavalcade most often refers to a series of related things. An older meaning, still in use, is “a procession of riders or carriages”; vehicles or ships in a procession can be referred to as a cavalcade too. 
 
 ---
+###### *Jun 23, 2026*
+### [quail](https://www.merriam-webster.com/dictionary/quail)
+<small>*verb*</small> | <small>KWAIL</small>
+
+To quail is to feel afraid and often to show your fear in a way that can be clearly seen.
+
+---
