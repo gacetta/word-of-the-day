@@ -3479,3 +3479,10 @@ To quail is to feel afraid and often to show your fear in a way that can be clea
 Pantheon usually refers to a group of famous or notable people or things. It also refers to the officially recognized gods of a particular people, as well as to the Roman Pantheon, the domed temple begun in 27 B.C. and rebuilt circa 118-128 A.D.
 
 ---
+###### *Jun 25, 2026*
+### [jaundiced](https://www.merriam-webster.com/dictionary/jaundiced)
+<small>*adjective*</small> | <small>JAWN-dist</small>
+
+Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.
+
+---
