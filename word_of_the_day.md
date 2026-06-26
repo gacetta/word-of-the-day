@@ -3486,3 +3486,10 @@ Pantheon usually refers to a group of famous or notable people or things. It als
 Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.
 
 ---
+###### *Jun 26, 2026*
+### [symbiosis](https://www.merriam-webster.com/dictionary/symbiosis)
+<small>*noun*</small> | <small>sim-bee-OH-sis</small>
+
+Symbiosis is a formal word that refers to a relationship between two people or groups that work with and depend on each other. In biology, symbiosis refers to the relationship between two different kinds of living things that live together and depend on each other.
+
+---
