@@ -3493,3 +3493,10 @@ Jaundiced means “showing or influenced by feelings of distrust, distaste, or h
 Symbiosis is a formal word that refers to a relationship between two people or groups that work with and depend on each other. In biology, symbiosis refers to the relationship between two different kinds of living things that live together and depend on each other.
 
 ---
+###### *Jun 27, 2026*
+### [oracular](https://www.merriam-webster.com/dictionary/oracular)
+<small>*adjective*</small> | <small>aw-RAK-yuh-ler</small>
+
+Oracular is a formal word that can describe something used to forecast or prophesize, or something that resembles or relates to something used for such purposes. Oracular can also describe something that resembles an oracle—a person (such as a priestess of ancient Greece) through whom a deity is believed to speak; in this sense, an oracular statement, voice, etc. conveys wisdom or solemnity.
+
+---
