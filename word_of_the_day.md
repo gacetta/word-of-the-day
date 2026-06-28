@@ -3500,3 +3500,10 @@ Symbiosis is a formal word that refers to a relationship between two people or g
 Oracular is a formal word that can describe something used to forecast or prophesize, or something that resembles or relates to something used for such purposes. Oracular can also describe something that resembles an oracle—a person (such as a priestess of ancient Greece) through whom a deity is believed to speak; in this sense, an oracular statement, voice, etc. conveys wisdom or solemnity.
 
 ---
+###### *Jun 28, 2026*
+### [gainsay](https://www.merriam-webster.com/dictionary/gainsay)
+<small>*verb*</small> | <small>gayn-SAY</small>
+
+To gainsay something is to deny or disagree with it, or to show or say that it is not true. Gainsay is a formal word usually used in negative statements. 
+
+---
