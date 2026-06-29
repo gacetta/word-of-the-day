@@ -3507,3 +3507,10 @@ Oracular is a formal word that can describe something used to forecast or prophe
 To gainsay something is to deny or disagree with it, or to show or say that it is not true. Gainsay is a formal word usually used in negative statements. 
 
 ---
+###### *Jun 29, 2026*
+### [umami](https://www.merriam-webster.com/dictionary/umami)
+<small>*noun*</small> | <small>oo-MAH-mee</small>
+
+Umami refers to the taste sensation that is produced by several amino acids and nucleotides and that has a rich or meaty flavor characteristic of cheese, cooked meat, mushrooms, soy, and ripe tomatoes.
+
+---
