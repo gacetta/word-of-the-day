@@ -3514,3 +3514,10 @@ To gainsay something is to deny or disagree with it, or to show or say that it i
 Umami refers to the taste sensation that is produced by several amino acids and nucleotides and that has a rich or meaty flavor characteristic of cheese, cooked meat, mushrooms, soy, and ripe tomatoes.
 
 ---
+###### *Jun 30, 2026*
+### [bereft](https://www.merriam-webster.com/dictionary/bereft)
+<small>*adjective*</small> | <small>bih-REFT</small>
+
+To be bereft is to be deprived or robbed of something, or to lack something that you need, want, or expect. Bereft is also used as a synonym of bereaved. 
+
+---
