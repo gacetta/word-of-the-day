@@ -3521,3 +3521,10 @@ Umami refers to the taste sensation that is produced by several amino acids and 
 To be bereft is to be deprived or robbed of something, or to lack something that you need, want, or expect. Bereft is also used as a synonym of bereaved. 
 
 ---
+###### *Jul 01, 2026*
+### [nabob](https://www.merriam-webster.com/dictionary/nabob)
+<small>*noun*</small> | <small>NAY-bahb</small>
+
+A nabob is a very rich or important person.
+
+---
