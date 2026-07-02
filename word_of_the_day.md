@@ -3528,3 +3528,10 @@ To be bereft is to be deprived or robbed of something, or to lack something that
 A nabob is a very rich or important person.
 
 ---
+###### *Jul 02, 2026*
+### [sagacious](https://www.merriam-webster.com/dictionary/sagacious)
+<small>*adjective*</small> | <small>suh-GAY-shus</small>
+
+Someone or something described as sagacious has or shows an ability to understand difficult ideas and situations and to make good decisions. Sagacious may be considered a formal synonym of wise and discerning.
+
+---
