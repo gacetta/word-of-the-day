@@ -3535,3 +3535,10 @@ A nabob is a very rich or important person.
 Someone or something described as sagacious has or shows an ability to understand difficult ideas and situations and to make good decisions. Sagacious may be considered a formal synonym of wise and discerning.
 
 ---
+###### *Jul 03, 2026*
+### [corrode](https://www.merriam-webster.com/dictionary/corrode)
+<small>*verb*</small> | <small>kuh-ROHD</small>
+
+Corrode means "to slowly break apart and destroy (metal, an object, etc.) through a chemical process" or "to undergo such a process." It is also used as a synonym of undermine to mean "to gradually destroy or weaken."
+
+---
