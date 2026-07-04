@@ -3542,3 +3542,10 @@ Someone or something described as sagacious has or shows an ability to understan
 Corrode means "to slowly break apart and destroy (metal, an object, etc.) through a chemical process" or "to undergo such a process." It is also used as a synonym of undermine to mean "to gradually destroy or weaken."
 
 ---
+###### *Jul 04, 2026*
+### [semiquincentennial](https://www.merriam-webster.com/dictionary/semiquincentennial)
+<small>*noun*</small> | <small>sem-ee-kwin-sen-TEN-ee-ul</small>
+
+Semiquincentennial refers to a 250th anniversary or its celebration. The word can also be used as an adjective to describe something related to or associated with such an anniversary or its celebration, as in “semiquincentennial festivities.”
+
+---
