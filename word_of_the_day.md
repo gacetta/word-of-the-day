@@ -3549,3 +3549,10 @@ Corrode means "to slowly break apart and destroy (metal, an object, etc.) throug
 Semiquincentennial refers to a 250th anniversary or its celebration. The word can also be used as an adjective to describe something related to or associated with such an anniversary or its celebration, as in “semiquincentennial festivities.”
 
 ---
+###### *Jul 05, 2026*
+### [acquisitive](https://www.merriam-webster.com/dictionary/acquisitive)
+<small>*adjective*</small> | <small>uh-KWIZ-uh-tiv</small>
+
+Someone or something described as acquisitive is characterized by a strong desire to own or acquire more things.
+
+---
