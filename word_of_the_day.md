@@ -3556,3 +3556,10 @@ Semiquincentennial refers to a 250th anniversary or its celebration. The word ca
 Someone or something described as acquisitive is characterized by a strong desire to own or acquire more things.
 
 ---
+###### *Jul 06, 2026*
+### [deepfake](https://www.merriam-webster.com/dictionary/deepfake)
+<small>*noun*</small> | <small>DEEP-fayk</small>
+
+Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said.
+
+---
