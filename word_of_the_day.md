@@ -3563,3 +3563,10 @@ Someone or something described as acquisitive is characterized by a strong desir
 Deepfake refers to an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said.
 
 ---
+###### *Jul 07, 2026*
+### [perfunctory](https://www.merriam-webster.com/dictionary/perfunctory)
+<small>*adjective*</small> | <small>per-FUNK-tuh-ree</small>
+
+Perfunctory is a formal word used to describe something that is done without energy or enthusiasm because of habit or because it is expected.
+
+---
