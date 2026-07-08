@@ -3570,3 +3570,10 @@ Deepfake refers to an image or recording that has been convincingly altered and 
 Perfunctory is a formal word used to describe something that is done without energy or enthusiasm because of habit or because it is expected.
 
 ---
+###### *Jul 08, 2026*
+### [gambol](https://www.merriam-webster.com/dictionary/gambol)
+<small>*verb*</small> | <small>GAM-bul</small>
+
+Gambol means "to run or jump in a lively way." It is used as a synonym of frolic. 
+
+---
