@@ -3577,3 +3577,10 @@ Perfunctory is a formal word used to describe something that is done without ene
 Gambol means "to run or jump in a lively way." It is used as a synonym of frolic. 
 
 ---
+###### *Jul 09, 2026*
+### [tacit](https://www.merriam-webster.com/dictionary/tacit)
+<small>*adjective*</small> | <small>TASS-it</small>
+
+Tacit is a formal adjective used to describe something that is expressed or understood without being directly stated. 
+
+---
