@@ -3584,3 +3584,10 @@ Gambol means "to run or jump in a lively way." It is used as a synonym of frolic
 Tacit is a formal adjective used to describe something that is expressed or understood without being directly stated. 
 
 ---
+###### *Jul 10, 2026*
+### [effulgence](https://www.merriam-webster.com/dictionary/effulgence)
+<small>*noun*</small> | <small>ih-FULL-junss</small>
+
+Effulgence means “radiant splendor” or “brilliance.”
+
+---
