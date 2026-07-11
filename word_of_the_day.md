@@ -3591,3 +3591,10 @@ Tacit is a formal adjective used to describe something that is expressed or unde
 Effulgence means “radiant splendor” or “brilliance.”
 
 ---
+###### *Jul 11, 2026*
+### [xeric](https://www.merriam-webster.com/dictionary/xeric)
+<small>*adjective*</small> | <small>ZEER-ik</small>
+
+Xeric means "characterized by, relating to, or requiring only a small amount of moisture."
+
+---
