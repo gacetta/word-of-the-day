@@ -3598,3 +3598,10 @@ Effulgence means “radiant splendor” or “brilliance.”
 Xeric means "characterized by, relating to, or requiring only a small amount of moisture."
 
 ---
+###### *Jul 12, 2026*
+### [fulcrum](https://www.merriam-webster.com/dictionary/fulcrum)
+<small>*noun*</small> | <small>FULL-krum</small>
+
+In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something.
+
+---
