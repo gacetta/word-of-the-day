@@ -3605,3 +3605,10 @@ Xeric means "characterized by, relating to, or requiring only a small amount of 
 In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something.
 
 ---
+###### *Jul 13, 2026*
+### [implacable](https://www.merriam-webster.com/dictionary/implacable)
+<small>*adjective*</small> | <small>im-PLAK-uh-bul</small>
+
+Someone or something described as implacable is not capable of being appeased or changed. 
+
+---
