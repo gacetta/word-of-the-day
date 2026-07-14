@@ -3612,3 +3612,10 @@ In technical use, fulcrum refers to the support on which a lever moves when it i
 Someone or something described as implacable is not capable of being appeased or changed. 
 
 ---
+###### *Jul 14, 2026*
+### [yaw](https://www.merriam-webster.com/dictionary/yaw)
+<small>*verb*</small> | <small>YAW</small>
+
+The verb yaw when used for the action of a ship, aircraft, spacecraft, or projectile means "to move to the left or right especially in an uncontrolled manner." More broadly, yaw is used as a synonym of alternate to mean "to change from one to another repeatedly."
+
+---
