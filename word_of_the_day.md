@@ -3619,3 +3619,10 @@ Someone or something described as implacable is not capable of being appeased or
 The verb yaw when used for the action of a ship, aircraft, spacecraft, or projectile means "to move to the left or right especially in an uncontrolled manner." More broadly, yaw is used as a synonym of alternate to mean "to change from one to another repeatedly."
 
 ---
+###### *Jul 15, 2026*
+### [loquacious](https://www.merriam-webster.com/dictionary/loquacious)
+<small>*adjective*</small> | <small>loh-KWAY-shus</small>
+
+Loquacious means “liking to talk and talking smoothly and easily.” Someone described as loquacious might also be called wordy (prone to using more words than necessary) or garrulous (tending to talk a lot). 
+
+---
