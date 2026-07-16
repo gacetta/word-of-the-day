@@ -3626,3 +3626,10 @@ The verb yaw when used for the action of a ship, aircraft, spacecraft, or projec
 Loquacious means “liking to talk and talking smoothly and easily.” Someone described as loquacious might also be called wordy (prone to using more words than necessary) or garrulous (tending to talk a lot). 
 
 ---
+###### *Jul 16, 2026*
+### [bibelot](https://www.merriam-webster.com/dictionary/bibelot)
+<small>*noun*</small> | <small>BEE-buh-loh</small>
+
+A bibelot is a small household ornament or decorative object.
+
+---
