@@ -3633,3 +3633,10 @@ Loquacious means “liking to talk and talking smoothly and easily.” Someone d
 A bibelot is a small household ornament or decorative object.
 
 ---
+###### *Jul 17, 2026*
+### [obdurate](https://www.merriam-webster.com/dictionary/obdurate)
+<small>*adjective*</small> | <small>AHB-duh-rut</small>
+
+Obdurate is a formal word that means "resistant to persuasion." It is usually used to describe someone who is not willing to change their methods or opinions, or something that is not easily altered.
+
+---
