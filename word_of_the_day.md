@@ -3640,3 +3640,10 @@ A bibelot is a small household ornament or decorative object.
 Obdurate is a formal word that means "resistant to persuasion." It is usually used to describe someone who is not willing to change their methods or opinions, or something that is not easily altered.
 
 ---
+###### *Jul 18, 2026*
+### [quid pro quo](https://www.merriam-webster.com/dictionary/quid pro quo)
+<small>*noun*</small> | <small>kwid-proh-KWOH</small>
+
+Quid pro quo refers to something that is given to you or done for you in return for something you have given to or done for someone else.
+
+---
