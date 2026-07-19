@@ -3647,3 +3647,10 @@ Obdurate is a formal word that means "resistant to persuasion." It is usually us
 Quid pro quo refers to something that is given to you or done for you in return for something you have given to or done for someone else.
 
 ---
+###### *Jul 19, 2026*
+### [accentuate](https://www.merriam-webster.com/dictionary/accentuate)
+<small>*verb*</small> | <small>ak-SEN-shu-wayt</small>
+
+To accentuate something is to make it more noticeable.
+
+---
