@@ -3654,3 +3654,10 @@ Quid pro quo refers to something that is given to you or done for you in return 
 To accentuate something is to make it more noticeable.
 
 ---
+###### *Jul 20, 2026*
+### [raffish](https://www.merriam-webster.com/dictionary/raffish)
+<small>*adjective*</small> | <small>RAF-ish</small>
+
+Raffish describes people and things that show a careless but usually attractive unconventionality.
+
+---
