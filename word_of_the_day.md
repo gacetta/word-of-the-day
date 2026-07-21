@@ -3661,3 +3661,10 @@ To accentuate something is to make it more noticeable.
 Raffish describes people and things that show a careless but usually attractive unconventionality.
 
 ---
+###### *Jul 21, 2026*
+### [dog days](https://www.merriam-webster.com/dictionary/dog days)
+<small>*plural noun*</small> | <small>DAWG-DAYZ</small>
+
+Dog days is a plural noun that refers to the hottest time of the year, which in the northern hemisphere is usually between early July and early September. Dog days can also refer to a period of stagnation or inactivity suggestive of hot, sultry weather when it can be difficult to summon the energy required for hard work.
+
+---
