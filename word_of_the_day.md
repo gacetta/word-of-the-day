@@ -3668,3 +3668,10 @@ Raffish describes people and things that show a careless but usually attractive 
 Dog days is a plural noun that refers to the hottest time of the year, which in the northern hemisphere is usually between early July and early September. Dog days can also refer to a period of stagnation or inactivity suggestive of hot, sultry weather when it can be difficult to summon the energy required for hard work.
 
 ---
+###### *Jul 22, 2026*
+### [stalwart](https://www.merriam-webster.com/dictionary/stalwart)
+<small>*adjective*</small> | <small>STAWL-wert</small>
+
+Stalwart is a formal word used to describe someone or something that is very loyal and dedicated or that is physically or mentally strong.
+
+---
