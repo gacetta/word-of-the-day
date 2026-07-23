@@ -3675,3 +3675,10 @@ Dog days is a plural noun that refers to the hottest time of the year, which in 
 Stalwart is a formal word used to describe someone or something that is very loyal and dedicated or that is physically or mentally strong.
 
 ---
+###### *Jul 23, 2026*
+### [maverick](https://www.merriam-webster.com/dictionary/maverick)
+<small>*noun*</small> | <small>MAV-rik</small>
+
+Maverick refers to a person who refuses to follow the customs or rules of a group; in other words, a nonconformist.
+
+---
