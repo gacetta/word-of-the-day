@@ -3682,3 +3682,10 @@ Stalwart is a formal word used to describe someone or something that is very loy
 Maverick refers to a person who refuses to follow the customs or rules of a group; in other words, a nonconformist.
 
 ---
+###### *Jul 24, 2026*
+### [itinerant](https://www.merriam-webster.com/dictionary/itinerant)
+<small>*adjective*</small> | <small>eye-TIN-uh-runt</small>
+
+Itinerant describes someone who travels from place to place or only stays in a place for a short amount of time. It is used especially for people who travel in a circuit for their profession.
+
+---
