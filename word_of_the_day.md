@@ -3689,3 +3689,10 @@ Maverick refers to a person who refuses to follow the customs or rules of a grou
 Itinerant describes someone who travels from place to place or only stays in a place for a short amount of time. It is used especially for people who travel in a circuit for their profession.
 
 ---
+###### *Jul 25, 2026*
+### [vituperate](https://www.merriam-webster.com/dictionary/vituperate)
+<small>*verb*</small> | <small>vye-TOO-puh-rayt</small>
+
+To vituperate someone is to criticize or censure them severely or abusively. Vituperate can also mean "to use harsh condemnatory language."
+
+---
