@@ -3696,3 +3696,10 @@ Itinerant describes someone who travels from place to place or only stays in a p
 To vituperate someone is to criticize or censure them severely or abusively. Vituperate can also mean "to use harsh condemnatory language."
 
 ---
+###### *Jul 26, 2026*
+### [aerie](https://www.merriam-webster.com/dictionary/aerie)
+<small>*noun*</small> | <small>AIR-ee</small>
+
+Aerie refers to the nest of a bird (such as an eagle or hawk) built high up on a cliff or on the top of a mountain. It can also be used for a room or building built high up so that people inside can see things happening below them. 
+
+---
