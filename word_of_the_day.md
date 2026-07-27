@@ -3703,3 +3703,10 @@ To vituperate someone is to criticize or censure them severely or abusively. Vit
 Aerie refers to the nest of a bird (such as an eagle or hawk) built high up on a cliff or on the top of a mountain. It can also be used for a room or building built high up so that people inside can see things happening below them. 
 
 ---
+###### *Jul 27, 2026*
+### [parochial](https://www.merriam-webster.com/dictionary/parochial)
+<small>*adjective*</small> | <small>puh-ROH-kee-ul</small>
+
+Parochial is a formal word that is usually used in a disapproving way to describe something that is limited in range or scope, as to a narrow region or area.
+
+---
