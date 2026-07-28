@@ -3710,3 +3710,10 @@ Aerie refers to the nest of a bird (such as an eagle or hawk) built high up on a
 Parochial is a formal word that is usually used in a disapproving way to describe something that is limited in range or scope, as to a narrow region or area.
 
 ---
+###### *Jul 28, 2026*
+### [kludge](https://www.merriam-webster.com/dictionary/kludge)
+<small>*noun*</small> | <small>KLOOJ</small>
+
+A kludge is a haphazard or makeshift solution to a problem and especially to a computer or programming problem.
+
+---
