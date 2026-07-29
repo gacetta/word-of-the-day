@@ -3717,3 +3717,10 @@ Parochial is a formal word that is usually used in a disapproving way to describ
 A kludge is a haphazard or makeshift solution to a problem and especially to a computer or programming problem.
 
 ---
+###### *Jul 29, 2026*
+### [inveigle](https://www.merriam-webster.com/dictionary/inveigle)
+<small>*verb*</small> | <small>in-VAY-gul</small>
+
+To inveigle someone is to persuade them in a clever or deceptive way to do something. Inveigle can also mean “to get something in a clever or deceptive way.” 
+
+---
