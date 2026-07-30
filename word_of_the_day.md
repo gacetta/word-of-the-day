@@ -3724,3 +3724,10 @@ A kludge is a haphazard or makeshift solution to a problem and especially to a c
 To inveigle someone is to persuade them in a clever or deceptive way to do something. Inveigle can also mean “to get something in a clever or deceptive way.” 
 
 ---
+###### *Jul 30, 2026*
+### [sultry](https://www.merriam-webster.com/dictionary/sultry)
+<small>*adjective*</small> | <small>SULL-tree</small>
+
+Sultry means “very hot and humid” when it describes such things as seasons, days, and weather. When it describes things humans do and possess—voices, poses, looks, and the like—it means “exciting or capable of exciting strong sexual desire.”
+
+---
