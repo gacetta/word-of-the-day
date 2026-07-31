@@ -3731,3 +3731,10 @@ To inveigle someone is to persuade them in a clever or deceptive way to do somet
 Sultry means “very hot and humid” when it describes such things as seasons, days, and weather. When it describes things humans do and possess—voices, poses, looks, and the like—it means “exciting or capable of exciting strong sexual desire.”
 
 ---
+###### *Jul 31, 2026*
+### [comely](https://www.merriam-webster.com/dictionary/comely)
+<small>*adjective*</small> | <small>KUM-lee</small>
+
+Comely is an adjective with an old-fashioned and literary feel that describes someone or something that has a pleasing appearance, or that is pretty or attractive. 
+
+---
