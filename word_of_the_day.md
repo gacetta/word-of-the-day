@@ -3738,3 +3738,10 @@ Sultry means “very hot and humid” when it describes such things as seasons, 
 Comely is an adjective with an old-fashioned and literary feel that describes someone or something that has a pleasing appearance, or that is pretty or attractive. 
 
 ---
+###### *Aug 01, 2026*
+### [spindrift](https://www.merriam-webster.com/dictionary/spindrift)
+<small>*noun*</small> | <small>SPIN-drift</small>
+
+Spindrift refers to spray blown from waves during a gale or to fine wind-borne snow or sand.
+
+---
