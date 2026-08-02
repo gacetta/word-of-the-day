@@ -3745,3 +3745,10 @@ Comely is an adjective with an old-fashioned and literary feel that describes so
 Spindrift refers to spray blown from waves during a gale or to fine wind-borne snow or sand.
 
 ---
+###### *Aug 02, 2026*
+### [highfalutin](https://www.merriam-webster.com/dictionary/highfalutin)
+<small>*adjective*</small> | <small>hye-fuh-LOO-tun</small>
+
+Something or someone described as highfalutin seems, or is trying to seem, great or important. 
+
+---
