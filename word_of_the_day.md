@@ -3752,3 +3752,10 @@ Spindrift refers to spray blown from waves during a gale or to fine wind-borne s
 Something or someone described as highfalutin seems, or is trying to seem, great or important. 
 
 ---
+###### *Aug 03, 2026*
+### [mitigate](https://www.merriam-webster.com/dictionary/mitigate)
+<small>*verb*</small> | <small>MIT-uh-gayt</small>
+
+To mitigate something is to make it less severe, harmful, or painful.
+
+---
