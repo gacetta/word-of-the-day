@@ -3759,3 +3759,10 @@ Something or someone described as highfalutin seems, or is trying to seem, great
 To mitigate something is to make it less severe, harmful, or painful.
 
 ---
+###### *Aug 04, 2026*
+### [élan](https://www.merriam-webster.com/dictionary/élan)
+<small>*noun*</small> | <small>ay-LAHN</small>
+
+Élan refers to energy and enthusiasm.
+
+---
