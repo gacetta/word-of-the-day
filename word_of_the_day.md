@@ -3766,3 +3766,10 @@ To mitigate something is to make it less severe, harmful, or painful.
 Élan refers to energy and enthusiasm.
 
 ---
+###### *Aug 05, 2026*
+### [colloquial](https://www.merriam-webster.com/dictionary/colloquial)
+<small>*adjective*</small> | <small>kuh-LOH-kwee-ul</small>
+
+Colloquial is used with words like term and word and expression to describe language that is used in familiar and informal conversation. 
+
+---
