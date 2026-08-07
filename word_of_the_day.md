@@ -3773,3 +3773,10 @@ To mitigate something is to make it less severe, harmful, or painful.
 Colloquial is used with words like term and word and expression to describe language that is used in familiar and informal conversation. 
 
 ---
+###### *Aug 07, 2026*
+### [invidious](https://www.merriam-webster.com/dictionary/invidious)
+<small>*adjective*</small> | <small>in-VID-ee-us</small>
+
+Invidious is a formal word used to describe things that are unpleasant and likely to cause bad feelings in other people. Such bad feelings may include resentment, discontent, animosity, or envy.
+
+---
