@@ -3780,3 +3780,10 @@ Colloquial is used with words like term and word and expression to describe lang
 Invidious is a formal word used to describe things that are unpleasant and likely to cause bad feelings in other people. Such bad feelings may include resentment, discontent, animosity, or envy.
 
 ---
+###### *Aug 08, 2026*
+### [nurture](https://www.merriam-webster.com/dictionary/nurture)
+<small>*verb*</small> | <small>NER-cher</small>
+
+Nurture is most often used to mean “to help someone or something grow, develop, or succeed.” It can also mean “to take care of someone or something that is growing or developing by providing food, protection, a place to live, etc.,” or “to hold something, such as an idea or strong feeling, in your mind for a long time.”
+
+---
