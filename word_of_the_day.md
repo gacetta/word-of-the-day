@@ -3787,3 +3787,10 @@ Invidious is a formal word used to describe things that are unpleasant and likel
 Nurture is most often used to mean “to help someone or something grow, develop, or succeed.” It can also mean “to take care of someone or something that is growing or developing by providing food, protection, a place to live, etc.,” or “to hold something, such as an idea or strong feeling, in your mind for a long time.”
 
 ---
+###### *Aug 09, 2026*
+### [anecdote](https://www.merriam-webster.com/dictionary/anecdote)
+<small>*noun*</small> | <small>AN-ik-doht</small>
+
+An anecdote is a short narrative about an interesting, funny, or biographical incident.
+
+---
