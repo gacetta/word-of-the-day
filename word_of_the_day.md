@@ -3794,3 +3794,10 @@ Nurture is most often used to mean “to help someone or something grow, develop
 An anecdote is a short narrative about an interesting, funny, or biographical incident.
 
 ---
+###### *Aug 10, 2026*
+### [pedagogical](https://www.merriam-webster.com/dictionary/pedagogical)
+<small>*adjective*</small> | <small>ped-uh-GAH-jih-kul</small>
+
+Pedagogical is a formal word used to describe things that are of or related to teachers or education.
+
+---
