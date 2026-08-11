@@ -3801,3 +3801,10 @@ An anecdote is a short narrative about an interesting, funny, or biographical in
 Pedagogical is a formal word used to describe things that are of or related to teachers or education.
 
 ---
+###### *Aug 11, 2026*
+### [baptism of fire](https://www.merriam-webster.com/dictionary/baptism of fire)
+<small>*noun*</small> | <small>BAP-tiz-um-uv-FYRE</small>
+
+A baptism of fire (or baptism by fire, as it is sometimes referred to in the U.S.) is an introductory or initial experience that is a severe ordeal. In military contexts, baptism of fire specifically refers to a soldier's first exposure to enemy fire.
+
+---
