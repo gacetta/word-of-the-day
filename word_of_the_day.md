@@ -3808,3 +3808,10 @@ Pedagogical is a formal word used to describe things that are of or related to t
 A baptism of fire (or baptism by fire, as it is sometimes referred to in the U.S.) is an introductory or initial experience that is a severe ordeal. In military contexts, baptism of fire specifically refers to a soldier's first exposure to enemy fire.
 
 ---
+###### *Aug 12, 2026*
+### [gnomic](https://www.merriam-webster.com/dictionary/gnomic)
+<small>*adjective*</small> | <small>NOH-mik</small>
+
+Gnomic is a formal word that describes something cryptically said or written in few words. 
+
+---
