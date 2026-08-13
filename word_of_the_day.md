@@ -3815,3 +3815,10 @@ A baptism of fire (or baptism by fire, as it is sometimes referred to in the U.S
 Gnomic is a formal word that describes something cryptically said or written in few words. 
 
 ---
+###### *Aug 13, 2026*
+### [salvo](https://www.merriam-webster.com/dictionary/salvo)
+<small>*noun*</small> | <small>SAL-voh</small>
+
+In military contexts, salvo refers to various actions involving discharge or release of bombs, rockets, artillery, etc., as well to the bombs or projectiles released in such an action. In general use, salvo is usually used to refer to a strong or sudden verbal attack, but it can also refer to a sudden occurrence of applause, laughter, etc., from many people.
+
+---
