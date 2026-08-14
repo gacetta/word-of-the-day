@@ -3822,3 +3822,10 @@ Gnomic is a formal word that describes something cryptically said or written in 
 In military contexts, salvo refers to various actions involving discharge or release of bombs, rockets, artillery, etc., as well to the bombs or projectiles released in such an action. In general use, salvo is usually used to refer to a strong or sudden verbal attack, but it can also refer to a sudden occurrence of applause, laughter, etc., from many people.
 
 ---
+###### *Aug 14, 2026*
+### [vacuous](https://www.merriam-webster.com/dictionary/vacuous)
+<small>*adjective*</small> | <small>VAK-yuh-wus</small>
+
+Vacuous is a formal word indicating a lack of thought, intelligence, or substance. 
+
+---
