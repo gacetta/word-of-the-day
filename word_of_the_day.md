@@ -3829,3 +3829,10 @@ In military contexts, salvo refers to various actions involving discharge or rel
 Vacuous is a formal word indicating a lack of thought, intelligence, or substance. 
 
 ---
+###### *Aug 15, 2026*
+### [circumscribe](https://www.merriam-webster.com/dictionary/circumscribe)
+<small>*verb*</small> | <small>SER-kum-skrybe</small>
+
+To circumscribe something is to limit its range or activity. 
+
+---
