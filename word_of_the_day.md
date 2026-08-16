@@ -3836,3 +3836,10 @@ Vacuous is a formal word indicating a lack of thought, intelligence, or substanc
 To circumscribe something is to limit its range or activity. 
 
 ---
+###### *Aug 16, 2026*
+### [zeugma](https://www.merriam-webster.com/dictionary/zeugma)
+<small>*noun*</small> | <small>ZOOG-muh</small>
+
+Zeugma refers to wordplay in which a single word relates to other words in such a way that it means something different in each case, as in “building a boat and a reputation” and “open a book along with your mind.”
+
+---
