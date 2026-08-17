@@ -3843,3 +3843,10 @@ To circumscribe something is to limit its range or activity.
 Zeugma refers to wordplay in which a single word relates to other words in such a way that it means something different in each case, as in “building a boat and a reputation” and “open a book along with your mind.”
 
 ---
+###### *Aug 17, 2026*
+### [lackadaisical](https://www.merriam-webster.com/dictionary/lackadaisical)
+<small>*adjective*</small> | <small>lak-uh-DAY-zih-kul</small>
+
+Something or someone described as lackadaisical is lacking in interest, enthusiasm, or zest. 
+
+---
