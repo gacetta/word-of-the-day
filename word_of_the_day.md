@@ -3850,3 +3850,10 @@ Zeugma refers to wordplay in which a single word relates to other words in such 
 Something or someone described as lackadaisical is lacking in interest, enthusiasm, or zest. 
 
 ---
+###### *Aug 18, 2026*
+### [oxymoron](https://www.merriam-webster.com/dictionary/oxymoron)
+<small>*noun*</small> | <small>ahk-sih-MOR-ahn</small>
+
+An oxymoron is a combination of words that have opposite or very different meanings, such as "cruel kindness" or "open secret." In broader usage, oxymoron can also refer to something (such as a concept) that is made up of contradictory or incongruous elements.
+
+---
