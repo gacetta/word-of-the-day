@@ -3857,3 +3857,10 @@ Something or someone described as lackadaisical is lacking in interest, enthusia
 An oxymoron is a combination of words that have opposite or very different meanings, such as "cruel kindness" or "open secret." In broader usage, oxymoron can also refer to something (such as a concept) that is made up of contradictory or incongruous elements.
 
 ---
+###### *Aug 19, 2026*
+### [balmy](https://www.merriam-webster.com/dictionary/balmy)
+<small>*adjective*</small> | <small>BAH-mee</small>
+
+Balmy is an adjective that is often used to describe weather that is warm, calm, and pleasant. It can also be used to describe someone or something (such as an idea) that is foolish or irrational.
+
+---
