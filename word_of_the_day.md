@@ -3864,3 +3864,10 @@ An oxymoron is a combination of words that have opposite or very different meani
 Balmy is an adjective that is often used to describe weather that is warm, calm, and pleasant. It can also be used to describe someone or something (such as an idea) that is foolish or irrational.
 
 ---
+###### *Aug 20, 2026*
+### [divulge](https://www.merriam-webster.com/dictionary/divulge)
+<small>*verb*</small> | <small>dih-VULJ</small>
+
+To divulge something, especially secret or private information, is to make it known. 
+
+---
