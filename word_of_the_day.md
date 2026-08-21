@@ -3871,3 +3871,10 @@ Balmy is an adjective that is often used to describe weather that is warm, calm,
 To divulge something, especially secret or private information, is to make it known. 
 
 ---
+###### *Aug 21, 2026*
+### [rigmarole](https://www.merriam-webster.com/dictionary/rigmarole)
+<small>*noun*</small> | <small>RIG-uh-muh-rol</small>
+
+Rigmarole refers to a long, complicated, and annoying process, description, etc.
+
+---
