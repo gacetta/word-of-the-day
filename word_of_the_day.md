@@ -3878,3 +3878,10 @@ To divulge something, especially secret or private information, is to make it kn
 Rigmarole refers to a long, complicated, and annoying process, description, etc.
 
 ---
+###### *Aug 22, 2026*
+### [august](https://www.merriam-webster.com/dictionary/august)
+<small>*adjective*</small> | <small>aw-GUST</small>
+
+The word august, which is pronounced with the accent on "gust," describes someone or something marked by majestic dignity or grandeur.
+
+---
