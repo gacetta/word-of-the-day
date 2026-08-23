@@ -3885,3 +3885,10 @@ Rigmarole refers to a long, complicated, and annoying process, description, etc.
 The word august, which is pronounced with the accent on "gust," describes someone or something marked by majestic dignity or grandeur.
 
 ---
+###### *Aug 23, 2026*
+### [prowess](https://www.merriam-webster.com/dictionary/prowess)
+<small>*noun*</small> | <small>PROW-us</small>
+
+Prowess refers to someone’s great ability, skill, or talent for something specified, as in “the pop star's vocal prowess” or “a lawyer of great prowess.” 
+
+---
