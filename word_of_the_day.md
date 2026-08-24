@@ -3892,3 +3892,10 @@ The word august, which is pronounced with the accent on "gust," describes someon
 Prowess refers to someone’s great ability, skill, or talent for something specified, as in “the pop star's vocal prowess” or “a lawyer of great prowess.” 
 
 ---
+###### *Aug 24, 2026*
+### [expeditious](https://www.merriam-webster.com/dictionary/expeditious)
+<small>*adjective*</small> | <small>ek-spuh-DISH-us</small>
+
+Expeditious is a formal word that is used to describe someone acting in a quick and efficient way, or something done in such a manner. 
+
+---
