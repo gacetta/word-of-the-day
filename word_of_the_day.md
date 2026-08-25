@@ -3899,3 +3899,10 @@ Prowess refers to someone’s great ability, skill, or talent for something spec
 Expeditious is a formal word that is used to describe someone acting in a quick and efficient way, or something done in such a manner. 
 
 ---
+###### *Aug 25, 2026*
+### [tilde](https://www.merriam-webster.com/dictionary/tilde)
+<small>*noun*</small> | <small>TIL-duh</small>
+
+Tilde refers to the mark ~ placed especially over the letter n (as in the Spanish señor, meaning "sir") to denote the sound \nʸ\, or over vowels (as in the Portuguese irmã, meaning "sister") to indicate nasality. When a tilde appears as an independent character, it usually means "approximately" (as in "we'll be there in ~ 30 minutes").
+
+---
