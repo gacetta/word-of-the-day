@@ -3906,3 +3906,10 @@ Expeditious is a formal word that is used to describe someone acting in a quick 
 Tilde refers to the mark ~ placed especially over the letter n (as in the Spanish señor, meaning "sir") to denote the sound \nʸ\, or over vowels (as in the Portuguese irmã, meaning "sister") to indicate nasality. When a tilde appears as an independent character, it usually means "approximately" (as in "we'll be there in ~ 30 minutes").
 
 ---
+###### *Aug 26, 2026*
+### [devolve](https://www.merriam-webster.com/dictionary/devolve)
+<small>*verb*</small> | <small>dih-VAHLV</small>
+
+To devolve is to gradually go from an advanced state to a less advanced state, or to pass something, such as responsibility or power, from one person or group to another at a lower level of authority.
+
+---
