@@ -3913,3 +3913,10 @@ Tilde refers to the mark ~ placed especially over the letter n (as in the Spanis
 To devolve is to gradually go from an advanced state to a less advanced state, or to pass something, such as responsibility or power, from one person or group to another at a lower level of authority.
 
 ---
+###### *Aug 28, 2026*
+### [cogent](https://www.merriam-webster.com/dictionary/cogent)
+<small>*adjective*</small> | <small>KOH-junt</small>
+
+Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe. It is used as a synonym of convincing. 
+
+---
