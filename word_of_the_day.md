@@ -3920,3 +3920,10 @@ To devolve is to gradually go from an advanced state to a less advanced state, o
 Cogent is a formal word that describes something that is very clear and easy for the mind to accept and believe. It is used as a synonym of convincing. 
 
 ---
+###### *Aug 29, 2026*
+### [kith](https://www.merriam-webster.com/dictionary/kith)
+<small>*noun*</small> | <small>KITH</small>
+
+Kith is an old-fashioned term that refers to familiar friends, neighbors, or relatives. It is often used in the phrase “kith and kin,” which means “friends and relatives.”
+
+---
