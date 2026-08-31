@@ -3927,3 +3927,10 @@ Cogent is a formal word that describes something that is very clear and easy for
 Kith is an old-fashioned term that refers to familiar friends, neighbors, or relatives. It is often used in the phrase “kith and kin,” which means “friends and relatives.”
 
 ---
+###### *Aug 31, 2026*
+### [gumption](https://www.merriam-webster.com/dictionary/gumption)
+<small>*noun*</small> | <small>GUMP-shun</small>
+
+Gumption refers to courage and confidence.
+
+---
